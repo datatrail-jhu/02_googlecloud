@@ -16,15 +16,12 @@ Google drive is a storage platform. It enables us to store any documents (includ
 While Google Drive is generous in terms of how much space users have on the cloud compared to similar products, the amount of storage you get is not unlimited. 
 
 ## Sharing files in Google Drive ##
-
 edit versus view
 
 ## How much storage? ##
 
+
 ## Trash ##
 
 
-
-
 quiz
-
