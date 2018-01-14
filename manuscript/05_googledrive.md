@@ -1,8 +1,7 @@
 # Google Drive #
-## what is Google Drive ##
-Google drive is a storage platform. It enables us to store any documents (including images, videos, and documents) online. Also, it can help us do work together on the same docuemts or slides at the same time. You can edit and store slides and documents on Google Drive.
 
-## how to use Google Drive ##
+Google drive is a storage service. It enables us to store any documents (including images, videos, and documents) online. Also, it can help us do work together on the same docuemts or slides at the same time. You can edit and store slides and documents on Google Drive. To use Google Drive follow the steps below.
+
 1. In Chrome go to [google drive](https://www.google.com/drive/)
 2. You will see picture like this
 
@@ -13,15 +12,41 @@ Google drive is a storage platform. It enables us to store any documents (includ
 
 ## Storage Limit ##
 
-While Google Drive is generous in terms of how much space users have on the cloud compared to similar products, the amount of storage you get is not unlimited. 
+While Google Drive is generous in terms of how much space users have on the cloud compared to similar products, the amount of storage you get is not unlimited. Your free account comes with 15GB of storage. You have to pay for the service is 15GB is not enough: $1.99 per month buys you 100GB of storage and $9.99 buys you 1TB of storage.
 
-## Sharing files in Google Drive ##
-edit versus view
+## Working Offline
 
-## How much storage? ##
+The advantage of Google Drive is that all your files are stored online so they are more secure and are accessible whenever you want them. However, sometimes when you don't have access to the internet you may want to access your files offline. You can easily make Google Drive files available offline on your Chromebook. Follow these steps:
+
+1. When online, install the [Google Docs Offline extension](https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi) by clicking on Add to Chrome. (If the button says "Added to Chrome," you’ve already installed the extension.)
+2. Go to [Google Drive settings](drive.google.com/drive/settings) and in the "Offline" area, check the box. It might take a few minutes for the offline access setting to turn on.
+
+You can work on your files offline now. Any changes will sync to Google Drive the next time your Chromebook connects to the Internet.
 
 
-## Trash ##
+## File Sharing
+One of the best advantages of Google Drive is the ability to share files and folders. You can share the files and folders that you store in Google Drive with anyone using their email address (preferrably their Gmail account). You can allow those people to edit, comment on, or only view the file. Editing gives more freedom to the person. They can change or even delete the file so be cautios. In order to share a file or folder right click on the file or folder and choose Share from the menu.
+
+[Share](./img/05_googledrive/05_share.png)
+
+In the window that opens, enter the email address of the person you want to share the file/folder with and choose whether the person can edit, comment, or only view the content.
+
+[Access](./img/05_googledrive/06_access.png)
+
+If for some reason you want to stop sharing a file/folder that you have already shared, right click on the file/folder and choose Share again. In the bottom right corner of the window that pops up, click on Advanced. There you'll see a list of people you've shared the files/folders with. On the righ of each name/email there is a cross, <img src="./img/05_googledrive/07_cross.png" width="150">. By clickin on it, you will remove access of that person to the file/folder. Click Save changes at the end.
 
 
-quiz
+## File Recovery ##
+
+
+## Security
+
+
+Your file security is crucial. That’s why every file in Drive stays safe no matter what happens to your smartphone, tablet or computer. Drive is encrypted using SSL, the same security protocol used on Gmail and other Google services.
+
+
+
+
+
+
+
