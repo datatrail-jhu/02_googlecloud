@@ -28,7 +28,7 @@ If you click on Done, the bookmark will be saved to the Bookmarks bar. Next time
 
 ![Tabs](./img/01_google_chrome/03_chrome_tabs.png)
 
-6. In-browser translation 
+6. In-browser translation uses Google's signature translation service, Google Translate. If you are browsing a webpage in a language that you don't know, Google, in most cases, suggests to translate the webpage for you to English. Google translate is not perfect but the outcome is definitely better than staring at the webpage trying to make sense of the language you don't know.
 
 
 
