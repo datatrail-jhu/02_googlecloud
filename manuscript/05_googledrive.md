@@ -49,9 +49,7 @@ If you're sure that you won't need the file forever, you can empty up some space
 
 ## Security
 
-
-Your file security is crucial. That’s why every file in Drive stays safe no matter what happens to your smartphone, tablet or computer. Drive is encrypted using SSL, the same security protocol used on Gmail and other Google services.
-
+Google Drive encrypts your data before storing it. Encryption is any method that converts data to to encoded version for security purposes. Drive is encrypted using SSL, the same security protocol used on Gmail and other Google services. However, you're responsible for securing your Google account. Our seggestion is to use Google's 2-step verification.
 
 
 
