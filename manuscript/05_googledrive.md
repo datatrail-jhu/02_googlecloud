@@ -12,7 +12,7 @@ Google drive is a storage service. It enables us to store any documents (includi
 
 ## Storage Limit ##
 
-While Google Drive is generous in terms of how much space users have on the cloud compared to similar products, the amount of storage you get is not unlimited. Your free account comes with 15GB of storage. You have to pay for the service is 15GB is not enough: $1.99 per month buys you 100GB of storage and $9.99 buys you 1TB of storage.
+While Google Drive is generous in terms of how much space users have on the cloud compared to similar products, the amount of storage you get is not unlimited. Your free account comes with 15GB of storage. You have to pay for the service is 15GB is not enough: $1.99 per month buys you 100GB of storage and $9.99 buys you 1TB of storage. Note that this 15GB is shared among all Google services such as Gmail and Drive. So part of this storage may be used by your email attachments.
 
 ## Working Offline
 
@@ -33,10 +33,18 @@ In the window that opens, enter the email address of the person you want to shar
 
 [Access](./img/05_googledrive/06_access.png)
 
-If for some reason you want to stop sharing a file/folder that you have already shared, right click on the file/folder and choose Share again. In the bottom right corner of the window that pops up, click on Advanced. There you'll see a list of people you've shared the files/folders with. On the righ of each name/email there is a cross, <img src="./img/05_googledrive/07_cross.png" width="150">. By clickin on it, you will remove access of that person to the file/folder. Click Save changes at the end.
+If for some reason you want to stop sharing a file/folder that you have already shared, right click on the file/folder and choose Share again. In the bottom right corner of the window that pops up, click on Advanced. There you'll see a list of people you've shared the files/folders with. On the righ of each name/email there is a cross, <img src="./img/05_googledrive/07_cross.png" width="150">. By clicking on it, you will remove access of that person to the file/folder. Click Save changes at the end.
 
 
-## File Recovery ##
+## File Recovery
+
+Deleting files on Google Drive is easy. On the web interface, right click on any file you would like to delete and choose Remove from the menu. You can delete multiple files or folders by selecting them all while holding the Ctrl key. Once selected, you can right click and remove them. 
+
+What if you mistakenly deleted a file by mistake or changed your mind? Recovering removed files is easy. Simply click on Trash on the left-hand menu in the web interface. In Trash you can see a list of all the files that you have previously removed. Select the one that you want to recover. You will then need to click on Restore as shown below. By doing this your file will be moved from Trash to its original location. 
+
+[Trash](./img/05_googledrive/04_trash.png)
+
+If you're sure that you won't need the file forever, you can empty up some space by selecting the file(s)/folder(s) and clicking on Delete forever. By doing so your files will be deleted forever from your drive and can't be recovered. Use it with caution!
 
 
 ## Security
