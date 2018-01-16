@@ -14,26 +14,21 @@ At the end you will know how to:
 5. Create a team calendar.
 
 
-## What is Google Calendar?
-
-Google Calendar is a time-management and scheduling calendar service developed by Google. It allows user to quickly schedule meetings and events, and get reminders about upcoming activities.
-Google Calendar is designed for teams, so it’s easy to share your schedule with others and create multiple calendars that you and your team can use together.
+Google Calendar is a time-management and scheduling calendar service developed by Google. It allows user to quickly schedule meetings and events, and get reminders about upcoming activities. Google Calendar is designed for teams, so it’s easy to share your schedule with others and create multiple calendars that you and your team can use together.
 
 
 ## Getting Started
 
-You can access Google Calendar by searching "Google Calendar" on Google.com. This is what it should look like when "Google Calendar" is typed in Google.com:
-
-![Result from searching "Google Calendar" in Google.com](./img/03_googlecalendar/00_search_googlecalendar.png)
+You can access Google Calendar by going to the link https://calendar.google.com/calendar/r?pli=1. If you are already logged in to your Google account, you will directly go to your calendar.
 
 If you click on "Google Calendar", it should lead to a screen similar to:
 
 ![Google Calendar screen](./img/03_googlecalendar/01_calendar.png)
+This shows a list of your events for the week. You can also look at a daily, monthly, or even annual view of your calendar by selecting the appropriate option on the top right part of your calendar.
 
 
-
-## Schedule events
-Start by clicking on the red button with the plus-sign in the bottom right you can create a new event. After pressing this red button a new page will be loaded where you can name the event, assign the event start time and end time and date, location, description, and additional customizable features. After inputting all the information the event can be created by pressing the "Save" button at the top.
+## Scheduling events
+To schedule an event, start by clicking on the red button with the plus-sign in the bottom right you can create a new event. After pressing this red button a new page will be loaded where you can name the event, assign the event start time and end time and date, location, description, and additional customizable features. After inputting all the information the event can be created by pressing the "Save" button at the top.
 
 ![Event settings](./img/03_googlecalendar/02_create_event.png)
 
