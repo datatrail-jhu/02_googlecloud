@@ -5,7 +5,7 @@ Google Calendar is a time-management and scheduling calendar service developed b
 
 ## Getting Started
 
-You can access Google Calendar by going to the link https://calendar.google.com/calendar/r?pli=1. If you are already logged in to your Google account, you will directly go to your calendar.
+You can access Google Calendar by going to the link https://calendar.google.com/calendar/r?pli=1. If you are already logged in to your Google account, you will go directly to your calendar.
 
 If you click on "Google Calendar", it should lead to a screen similar to:
 
