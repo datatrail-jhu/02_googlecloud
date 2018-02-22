@@ -5,6 +5,4 @@ Youtube as you know is a video-sharing website that allows users to upload and v
 
 
 
-
-
 YouTube earns advertising revenue from Google AdSense, a program which targets ads according to site content and audience. The vast majority of its videos are free to view, but there are exceptions, including subscription-based premium channels, film rentals, as well as YouTube Red, a subscription service offering ad-free access to the website and access to exclusive content made in partnership with existing users. As of February 2017, there are more than 400 hours of content uploaded to YouTube each minute, and one billion hours of content are watched on YouTube every day. As of August 2017, the website is ranked as the second-most popular site in the world by Alexa Internet, a web traffic analysis company.[1]
