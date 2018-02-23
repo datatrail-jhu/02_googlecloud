@@ -20,4 +20,18 @@ Note that you can filter your results when you search for specific keywords by c
 
 ![Filter Results](images/12_youtube/02_filter.png)
 
+
+## How to save videos to watch later
+
+Sometimes you find an interesting video on Youtube but you are too busy to watch it right away. There are a couple of options. You can either favorite a video by liking a video or you can add the video to a playlist as shown in the picture. 
+
+
+![Liking and Adding to Playlist](images/12_youtube/03_favorite.png)
+
+To find the videos you liked previously you can click on Liked videos on the left menu.
+
+
+![Liked Videos](images/12_youtube/04_liked_videos.png)
+
 Overall, Youtube will be one of the main places to go to for finding answers to your questions. There are millions of videos explaining things that you don't knwo of and you don't want to read pages and pages of text to figure them out. Sometimes a 5-minutes video does a better job.
+
