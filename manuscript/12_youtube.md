@@ -1,8 +1,23 @@
 # Youtube
 
-Youtube as you know is a video-sharing website that allows users to upload and view videos from home videos to music videos, movie trailers, and TV shows. Access to the content on Youtube is free but comes with commercials (you have to only pay to watch videos free of commercials). While for uploading videos you need to have a Google account, watching the content does not require any logging in. However, you need to loging if you want to rate or comment on a video.
+Youtube as you know is a video-sharing website that allows users to upload and view videos from home videos to music videos, movie trailers, and TV shows. Access to the content on Youtube is free but comes with commercials (you have to only pay to watch videos free of commercials). While for uploading videos you need to have a Google account, watching the content does not require any login. However, you need to login if you want to rate or comment on a video.
 
+To access Youtube on your Chromebook, click on the red button on the left side of the screen.
 
+![Youtube on your Chromebook](images/12_youtube/00_youtube_on_chromebook.png)
 
+Then you can search anything on Youtube now
 
-YouTube earns advertising revenue from Google AdSense, a program which targets ads according to site content and audience. The vast majority of its videos are free to view, but there are exceptions, including subscription-based premium channels, film rentals, as well as YouTube Red, a subscription service offering ad-free access to the website and access to exclusive content made in partnership with existing users. As of February 2017, there are more than 400 hours of content uploaded to YouTube each minute, and one billion hours of content are watched on YouTube every day. As of August 2017, the website is ranked as the second-most popular site in the world by Alexa Internet, a web traffic analysis company.[1]
+![Search Youtube](images/12_youtube/01_search_youtube.png)
+
+If you want to get more personalized results or create playlists you should login via your Google account. Youtube is good with learning about your preferences. So if you watch a video that is about how to import data into R, Youtube will suggest more videos related to those keywords to you. There are various ways you can find videos on Youtube.
+
+- By browsing channels via the link https://www.youtube.com/channels. You can browse channels from news and politics to technology.
+- By searching videos by typing keywords in the search bar. For instance if you type "What is data science?", Youtube will find around 22 million videos.
+- By viewing the charts ranking the Most Popular videos in any given category by clicking on the Trending icon on the left menu.
+
+Note that you can filter your results when you search for specific keywords by clicking on the Filter icon on the top right corner. For instance, you can filter based on the length of the video or the time it was posted.
+
+![Filter Results](images/12_youtube/02_filter.png)
+
+Overall, Youtube will be one of the main places to go to for finding answers to your questions. There are millions of videos explaining things that you don't knwo of and you don't want to read pages and pages of text to figure them out. Sometimes a 5-minutes video does a better job.
