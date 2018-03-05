@@ -1,6 +1,6 @@
 # Google Calendar
 
-Google Calendar is a time-management and scheduling calendar service developed by Google. It allows user to quickly schedule meetings and events, and get reminders about upcoming activities. Google Calendar is designed for teams, so itâ€™s easy to share your schedule with others and create multiple calendars that you and your team can use together.
+Google Calendar is a time-management and scheduling calendar service developed by Google. It allows user to quickly schedule meetings and events, and get reminders about upcoming activities. Google Calendar is designed for teams, so it'€™s easy to share your schedule with others and create multiple calendars that you and your team can use together.
 
 
 ## Getting Started

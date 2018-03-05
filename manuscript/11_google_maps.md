@@ -2,11 +2,11 @@
 
 You must have already worked with or at least heard of Google Maps. Google Maps is part of the lives of many people around the world: from finding the best route to a friend's house to finding the closest gas station to finding the best public transit to work.
 
-Google Maps is Google's mapping service that offers street maps, 360Â° panaoramic view of street, satellite images, and real-time traffic in roads. Maps is free and is accessible throuhg your Chrome browser (or any browser) or as an app on your phone. Let us see some of the main features of Google Maps:
+Google Maps is Google's mapping service that offers street maps, 360° panoramic view of street, satellite images, and real-time traffic in roads. Maps is free and is accessible through your Chrome browser (or any browser) or as an app on your phone. Let us see some of the main features of Google Maps:
 
 ## Getting Directions
 
-Whether you walk, ride your bike, drive, or use public transportation, you can use Google Maps to get directions. Google Maps finds a list of the shortest routes that have the least traffic. It also knows bus or subway times for most big cities and adjusts your travel time based on your mode of transpotation. You can review the route by checking out the turn-by-turn direction. In order to find direction to your destination, first enter your destination address and then select *Directions*. You can then enter your starting location (or leaving it as your current location). If you enter, Maps will suggest different routes to you (or just one route). By default, the shortest one is selected and other routes are shown in grey. You can easily change the mode of transportation by selecting different icons shown on the top left corner (car, train, etc.).
+Whether you walk, ride your bike, drive, or use public transportation, you can use Google Maps to get directions. Google Maps finds a list of the shortest routes that have the least traffic. It also knows bus or subway times for most big cities and adjusts your travel time based on your mode of transportation. You can review the route by checking out the turn-by-turn direction. In order to find direction to your destination, first enter your destination address and then select *Directions*. You can then enter your starting location (or leaving it as your current location). If you enter, Maps will suggest different routes to you (or just one route). By default, the shortest one is selected and other routes are shown in grey. You can easily change the mode of transportation by selecting different icons shown on the top left corner (car, train, etc.).
 
 ![Directions](./img/11_google_maps/00_direction.png)
 
@@ -17,19 +17,19 @@ You can also use this feature as a GPS navigator. If you are using Google Maps o
 These are some of the tips for a better search for an address on Google Maps:
 
 - You can type the full address: 456 Union Ave Baltimore MD
-- You can only type an intersection: Boradway and 23rd
+- You can only type an intersection: Broadway and 23rd
 - Yo can simply type the latitude and longitude coordinates of a location: 35.71883, 139.77652.
 - If you are logged in to your Google account and have your friend's name and address saved as a Google contact, you can just type their name: David Rhodes
 
 
 ## Finding Local Businesses
 
-Beyond directions, Google Maps can also help you with finding businesses, their reatings, their contact info, and their working hours. If you know the name of the business or public place, simply type the name and Maps will show the information regarding the place. If, however, you are just looking for a post office, or a bar without having any specific place in mind, you can just type in "post office" or "bar" and Maps will show a list of places near you using the GPS on your phone or your IP address on your Chromebook.
+Beyond directions, Google Maps can also help you with finding businesses, their ratings, their contact info, and their working hours. If you know the name of the business or public place, simply type the name and Maps will show the information regarding the place. If, however, you are just looking for a post office, or a bar without having any specific place in mind, you can just type in "post office" or "bar" and Maps will show a list of places near you using the GPS on your phone or your IP address on your Chromebook.
 
 These are some of the tips for a better search on Google Maps:
 
 - You can type a specific business: Burger King
 - You can narrow your results: Burger King in Brooklyn NY
 - You can be even more specific: Burger King in 11211
-- You can type a place with an approximate location: coffee near centeral park
+- You can type a place with an approximate location: coffee near Central Park
 

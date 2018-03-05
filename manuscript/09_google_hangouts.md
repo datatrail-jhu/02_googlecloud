@@ -18,7 +18,7 @@ When this button is clicked a new screen will pop-up as shown below. To invite p
 
 ![Video call pressed](images/09_google_hangouts/02_invite.png)
 
-During the video call if you press on the botton at the very right corner 5 settings will show up:
+During the video call if you press on the button at the very right corner 5 settings will show up:
 1. Share screen
 2. Fullscreen
 3. Chat
@@ -37,7 +37,7 @@ For more information or if you are unsure about anything you can always click on
 
 ## How to make a phone call in Hangouts?
 
-Suprisingly, you can also make a phone call in Google Hangouts. You can do this by firs pressing on the "Phone Call" button.
+Surprisingly, you can also make a phone call in Google Hangouts. You can do this by firs pressing on the "Phone Call" button.
 
 ![phone call button](images/09_google_hangouts/05_phone_call.png)
 
@@ -53,7 +53,7 @@ To message people who have Google accounts you can start by pressing on the "Mes
 
 Afterwards you can enter the names, email, op phone number of the people you want to message. When you find the correct person you can simply click on them and that will open a conversation box. You can also create a group chat by pressing on the "New group" button.
 
-## How to start a group converstion?
+## How to start a group conversation?
 
 In Hangouts, you can have a video/audio/text conversation with multiple people at the same time. You can have a conversation with up to 150 people and a video call with up to 25 people at the same time. Everyone who wants to join a group conversation must use Hangouts. In order to start a conversation with multiple people click on New conversation and then click on New group.
 
