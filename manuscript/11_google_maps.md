@@ -33,3 +33,9 @@ These are some of the tips for a better search on Google Maps:
 - You can be even more specific: Burger King in 11211
 - You can type a place with an approximate location: coffee near Central Park
 
+### Slides and Video
+
+![Google Maps](ADD VIDEO LINK)
+
+* [Slides](ADD SLIDES LINK)
+

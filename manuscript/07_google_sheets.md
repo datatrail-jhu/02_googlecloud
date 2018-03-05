@@ -25,3 +25,9 @@ This is an example of a simple task on Google Sheets. The third column is the su
 Similar to Google Docs, one of the most convenient features of Google Sheets and its applications is its auto save. As soon as the application detects a change in the file, it will periodically save without any prompt from the user. No more worries about losing progress when the power goes out, the internet disconnects, or even when a computer breaks down. 
 
 And again, you can work with Google Sheets in offline mode on your Chromebook. Refer to the instruction in the previous lesson for further detail.
+
+### Slides and Video
+
+![Google Sheets](ADD VIDEO LINK)
+
+* [Slides](ADD SLIDES LINK)

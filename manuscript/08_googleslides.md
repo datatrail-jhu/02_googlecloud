@@ -52,6 +52,13 @@ As you prepare your presentation, it's best to keep a few guidelines in mind:
 # Contributions
 [Shannon Ellis](https://github.com/ShanEllis), [Luke Zhu](https://github.com/lukezhu1)
 
+
+### Slides and Video
+
+![Google Slides](ADD VIDEO LINK)
+
+* [Slides](ADD SLIDES LINK)
+
 {quiz, id: quiz1}
 
 # Google Slides quiz

@@ -34,3 +34,8 @@ One last think. You can see more details about a channel such as list of members
 
 ![channel detail](images/10_slack/05_info.png)
 
+### Slides and Video
+
+![Slack](ADD VIDEO LINK)
+
+* [Slides](ADD SLIDES LINK)

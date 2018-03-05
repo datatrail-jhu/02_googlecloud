@@ -62,5 +62,9 @@ In Hangouts, you can have a video/audio/text conversation with multiple people a
 Now, you can enter or select the names, phone numbers, or email addresses of all the people you want to add to the group. When you're done, you can click on the check mark and click on Message or Video call.
 
 
+### Slides and Video
 
+![Google Hangouts](ADD VIDEO LINK)
+
+* [Slides](ADD SLIDES LINK)
 

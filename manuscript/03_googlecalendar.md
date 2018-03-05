@@ -31,3 +31,9 @@ After creating the event you can click on the event in the calendar and then pre
 In the notification section, choose how you want to be reminded about the event and add multiple notifications by clicking on "Add Notification" and remove a notification by clicking on the "x" sign next to the notification you want to remove.
 
 ![Notification section](./img/03_googlecalendar/04_add_notification.png)
+
+### Slides and Video
+
+![Google Calendar](ADD VIDEO LINK)
+
+* [Slides](ADD SLIDES LINK)

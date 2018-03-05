@@ -36,11 +36,13 @@ In the window that opens, enter the email address of the person you want to shar
 If for some reason you want to stop sharing a file/folder that you have already shared, right click on the file/folder and choose Share again. In the bottom right corner of the window that pops up, click on Advanced. There you'll see a list of people you've shared the files/folders with. On the right of each name/email there is a cross, <img src="./img/05_googledrive/07_cross.png" width="150">. By clicking on it, you will remove access of that person to the file/folder. Click Save changes at the end.
 
 
-## File Recovery
+## Deleting Files
 
 Deleting files on Google Drive is easy. On the web interface, right click on any file you would like to delete and choose Remove from the menu. You can delete multiple files or folders by selecting them all while holding the Ctrl key. Once selected, you can right click and remove them. 
 
-What if you mistakenly deleted a file by mistake or changed your mind? Recovering removed files is easy. Simply click on Trash on the left-hand menu in the web interface. In Trash you can see a list of all the files that you have previously removed. Select the one that you want to recover. You will then need to click on Restore as shown below. By doing this your file will be moved from Trash to its original location. 
+## File Recovery
+
+If you mistakenly delete a file or change your mind after deleting a file, recovering a removed file on Google Drive is easy. Simply click on Trash on the left-hand menu in the web interface. In Trash you can see a list of all the files that you have previously removed. Select the one that you want to recover. You will then need to click on Restore as shown below. By doing this your file will be moved from Trash to its original location. 
 
 [Trash](./img/05_googledrive/04_trash.png)
 
@@ -52,7 +54,11 @@ If you're sure that you won't need the file forever, you can empty up some space
 Google Drive encrypts your data before storing it. Encryption is any method that converts data to to encoded version for security purposes. Drive is encrypted using SSL, the same security protocol used on Gmail and other Google services. However, you're responsible for securing your Google account. Our suggestion is to use Google's 2-step verification.
 
 
+### Slides and Video
 
+![Google Drive](ADD VIDEO LINK)
+
+* [Slides](ADD SLIDES LINK)
 
 
 
