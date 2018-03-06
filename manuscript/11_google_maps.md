@@ -1,24 +1,24 @@
 # Google Maps
 
-You must have already worked with or at least heard of Google Maps. Google Maps is part of the lives of many people around the world: from finding the best route to a friend's house to finding the closest gas station to finding the best public transit to work.
+You may have already heard of or previously worked with Google Maps. Google Maps is helpful to people around the world: from finding the best route to a friend's house to finding the closest gas station or finding the best public transit route to work, Google Maps is incredibly helpful.
 
-Google Maps is Google's mapping service that offers street maps, 360° panoramic view of street, satellite images, and real-time traffic in roads. Maps is free and is accessible through your Chrome browser (or any browser) or as an app on your phone. Let us see some of the main features of Google Maps:
+Google Maps is Google's mapping service that offers street maps, 360° panoramic view of street, satellite images, and real-time traffic on roads. Maps is free and is accessible through your Chrome browser (or any browser) or as an app on your phone. Let us take a look at some of the main features of Google Maps:
 
 ## Getting Directions
 
-Whether you walk, ride your bike, drive, or use public transportation, you can use Google Maps to get directions. Google Maps finds a list of the shortest routes that have the least traffic. It also knows bus or subway times for most big cities and adjusts your travel time based on your mode of transportation. You can review the route by checking out the turn-by-turn direction. In order to find direction to your destination, first enter your destination address and then select *Directions*. You can then enter your starting location (or leaving it as your current location). If you enter, Maps will suggest different routes to you (or just one route). By default, the shortest one is selected and other routes are shown in grey. You can easily change the mode of transportation by selecting different icons shown on the top left corner (car, train, etc.).
+Whether you walk, ride your bike, drive, or use public transportation, you can use Google Maps to get directions. Google Maps finds a list of the shortest routes that have the least traffic. It also knows bus or subway times for most big cities and adjusts your travel time based on your mode of transportation. You can review the route by checking out the turn-by-turn direction. In order to find direction to your destination, first enter your destination address and then select *Directions*. You can then enter your starting location (or leaving it as your current location). Maps will then suggest different routes to you (or just one route). By default, the shortest one is selected and other routes are shown in grey. You can easily change the mode of transportation by selecting different icons shown on the top left corner (car, train, etc.).
 
 ![Directions](./img/11_google_maps/00_direction.png)
 
 If you click on OPTIONS, you can impose some restriction for the best route. For instance, if you are driving, you can choose to avoid tolls by clicking on OPTIONS and checking the box before Avoid Tolls.
 
-You can also use this feature as a GPS navigator. If you are using Google Maps on your phone, Maps will synchronize your current location with the route directions and uses automated voice to guide you step by step along your route. 
+You can also use this feature as a GPS navigator. If you are using Google Maps on your phone, Maps will synchronize your current location with the route directions and use automated voice to guide you step by step along your route. 
 
 These are some of the tips for a better search for an address on Google Maps:
 
 - You can type the full address: 456 Union Ave Baltimore MD
 - You can only type an intersection: Broadway and 23rd
-- Yo can simply type the latitude and longitude coordinates of a location: 35.71883, 139.77652.
+- You can simply type the latitude and longitude coordinates of a location: 35.71883, 139.77652.
 - If you are logged in to your Google account and have your friend's name and address saved as a Google contact, you can just type their name: David Rhodes
 
 

@@ -1,8 +1,8 @@
 # Google Hangouts
 
-Google Hangouts is a communication platform by Google and includes tools such as video chat, instant messaging, and SMS. Google Hangouts is mostly famous for the video conferencing feature. You can video chat with up to 10 people at the same time and instant message a team of up to 150 people. Google has added features from its previous services Google Voice and Google Talk to Google Hangouts. Google Hangouts is a good alternative to Skype.
+Google Hangouts is a communication platform by Google and includes tools such as video chat, instant messaging, and text messaging (SMS). Google Hangouts is also famous for its video conferencing feature. You can video chat with up to 10 people at the same time and instant message a team of up to 150 people. Since Google has added features from its previous services Google Voice and Google Talk to Google Hangouts, Google Hangouts is a good alternative to Skype and a great platform for communicating with others.
 
-One of the nice features of Hangouts is that it syncs automatically across devices, i.e. you can start a Hangouts on your phone and continue your chat on another device such as your laptop. 
+One of the nice features of Hangouts is that it syncs automatically across devices. This means you can start a Hangouts on your phone and continue your chat on another device, such as your laptop. 
 
 ## How to start a video chat?
 

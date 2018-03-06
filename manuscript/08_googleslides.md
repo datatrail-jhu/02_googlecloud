@@ -1,11 +1,11 @@
 # Google Slides
 
 
-One of the benefits to using Google Drive is its suite of document editors, completely free to use and accessible anywhere online. One of Drive's primary applications is the web-based slide presentation editor, Google Slides. Google Slides allows users to format and edit slide presentations. Other users can edit the slides simultaneously. It is compatible with Microsoft Powerpoint files (.pptx and .ppt).  
+Another of Drive's primary applications is the web-based slide presentation editor, Google Slides. Google Slides allows users to format and edit slide presentations. Other users can edit the slides simultaneously. It is compatible with Microsoft Powerpoint files (.pptx and .ppt).  
 <img src="./img/08_googleslides/00_googleslides.png" width="300">
 
 # Getting Started
-Google Slides can be opened multiple ways. The simplest option for starting a new document is going to the Google Slides URL https://slides.google.com. Under "Start a new presentation" select the blank option or any of the templates available. 
+Google Slides can be opened in a number of different ways. The simplest option for starting a new document is going to the Google Slides URL https://slides.google.com. Under "Start a new presentation," select the blank option or any of the templates available. 
 ![Google Slides Page](./img/08_googleslides/01_slidesstart.png)
 
 Clicking on "TEMPLATE GALLERY" will expand the template options to include "Personal," "Work," and "Education" templates. If the template bar is not readily visible in the given URL, it can be enabled by clicking the top left menu button ![Docs Menu Button](./img/08_googleslides/02_template.png), and click on the checkbox under "Templates."
@@ -45,8 +45,7 @@ From here you can begin to:
 
 As you prepare your presentation, it's best to keep a few guidelines in mind:
 1. Minimize the number of words you put on any slide.
-2. Whenever possible, use pictures instead of words.
-3. Make sure images and text are as large as possible.
+	3. Make sure images and text are as large as possible.
 4. Use consistent text font and colors throughout slideshow.
 
 # Contributions
