@@ -30,7 +30,12 @@ For private messages, you should click on the plus sign in front of Direct Messa
   
 Then find the person you want to privately message and click on Go. Whatever you type in the window that appears in front of you can only be seen by the person you selected. Note that you can send private messages to a group of people.
 
-One last think. You can see more details about a channel such as list of members, highlights, pinned items, etc. by cliking on the information button in the top right corner.
+One last think. You can see more details about a channel such as list of members, highlights, pinned items, etc. by clicking on the information button in the top right corner.
 
 ![channel detail](images/10_slack/05_info.png)
 
+### Slides and Video
+
+![Slack](ADD VIDEO LINK)
+
+* [Slides](ADD SLIDES LINK)

@@ -1,7 +1,7 @@
 # Google Slides
 
 
-One of the benefits to using Google Drive is its suite of document editors, completely free to use and accessible anywhere online. One of Drive's primary applications is the web-based slide presentation editor, Google Slides. Google Slides allows users to format and edit slide presentations. Other uers can edit the slides simultaneously. It is compatible with Microsoft Powerpoint files (.pptx and .ppt).  
+One of the benefits to using Google Drive is its suite of document editors, completely free to use and accessible anywhere online. One of Drive's primary applications is the web-based slide presentation editor, Google Slides. Google Slides allows users to format and edit slide presentations. Other users can edit the slides simultaneously. It is compatible with Microsoft Powerpoint files (.pptx and .ppt).  
 <img src="./img/08_googleslides/00_googleslides.png" width="300">
 
 # Getting Started
@@ -16,7 +16,7 @@ Assuming that you are logged into your Google account, underneath the templates 
 ![Google Drive menu bar](./img/08_googleslides/09_drivebar.png)
 
 # Guide to using Google Slides
-One of the most convenient features of Google Drive and its applications is AutoSave. As soon as the application detects a change in the file, it will periodically save without any prompt from the user. No more worries about losing progress when the power goes out, the Internet disconnects, or even when a computer breaks down. Everything is on the Internet and saving autmoatically!
+One of the most convenient features of Google Drive and its applications is AutoSave. As soon as the application detects a change in the file, it will periodically save without any prompt from the user. No more worries about losing progress when the power goes out, the Internet disconnects, or even when a computer breaks down. Everything is on the Internet and saving automatically!
 
 Google Slides is very similar to [Microsoft Powerpoint](https://products.office.com/en-us/powerpoint). Most tasks that can be done in PowerPoint can also be done with Google Slides. From simple text addition and slide transitions to importing graphics and embedding [YouTube](https://www.youtube.com/) videos, all of this is possible in Google Slides. There are more in-depth guides on [adding images](https://www.gcflearnfree.org/googleslides/adding-pictures-and-shapes/1/), including [transitions and animations](https://www.gcflearnfree.org/googleslides/adding-transitions-and-animations/1/), and changing the [master template ](https://www.gcflearnfree.org/googleslides/editing-master-slides-and-layouts/1/) of your presentation.
 
@@ -51,6 +51,13 @@ As you prepare your presentation, it's best to keep a few guidelines in mind:
 
 # Contributions
 [Shannon Ellis](https://github.com/ShanEllis), [Luke Zhu](https://github.com/lukezhu1)
+
+
+### Slides and Video
+
+![Google Slides](ADD VIDEO LINK)
+
+* [Slides](ADD SLIDES LINK)
 
 {quiz, id: quiz1}
 

@@ -33,5 +33,10 @@ To find the videos you liked previously you can click on Liked videos on the lef
 
 ![Liked Videos](images/12_youtube/04_liked_videos.png)
 
-Overall, Youtube will be one of the main places to go to for finding answers to your questions. There are millions of videos explaining things that you don't knwo of and you don't want to read pages and pages of text to figure them out. Sometimes a 5-minutes video does a better job.
+Overall, Youtube will be one of the main places to go to for finding answers to your questions. There are millions of videos explaining things that you don't know of and you don't want to read pages and pages of text to figure them out. Sometimes a 5-minutes video does a better job.
 
+### Slides and Video
+
+![YouTube](ADD VIDEO LINK)
+
+* [Slides](ADD SLIDES LINK)

@@ -3,7 +3,7 @@
 One of the benefits to using Google Drive is its suite of document editors, completely free to use and accessible anywhere online. One of Drive's primary applications is the web-based word document and text editor, Google Docs, which allows users to format and edit word documents with other users simultaneously. It is compatible with Microsoft Word files (.docx and older) and text files (.txt).  
 <img src="./img/06_googledocs/00_icon.png" width="100">
 
-Google Docs can be opened multiple ways. The simplest option for starting a new document is going to the Google Docs URL https://docs.google.com. Under "Start a new document" select the blank option or any of the templates available. 
+Google Docs can be opened in multiple ways. The simplest option for starting a new document is going to the Google Docs URL https://docs.google.com. Under "Start a new document" select the blank option or any of the templates available. 
 ![Google Docs Page](./img/06_googledocs/01_list.png)
 
 Clicking on "TEMPLATE GALLERY" will expand the template options to include "Resumes," "Letters," "Personal," "Work," and "Education" templates. If the template bar is not readily visible in the given URL, it can be enabled by clicking the top left menu button ![Docs Menu Button](./img/06_googledocs/02_icon.png), and click on the checkbox under "Templates."
@@ -29,6 +29,12 @@ To turn on offline mode:
 You can also download Google Docs documents in most common formats. You should click on "File" in the top menu and then select "Download as." You can then choose the format you want among the options including .pdf, .docx, .rtf, etc.
 
 For sharing documents you can follow the procedure we learned [here](./05_googledrive.md).
+
+### Slides and Video
+
+![Google Docs](ADD VIDEO LINK)
+
+* [Slides](ADD SLIDES LINK)
 
 {quiz, id: quiz_googlecloud_06_01}
 ? Which one of the following is NOT true about Google Docs?
