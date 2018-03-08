@@ -21,7 +21,7 @@ Note that you can filter your results when you search for specific keywords by c
 ![Filter Results](images/12_youtube/02_filter.png)
 
 
-## How to save videos to watch later
+### How to save videos to watch later
 
 Sometimes you find an interesting video on Youtube but you are too busy to watch it right away. There are a couple of options. You can either favorite a video by liking a video or you can add the video to a playlist as shown in the picture. 
 

@@ -14,11 +14,11 @@ Simply accept the invitation by clicking join. Slack needs some information befo
 Now a passwords. Once again, I would advise you to choose a password that is different from your other passwords for security reasons. 
 
 
-## How to Access Slack?
+### How to Access Slack?
  
 Slack can be accessed in two ways: Online at slack.com/signin, or by downloading their mobile or their Chrome extension. The choice is yours. There is really not much difference. You can download the desktop app [here](https://chrome.google.com/webstore/detail/slack/jeogkiiogjbmhklcnbgkdcjoioegiknm?hl=en-US). There is really no need to download the extension. You can enjoy Slack by going to their website.
  
-## How to Use Slack?
+### How to Use Slack?
  
 Slack works like any other messaging service. There are multiple channels. A large, general channel that can reach every employee using slack, team-sized channels that allows people who are working on a project together to discuss that project, and private messaging. You will automatically be invited to the general channel, and the moderator will assign you to the channel for your project. Once there, you can type in comments, and send them in.
  
