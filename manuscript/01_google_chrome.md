@@ -30,6 +30,11 @@ If you click on Done, the bookmark will be saved to the Bookmarks bar. Next time
 
 6. In-browser translation uses Google's signature translation service, Google Translate. If you are browsing a webpage in a language that you don't know, Google, in most cases, suggests to translate the webpage for you to English. Google translate is not perfect but the outcome is definitely better than staring at the webpage trying to make sense of the language you don't know.
 
+For instance if you visit a website that is primariliy in a language other than your browser language, you will see a notification on top of the Chrome window that suggests tranalation for the website content. If you go to BBC in Japanses at http://www.bbc.com/japanese, Chrome will suggest to translate the whole page for you to English.
+
+![Google Translate on Chrome](./img/01_google_chrome/04_chrome_translate.png.png)
+
+
 
 ### Slides and Video
 
