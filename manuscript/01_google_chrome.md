@@ -6,7 +6,7 @@ While other web browsers such as Safari, Microsoft Edge (formerly Internet Explo
 
 ![Google Chrome](./img/01_google_chrome/00_chrome.png)
 
-## Why Google Chrome
+### Why Google Chrome
 
 Google Chrome offers features that are unique in addition to features that most modern browsers offer. Below we investigate some of these features:
 

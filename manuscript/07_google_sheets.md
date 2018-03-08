@@ -13,7 +13,7 @@ In addition, you can open spreadsheets through Google Drive through going to the
 ![Menu](./img/07_google_sheets/02_sheets.png)
 
 
-## Using Google Sheets
+### Using Google Sheets
 
 Google Sheets operates very similarly to Microsoft Excel sans a couple of Excel's more advanced features. However, most tasks can be done with Google Sheets, including large table and data manipulations, graphs and visualizations. There are more in-depth guides on [modifying columns and rows](https://www.gcflearnfree.org/googlespreadsheets/modifying-columns-rows-and-cells/1/), [formatting cells](https://www.gcflearnfree.org/googlespreadsheets/formatting-cells/1/), and [working with multiple sheets](https://www.gcflearnfree.org/googlespreadsheets/working-with-multiple-sheets/1/).
 

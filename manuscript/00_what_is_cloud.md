@@ -5,11 +5,11 @@ It's hard to find data scientists who don't work with the _cloud_ and cloud comp
 Cloud storage refers to data/document storage on the web rather than your local computer. If you share documents via Dropbox, have your documents stores on Google Drive, or store all your pictures on iCloud or Google Photos, you are using the _cloud_. Using the Cloud is like having an external hard drive that you don't ever see and can't acutally hold in your hands.  
 
 
-## Cloud computing
+### Cloud computing
 For data analysis, Cloud computing uses applications and software that run on shared data centers rather than running on the computer sitting in front of you. Cloud computing has changed the way we think about data analytics especially when it comes to working with big data. We no longer need to spend thousands of dollars to own high-capacity computers to do big data analytics. Your local computer no longer has to do all the heavy lifting. Instead, the network of computers (from Amazon, IBM, Microsoft among many others) will do the job instead. Your computer will only need to run the interface software, which in most cases is just your Internet browser. In future lessons we will study cloud-based data analytics in details.
 
 
-# Why should I use the cloud?
+### Why using the cloud?
 
 Well, the main advantage of the cloud is that you can access your files everywhere even if you don't have your personal computer with you. 
 
@@ -19,7 +19,7 @@ The third advantage that comes with cloud computing is more power as we initiall
 
 Lastly, when you run software locally you constantly need to maintain them but making sure they're up and running and are up to date. You must download and install the newest version of the software or even pay for each new edition. Cloud storage and computing puts the responsibility on the service provider. Service providers make sure the software is well-maintained and running optimally.
 
-# What are the disadvantages?
+### What are the disadvantages?
 
 Maybe the most obvious problem with cloud computing is that you always need an internet connection to use storage and computing power from the cloud. 
 

@@ -12,7 +12,7 @@ After inputting your email and password you will be able to see your inbox.
 
 ![Main page](images/02_gmail/01_main_page.png)
 
-## Composing and Sending Emails
+### Composing and Sending Emails
 
 You can send and email by first pressing the "Compose" button on the top left corner.
 
@@ -57,7 +57,7 @@ After you are done writing your email just press the "Send" button and you are d
 
 ![Send button](images/02_gmail/11_send.png)
 
-## Replying to an email
+### Replying to an email
 
 First find the email you want to reply to on your inbox and click on it. To reply to that email scroll all the way down the email
 until you find a box similar to the one below and simply just click on it. After writing your response to the email click the send
@@ -65,7 +65,7 @@ button and you are done!!
 
 ![Reply box](images/02_gmail/12_reply_box.png)
 
-## Find emails
+### Find emails
 
 To find emails in your inbox you can type on the search box the subject of the email, the name of the person who sent the email, or
 the content of the email. The search box looks like the image below and is located at the top of the screen.
