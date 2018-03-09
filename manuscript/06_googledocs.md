@@ -28,6 +28,8 @@ To turn on offline mode:
 
 You can also download Google Docs documents in most common formats. You should click on "File" in the top menu and then select "Download as." You can then choose the format you want among the options including .pdf, .docx, .rtf, etc.
 
+![Download documents](./img/06_googledocs/09_download_doc.png)
+
 For sharing documents you can follow the procedure we learned [here](./05_googledrive.md).
 
 ### Slides and Video
@@ -43,3 +45,4 @@ a) It's free.
 b) It autosaves the most recent changes.
 c) You can export files as .docx and .pdf.
 D) It only works online.
+{/quiz}

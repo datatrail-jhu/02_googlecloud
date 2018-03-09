@@ -49,6 +49,12 @@ As you prepare your presentation, it's best to keep a few guidelines in mind:
 3. Make sure images and text are as large as possible.
 4. Use consistent text font and colors throughout slideshow.
 
+### Presenting Your Slides
+
+Once you have created all the slides, you can easily present them. On the right-hand corner of the window, click on Present and your slides will be in full-screen mode ready to be presented.
+
+![Presentation Mode](./img/08_googleslides/17_present.png)
+
 
 ### Slides and Video
 

@@ -20,6 +20,12 @@ Note that you can filter your results when you search for specific keywords by c
 
 ![Filter Results](images/12_youtube/02_filter.png)
 
+For our purposes, here is a list of some of the most popular Youtube channels on data science.
+
+
+![Data science channels](images/12_youtube/05_data_sci_channels.png.png)
+
+
 
 ### How to save videos to watch later
 

@@ -11,7 +11,7 @@ Simply accept the invitation by clicking join. Slack needs some information befo
 ![screenshot 2017-06-23 at 12 11 54 am](images/10_slack/01_signup.png)
 
  
-Now a passwords. Once again, I would advise you to choose a password that is different from your other passwords for security reasons. 
+Now, enter your password. Once again, it's better to choose a password that is different from your other passwords for security reasons. 
 
 
 ### How to Access Slack?
@@ -28,9 +28,9 @@ For private messages, you should click on the plus sign in front of Direct Messa
  
 ![direct message](images/10_slack/04_pm.png)
   
-Then find the person you want to privately message and click on Go. Whatever you type in the window that appears in front of you can only be seen by the person you selected. Note that you can send private messages to a group of people.
+Then find the person you want to privately message and click on Go. Whatever you type in the window that appears in front of you can only be seen by the person you selected. Note that you can send private messages to a group of people. Sometimes also you post something in the public channels but want to get someone's attention. In this case you just use @persons_user_name and they will get a notification about your post.
 
-One last think. You can see more details about a channel such as list of members, highlights, pinned items, etc. by clicking on the information button in the top right corner.
+One last thing. You can see more details about a channel such as list of members, highlights, pinned items, etc. by clicking on the information button in the top right corner.
 
 ![channel detail](images/10_slack/05_info.png)
 
