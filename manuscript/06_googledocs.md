@@ -9,7 +9,7 @@ Google Docs can be opened in multiple ways. The simplest option for starting a n
 Clicking on "TEMPLATE GALLERY" will expand the template options to include "Resumes," "Letters," "Personal," "Work," and "Education" templates. If the template bar is not readily visible in the given URL, it can be enabled by clicking the top left menu button ![Docs Menu Button](./img/06_googledocs/02_icon.png), and click on the checkbox under "Templates."
 ![Google DocsTemplates Gallery](./img/06_googledocs/03_view.png)
 
-Assuming that you are logged into your Google account, underneath the templates you will see the past documents that are saved on your Google Drive under the "Recent documents". Each of them can be opened and edited by clicking on them, which will redirect the current window to the old word document. The options along the top will allow sorting by owner through a dropdown list ![ownership option](./img/06_googledocs/04_owned.png), a list ![list view](./img/06_googledocs/05_icon.png) versus a grid view option ![grid view](./img/06_googledocs/06_icon.png), sort by date modified or by title ![A-Z](./img/06_googledocs/07_az.png), or the file picker with search functionality ![File picker](./img/06_googledocs/08_foldericon.png). In addition, you can open word documents through Google Drive, either through going to the URL https://drive.google.com or opening your file manager and opening the Google Drive tab on the left hand menu. Once in Google Drive, you can click on "New" and select "Google Docs" from the menu.
+Assuming that you are logged into your Google account, underneath the templates you will see the past documents that are saved on your Google Drive under the "Recent documents". Each of them can be opened and edited by clicking on them, which will redirect the current window to the old word document. The options along the top will allow sorting by owner through a dropdown list ![Ownership option](./img/06_googledocs/04_owned.png), a list ![List view on Google Docs](./img/06_googledocs/05_icon.png) versus a grid view option ![Grid view on Google Docs](./img/06_googledocs/06_icon.png), sort by date modified or by title ![A-Z](./img/06_googledocs/07_az.png), or the file picker with search functionality ![File picker](./img/06_googledocs/08_foldericon.png). In addition, you can open word documents through Google Drive, either through going to the URL https://drive.google.com or opening your file manager and opening the Google Drive tab on the left hand menu. Once in Google Drive, you can click on "New" and select "Google Docs" from the menu.
 ![Google Drive menu bar](./img/06_googledocs/10_drivehome.png)
 
 ### Guide to using Google Docs
@@ -28,7 +28,7 @@ To turn on offline mode:
 
 You can also download Google Docs documents in most common formats. You should click on "File" in the top menu and then select "Download as." You can then choose the format you want among the options including .pdf, .docx, .rtf, etc.
 
-![Download documents](./img/06_googledocs/09_download_doc.png)
+![Downloading documents](./img/06_googledocs/09_download_doc.png)
 
 For sharing documents you can follow the procedure we learned [here](./05_googledrive.md).
 
@@ -38,11 +38,15 @@ For sharing documents you can follow the procedure we learned [here](./05_google
 
 * [Slides](ADD SLIDES LINK)
 
-{quiz, id: quiz_googlecloud_06_01}
+{quiz, id: quiz_06_googledocs}
+
+### Google Docs quiz
+
 ? Which one of the following is NOT true about Google Docs?
 
 a) It's free.
 b) It autosaves the most recent changes.
 c) You can export files as .docx and .pdf.
 D) It only works online.
+
 {/quiz}

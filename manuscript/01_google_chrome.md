@@ -26,7 +26,7 @@ If you click on Done, the bookmark will be saved to the Bookmarks bar. Next time
 
 5. Tabbed browsing is another feature that most browsers have. It allows you to browse the web and view multiple pages in one browser window instead of opening multiple windows. To open a new tab, simply press Ctrl+T.
 
-![Tabs](./img/01_google_chrome/03_chrome_tabs.png)
+![Tabs on Google Chrome](./img/01_google_chrome/03_chrome_tabs.png)
 
 6. In-browser translation uses Google's signature translation service, Google Translate. If you are browsing a webpage in a language that you don't know, Google, in most cases, suggests to translate the webpage for you to English. Google translate is not perfect but the outcome is definitely better than staring at the webpage trying to make sense of the language you don't know.
 
@@ -35,14 +35,24 @@ For instance if you visit a website that is primariliy in a language other than 
 ![Google Translate on Chrome](./img/01_google_chrome/04_chrome_translate.png.png)
 
 
-
 ### Slides and Video
 
 ![Google Chrome](ADD VIDEO LINK)
 
 * [Slides](ADD SLIDES LINK)
 
+{quiz, id: quiz_01_google_chrome}
 
+### Google Chrome quiz
+
+? Which of the following is true about Google Chrome browser?
+
+a) It has the advantage of tabbed browsing
+B) You can only use Google Chrome on a Chromebook
+c) It allows for in-browser translation
+d) It allows for private browsing
+
+{/quiz}
 
 
 

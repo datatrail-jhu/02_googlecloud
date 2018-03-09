@@ -12,11 +12,11 @@ Like any other Google service, you need a Google account in order to use Hangout
 
 To initiate a video call simply click on the "Video Call" button located at the center of the screen.
 
-![video call button](images/09_google_hangouts/01_start.png)
+![Video call button](images/09_google_hangouts/01_start.png)
 
 When this button is clicked a new screen will pop-up as shown below. To invite people to your google hangouts you can either search them by their names or emails or you can press the "Copy Link To Share" button and send them an invite link. 
 
-![Video call pressed](images/09_google_hangouts/02_invite.png)
+![Inviting people](images/09_google_hangouts/02_invite.png)
 
 During the video call if you press on the button at the very right corner 5 settings will show up:
 1. Share screen
@@ -27,7 +27,7 @@ During the video call if you press on the button at the very right corner 5 sett
 
 If you want to share your screen with people currently in your hangout simply click on the "Share Screen" option and choose either to share your entire screen or just one specific application window that you have open.
 
-![share screen options](images/09_google_hangouts/03_share_screen.png)
+![Share screen options](images/09_google_hangouts/03_share_screen.png)
 
 You can stop sharing your screen by pressing on the "STOP" button located at the top of the screen. If you want to make the video call into fullscreen you can press the "Fullscreen" button on the same menu. Sometimes you need to type a message to everyone in the video call. You can do this by pressing the "Chat" button that will show a pop-up as the one shown below on the lower left corner.
 
@@ -39,11 +39,11 @@ For more information or if you are unsure about anything you can always click on
 
 Surprisingly, you can also make a phone call in Google Hangouts. You can do this by firs pressing on the "Phone Call" button.
 
-![phone call button](images/09_google_hangouts/05_phone_call.png)
+![Phone call button](images/09_google_hangouts/05_phone_call.png)
 
 To enter a phone number you can press on the "New Conversation" button on the left menu. After entering the number you can select what country you want to call and simply press "Call".
 
-![entering number](images/09_google_hangouts/06_make_call.png)
+![Making calls](images/09_google_hangouts/06_make_call.png)
 
 ### How to send a message in Hangouts?
 
@@ -67,4 +67,24 @@ Now, you can enter or select the names, phone numbers, or email addresses of all
 ![Google Hangouts](ADD VIDEO LINK)
 
 * [Slides](ADD SLIDES LINK)
+
+{quiz, id: quiz_09_hangouts}
+
+### Google Sheets quiz
+
+? What is the maximum number of people you can video chat with in Google Hangouts?
+
+a) 2
+b) 5
+C) 10
+d) Unlimited
+
+? Which one of the following is NOT a feature of Google Hangouts?
+
+a) Audio conversations
+b) Video conversations
+c) Text conversations
+D) Sending large attachments
+
+{/quiz}
 

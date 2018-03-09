@@ -4,11 +4,11 @@ Slack is a messaging platform designed to help you communicate with others in yo
 
 We assume you already have a Slack account. To join Slack team, you need an invitation similar to the one below.
 
-![invitation](images/10_slack/00_invitation.png)
+![Invitation screen on Slack](images/10_slack/00_invitation.png)
 
 Simply accept the invitation by clicking join. Slack needs some information before moving on. Enter your first and last name, along with your email in the required fields.
 
-![screenshot 2017-06-23 at 12 11 54 am](images/10_slack/01_signup.png)
+![Sign up screen on Slack](images/10_slack/01_signup.png)
 
  
 Now, enter your password. Once again, it's better to choose a password that is different from your other passwords for security reasons. 
@@ -22,20 +22,33 @@ Slack can be accessed in two ways: Online at slack.com/signin, or by downloading
  
 Slack works like any other messaging service. There are multiple channels. A large, general channel that can reach every employee using slack, team-sized channels that allows people who are working on a project together to discuss that project, and private messaging. You will automatically be invited to the general channel, and the moderator will assign you to the channel for your project. Once there, you can type in comments, and send them in.
  
-![screenshot 2017-06-23 at 12 11 54 am](images/10_slack/03_channel.png)
+![Sample channel on Slack](images/10_slack/03_channel.png)
  
 For private messages, you should click on the plus sign in front of Direct Messages.
  
-![direct message](images/10_slack/04_pm.png)
+![Direct messaging on Slack](images/10_slack/04_pm.png)
   
 Then find the person you want to privately message and click on Go. Whatever you type in the window that appears in front of you can only be seen by the person you selected. Note that you can send private messages to a group of people. Sometimes also you post something in the public channels but want to get someone's attention. In this case you just use @persons_user_name and they will get a notification about your post.
 
 One last thing. You can see more details about a channel such as list of members, highlights, pinned items, etc. by clicking on the information button in the top right corner.
 
-![channel detail](images/10_slack/05_info.png)
+![Channel detail](images/10_slack/05_info.png)
 
 ### Slides and Video
 
 ![Slack](ADD VIDEO LINK)
 
 * [Slides](ADD SLIDES LINK)
+
+{quiz, id: quiz_10_slack}
+
+### Slack quiz
+
+? Which one of the following is not a feature in Slack?
+
+a) Private messaging
+b) private channels
+C) Audio chatting
+d) Seinding images
+
+{/quiz}

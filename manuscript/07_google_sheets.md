@@ -10,7 +10,7 @@ Clicking on "TEMPLATE GALLERY" will expand the template options to include "Pers
 Assuming that you are logged into your Google account, underneath the templates you will see the past spreadsheets that are saved on your Google Drive. Each of them can be opened and edited by clicking on them, which will redirect the current window to the old spreadsheet. The options along the top will allow sorting by owner through a dropdown list. 
 
 In addition, you can open spreadsheets through Google Drive through going to the URL https://drive.google.com and clicking on NEW and selecting Google Sheets. 
-![Menu](./img/07_google_sheets/02_sheets.png)
+![Accessing Google Sheets through Google Drive](./img/07_google_sheets/02_sheets.png)
 
 
 ### Using Google Sheets
@@ -19,7 +19,7 @@ Google Sheets operates very similarly to Microsoft Excel sans a couple of Excel'
 
 This is an example of a simple task on Google Sheets. The third column is the sum of the first two columns.
 
-![Example](./img/07_google_sheets/03_example.gif)
+![Example Google Sheet](./img/07_google_sheets/03_example.gif)
 
 
 Similar to Google Docs, one of the most convenient features of Google Sheets and its applications is its auto save. As soon as the application detects a change in the file, it will periodically save without any prompt from the user. No more worries about losing progress when the power goes out, the internet disconnects, or even when a computer breaks down. 
@@ -31,3 +31,16 @@ And again, you can work with Google Sheets in offline mode on your Chromebook. R
 ![Google Sheets](ADD VIDEO LINK)
 
 * [Slides](ADD SLIDES LINK)
+
+{quiz, id: quiz_07_google_sheets}
+
+### Google Sheets quiz
+
+? Spreadsheets created in Google Sheets can be downloaded as which of the following formats?
+
+a) .xlsx
+b) .pdf
+c) .csv
+d) All of the above
+
+{/quiz}

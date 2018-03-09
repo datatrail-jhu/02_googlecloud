@@ -6,6 +6,7 @@ Cloud storage refers to data/document storage on the web rather than your local 
 
 
 ### Cloud computing
+
 For data analysis, Cloud computing uses applications and software that run on shared data centers rather than running on the computer sitting in front of you. Cloud computing has changed the way we think about data analytics especially when it comes to working with big data. We no longer need to spend thousands of dollars to own high-capacity computers to do big data analytics. Your local computer no longer has to do all the heavy lifting. Instead, the network of computers (from Amazon, IBM, Microsoft among many others) will do the job instead. Your computer will only need to run the interface software, which in most cases is just your Internet browser. In future lessons we will study cloud-based data analytics in details.
 
 
@@ -30,4 +31,19 @@ There are also concerns with the privacy and security of your data stored remote
 ![What is the Cloud?](ADD VIDEO LINK)
 
 * [Slides](ADD SLIDES LINK)
+
+
+{quiz, id: quiz_00_what_is_cloud}
+
+### What is the Cloud quiz
+
+? Which one of the following is NOT an advantage of using cloud-based storage or computing?
+
+a) Remote computers are more powerful
+B) You need access to interent to access your files
+c) You won't lose your files if you lose your computer
+d) You can access your files everywhere
+
+{/quiz}
+
 

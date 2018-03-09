@@ -9,10 +9,10 @@ Google Slides can be opened multiple ways. The simplest option for starting a ne
 ![Google Slides Page](./img/08_googleslides/01_slidesstart.png)
 
 Clicking on "TEMPLATE GALLERY" will expand the template options to include "Personal," "Work," and "Education" templates. If the template bar is not readily visible in the given URL, it can be enabled by clicking the top left menu button ![Docs Menu Button](./img/08_googleslides/02_template.png), and click on the checkbox under "Templates."
-![Google DocsTemplates Gallery](./img/08_googleslides/03_templategallery.png)
+![Google Slides Templates Gallery](./img/08_googleslides/03_templategallery.png)
 
-Assuming that you are logged into your Google account, underneath the templates you will see the past slide presentations that are saved on your Google Drive under the "Recent presentations." Each of them can be opened and edited by clicking on them, which will redirect the current window to the existing slide presentation. The options along the top will allow sorting by owner through a dropdown list ![ownership option](./img/08_googleslides/04_ownership.png), a list ![list view](./img/08_googleslides/05_listview.png) versus a grid view option ![grid view](./img/08_googleslides/06_gridview.png), sort by date modified or by title ![A-Z](./img/08_googleslides/07_AZview.png), or the file picker with search functionality ![File picker](./img/08_googleslides/08_filepicker.png). In addition, you can open slide presentations through Google Drive, either through going to the URL https://drive.google.com or opening your file manager and opening the Google Drive tab on the left hand menu. 
-![Menu](./img/08_googleslides/09_drivemenu.png)
+Assuming that you are logged into your Google account, underneath the templates you will see the past slide presentations that are saved on your Google Drive under the "Recent presentations." Each of them can be opened and edited by clicking on them, which will redirect the current window to the existing slide presentation. The options along the top will allow sorting by owner through a dropdown list ![Ownership option](./img/08_googleslides/04_ownership.png), a list ![list view](./img/08_googleslides/05_listview.png) versus a grid view option ![Grid view on Google Slides](./img/08_googleslides/06_gridview.png), sort by date modified or by title ![A-Z view on Google Slides](./img/08_googleslides/07_AZview.png), or the file picker with search functionality ![File picker](./img/08_googleslides/08_filepicker.png). In addition, you can open slide presentations through Google Drive, either through going to the URL https://drive.google.com or opening your file manager and opening the Google Drive tab on the left hand menu. 
+![Accessing Google Slides from Google Drive](./img/08_googleslides/09_drivemenu.png)
 ![Google Drive menu bar](./img/08_googleslides/09_drivebar.png)
 
 ### Guide to using Google Slides
@@ -38,10 +38,10 @@ Clicking this will bring you to a new blank presentation.
 
 From here you can begin to: 
 * type in the dotted boxes to add text to your presentation
-* add new slides to your presentation by clicking on the + sign ![top left-hand corner](./img/08_googleslides/13_addslide.png) in the top left-hand corner 
-* add images to your slides by clicking on the ![image icon](./img/08_googleslides/14_addimage.png) image icon 
-* view your presentation ![view your presentation](./img/08_googleslides/15_present.png) as a slideshow
-* share your presentation with others using the ![share link](./img/08_googleslides/16_share.png) share link at the top-right 
+* add new slides to your presentation by clicking on the + sign ![Add a new slideon Google Slides](./img/08_googleslides/13_addslide.png) in the top left-hand corner 
+* add images to your slides by clicking on the ![Add an image on Google Slides](./img/08_googleslides/14_addimage.png) image icon 
+* view your presentation ![View your presentation](./img/08_googleslides/15_present.png) as a slideshow
+* share your presentation with others using the ![Share your slides](./img/08_googleslides/16_share.png) share link at the top-right 
 
 As you prepare your presentation, it's best to keep a few guidelines in mind:
 1. Minimize the number of words you put on any slide.
@@ -53,7 +53,7 @@ As you prepare your presentation, it's best to keep a few guidelines in mind:
 
 Once you have created all the slides, you can easily present them. On the right-hand corner of the window, click on Present and your slides will be in full-screen mode ready to be presented.
 
-![Presentation Mode](./img/08_googleslides/17_present.png)
+![Presentation mode](./img/08_googleslides/17_present.png)
 
 
 ### Slides and Video
@@ -62,10 +62,9 @@ Once you have created all the slides, you can easily present them. On the right-
 
 * [Slides](ADD SLIDES LINK)
 
-{quiz, id: quiz1}
+{quiz, id: quiz_08_googleslides}
 
-# Google Slides quiz
-This is the Google Slides quiz
+### Google Slides quiz
 
 ? What is Google Slides?
 

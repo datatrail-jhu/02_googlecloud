@@ -39,3 +39,14 @@ In the notification section, choose how you want to be reminded about the event 
 ![Google Calendar](ADD VIDEO LINK)
 
 * [Slides](ADD SLIDES LINK)
+
+{quiz, id: quiz_03_google_calendar}
+
+### Google Calendar quiz
+
+? Is sharing calendars a feature of Google Calendar?
+
+a) False
+B) True
+
+{/quiz}

@@ -26,7 +26,6 @@ For our purposes, here is a list of some of the most popular Youtube channels on
 ![Data science channels](images/12_youtube/05_data_sci_channels.png.png)
 
 
-
 ### How to save videos to watch later
 
 Sometimes you find an interesting video on Youtube but you are too busy to watch it right away. There are a couple of options. You can either favorite a video by liking a video or you can add the video to a playlist as shown in the picture. 
@@ -46,3 +45,17 @@ Overall, Youtube will be one of the main places to go to for finding answers to 
 ![YouTube](ADD VIDEO LINK)
 
 * [Slides](ADD SLIDES LINK)
+
+{quiz, id: quiz_12_youtube}
+
+### Youtube quiz
+
+? Which one of the following is not a feature when using Youtube?
+
+A) Downloading videos
+b) Subscribing to channels
+c) Creating playlists
+d) Saving videos for later
+e) Uploading videos
+
+{/quiz}
