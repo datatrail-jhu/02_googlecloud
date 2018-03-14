@@ -1,8 +1,8 @@
 # What is the cloud?
 
-It's hard to find data scientists who don't work with the _cloud_ and cloud computing is the talk of the town these days. But what is the cloud?
+It's hard to find data scientists who don't work with the *cloud* and cloud computing is the talk of the town these days. But what is the cloud?
 
-Cloud storage refers to data/document storage on the web rather than your local computer. If you share documents via Dropbox, have your documents stores on Google Drive, or store all your pictures on iCloud or Google Photos, you are using the _cloud_. Using the Cloud is like having an external hard drive that you don't ever see and can't acutally hold in your hands.  
+Cloud storage refers to data/document storage on the web rather than your local computer. If you share documents via Dropbox, have your documents stores on Google Drive, or store all your pictures on iCloud or Google Photos, you are using the *cloud*. Using the Cloud is like having an external hard drive that you don't ever see and can't acutally hold in your hands.  
 
 
 ### Cloud computing
