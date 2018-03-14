@@ -1,0 +1,13 @@
+One of the benefits to using Google Drive is its suite of document editors, completely free to use and accessible anywhere online. One of Drive's primary applications is the web-based slide presentation editor, Google Slides. Google Slides allows users to format and edit slide presentations. Other users can edit the slides simultaneously. It is compatible with Microsoft Powerpoint files (.pptx and .ppt). ote that similar to Google Docs and Sheets, there is an Autosave option in Google Slides. Google Slides is very similar to Microsoft Powerpoint. Most tasks that can be done in PowerPoint can also be done with Google Slides. From simple text addition and slide transitions to importing graphics and embedding Youtube videos, all of this is possible in Google Slides. Offline access to Slides works the same way as in Google Docs and Sheets.
+
+Similar to Google Docs and Sheets, Google Slides can be opened multiple ways. The simplest option for starting a new document is going to the Google Slides URL https://slides.google.com. Under "Start a new presentation" select the blank option or any of the templates available. Clicking on "TEMPLATE GALLERY" will expand the template options to include "Personal," "Work," and "Education" templates. Assuming that you are logged into your Google account, underneath the templates you will see the past slide presentations that are saved on your Google Drive under the "Recent presentations." Each of them can be opened and edited by clicking on them, which will redirect the current window to the existing slide presentation.
+
+In addition, you can open slide presentations through Google Drive, either through going to the URL https://drive.google.com or opening your file manager and opening the Google Drive tab on the left hand menu.
+
+There are more in-depth guides on Google Slides that you can find here.
+
+Create a blanck presentation as we saw before. From here you can begin to. Type in the dotted boxes to add text to your presentation. Add new slides to your presentation by clicking on the plus sign in the top left-hand corner.
+
+You can also add images to your slides by clicking on the image icon.
+
+Once you have created all the slides, you can easily present them. On the right-hand corner of the window, click on Present and your slides will be in full-screen mode ready to be presented. As you prepare your presentation, it's best to keep a few guidelines in mind. First, minimize the number of words you put on any slide. Second, whenever possible, use pictures instead of words. Third, make sure images and text are as large as possible. Finally, use consistent text font and colors throughout slideshow.
