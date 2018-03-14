@@ -30,7 +30,7 @@ There are also concerns with the privacy and security of your data stored remote
 
 ![What is the Cloud?](ADD VIDEO LINK)
 
-* [Slides](ADD SLIDES LINK)
+* [Slides](https://docs.google.com/presentation/d/1ZJcA83EHDsMXevkZd7ALGNj4s4QufKag8WyS_-G4Sa4/edit?usp=sharing)
 
 
 {quiz, id: quiz_00_what_is_cloud}
