@@ -1,10 +1,8 @@
 Slack is a messaging platform designed to help you communicate with others in your workplace. Think of it like a group chat, but for work related subjects. A lot of companies and workplaces look down on using Facebook and Twitter for communication, seeing them more as social media platforms. Some places even ban the use of these platforms. However, Slack is being used by more and more companies as a communication tool. Slack can be accessed in two ways: Online at slack.com/signin, or by downloading their mobile or their Chrome extension. The choice is yours. There is really not much difference.
- 
 
 We assume you already have a Slack account. To join Slack team, you need an invitation similar to the one below.
 
 Simply accept the invitation by clicking join. Slack needs some information before moving on. Enter your first and last name, along with your email in the required fields. Now, enter your password. Once again, it's better to choose a password that is different from your other passwords for security reasons. 
-### How to Use Slack?
  
 Slack works like any other messaging service. There are multiple channels. A large, general channel that can reach every employee using slack, team-sized channels that allows people who are working on a project together to discuss that project, and private messaging. You will automatically be invited to the general channel, and the moderator will assign you to the channel for your project. Once there, you can type in comments, and send them in.
  
