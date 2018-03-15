@@ -4,7 +4,6 @@ While other web browsers such as Safari, Microsoft Edge (formerly Internet Explo
 
 Lastly, bookmark webpages you visit regularly. This feature is not unique to Chrome but often comes in handy. It's especially helpful if you don't want to type the full address of the webpages or are afraid you will forge them. To bookmark a webpage in Chrome, simply click on the star in the address bar or press Ctrl+D on your keyboard. This will open the following window. If you click on Done, the bookmark will be saved to the Bookmarks bar.
 
-
 Next time you like to check the webpage you bookmarked without typing the address, you can click on the Chrome menu in the top-right corner, hover over Bookmarks, then click the bookmark you'd like to open.
 
 There are other useful features of the Chrome browsers. Incognito mode creates a private browsing session that allows you to browse the web without leaving any fingerprint. When you're in Incognito Mode, your browser doesn't log what you've been doing during your last Internet session. To launch a new incognito window, press Ctrl+Shift+N, which opens a grey-colored window.

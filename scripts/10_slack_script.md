@@ -3,9 +3,9 @@ Slack is a messaging platform designed to help you communicate with others in yo
 We assume you already have a Slack account. To join Slack team, you need an invitation similar to the one below.
 
 Simply accept the invitation by clicking join. Slack needs some information before moving on. Enter your first and last name, along with your email in the required fields. Now, enter your password. Once again, it's better to choose a password that is different from your other passwords for security reasons. 
- 
+
 Slack works like any other messaging service. There are multiple channels. A large, general channel that can reach every employee using slack, team-sized channels that allows people who are working on a project together to discuss that project, and private messaging. You will automatically be invited to the general channel, and the moderator will assign you to the channel for your project. Once there, you can type in comments, and send them in.
- 
+
 For private messages, you should click on the plus sign in front of Direct Messages. Then find the person you want to privately message and click on Go. Whatever you type in the window that appears in front of you can only be seen by the person you selected. Note that you can send private messages to a group of people. Sometimes also you post something in the public channels but want to get someone's attention. In this case you just use @persons_user_name and they will get a notification about your post.
 
 One last thing. You can see more details about a channel such as list of members, highlights, pinned items, etc. by clicking on the information button in the top right corner.
