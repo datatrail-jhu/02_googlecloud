@@ -56,7 +56,7 @@ As you prepare your presentation, it's best to keep a few guidelines in mind:
 
 ### Slides and Video
 
-![Google Slides](ADD VIDEO LINK)
+![Google Slides](https://youtu.be/8nGD0-rzt7k)
 
 * [Slides](https://docs.google.com/presentation/d/1QafnUK8jji3UHdIjUvh-3ZVhY_72LOPLhX3kU0QYCHc/edit?usp=sharing)
 

@@ -78,7 +78,7 @@ By using Two-Step Verification (also known as two-factor authentication), you ad
 
 ### Slides and Video
 
-![Google Drive](ADD VIDEO LINK)
+![Google Drive](https://youtu.be/3gutbsAvmPA)
 
 * [Slides](https://docs.google.com/presentation/d/1y4ZrJSXqxr4eaPkjWrn1M5X9q3m8K9ihRoXUls2TXIs/edit?usp=sharing)
 

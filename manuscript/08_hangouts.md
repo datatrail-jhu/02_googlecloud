@@ -64,7 +64,7 @@ Now, you can enter or select the names, phone numbers, or email addresses of all
 
 ### Slides and Video
 
-![Google Hangouts](ADD VIDEO LINK)
+![Google Hangouts](https://youtu.be/CBiUP3Pj7mI)
 
 * [Slides](https://docs.google.com/presentation/d/14u2fp3D2t-umKnFOSfIxyDwfjIDMKJ9cBtqYUh_E93o/edit?usp=sharing)
 

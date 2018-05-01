@@ -46,7 +46,7 @@ For sharing documents you can follow the procedure we learned in the lesson on G
 
 ### Slides and Video
 
-![Google Docs](ADD VIDEO LINK)
+![Google Docs](https://youtu.be/GyVwfUhxv7E)
 
 * [Slides](https://docs.google.com/presentation/d/1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM/edit?usp=sharing)
 

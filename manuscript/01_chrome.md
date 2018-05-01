@@ -40,7 +40,7 @@ For instance if you visit a website that is primariliy in a language other than 
 
 ### Slides and Video
 
-![Google Chrome](ADD VIDEO LINK)
+![Google Chrome](https://youtu.be/vB9WLEkAY1k)
 
 * [Slides](https://docs.google.com/presentation/d/1uvtytifViuVhesxfSRKVz4Bc5ReTXQya4AWPzWUfHXE/edit?usp=sharing)
 

@@ -29,7 +29,7 @@ And again, you can work with Google Sheets in offline mode on your Chromebook. R
 
 ### Slides and Video
 
-![Google Sheets](ADD VIDEO LINK)
+![Google Sheets](https://www.youtube.com/watch?v=nICXCc2ncQc)
 
 * [Slides](https://docs.google.com/presentation/d/1IDBbmKBIdsMWB7JvHQSrWlgAPieU-S0lJfBJL5j4hT4/edit?usp=sharing)
 
