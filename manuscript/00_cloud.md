@@ -1,3 +1,11 @@
+{
+course-completeness: 90
+course-attempts: 2
+default-quiz-attempts: 2
+authors: Jeffrey Leek
+contributors: Aboozar Hadavand
+}
+
 # What is the cloud?
 
 It's hard to find data scientists who don't work with the *cloud* and cloud computing is the talk of the town these days. But what is the cloud?
