@@ -36,7 +36,7 @@ One last thing. You can see more details about a channel such as list of members
 
 ### Slides and Video
 
-![Slack](ADD VIDEO LINK)
+![Slack](https://youtu.be/2DPmdh2CSq8)
 
 * [Slides](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/edit?usp=sharing)
 

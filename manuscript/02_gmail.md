@@ -55,7 +55,7 @@ To find emails in your inbox you can type on the search box the subject of the e
 
 ### Slides and Video
 
-![Google Sheets](ADD VIDEO LINK)
+![Google Sheets](https://www.youtube.com/watch?v=aUNGutO_RhU)
 
 * [Slides](https://docs.google.com/presentation/d/1qRfIt3P6JLioc1-NpDbtdUF5CEMSS71_yXmRRWW7KLA/edit?usp=sharing)
 

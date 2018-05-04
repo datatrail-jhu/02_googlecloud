@@ -36,7 +36,7 @@ In the notification section, choose how you want to be reminded about the event 
 
 ### Slides and Video
 
-![Google Calendar](ADD VIDEO LINK)
+![Google Calendar](https://youtu.be/Wgv18rREqO4)
 
 * [Slides](https://docs.google.com/presentation/d/1t74f2Xf4h8Hoq8wK2LdI4H35d57Ty8Vpm1ifMuD5y9o/edit?usp=sharing)
 

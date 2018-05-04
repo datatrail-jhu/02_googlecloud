@@ -40,7 +40,7 @@ These are some of the tips for a better search on Google Maps:
 
 ### Slides and Video
 
-![Google Maps](ADD VIDEO LINK)
+![Google Maps](https://youtu.be/tCenyltXuB4)
 
 * [Slides](https://docs.google.com/presentation/d/1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI/edit?usp=sharing)
 

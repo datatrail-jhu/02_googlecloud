@@ -1,3 +1,11 @@
+{
+course-completeness: 90
+course-attempts: 2
+default-quiz-attempts: 2
+authors: Jeffrey Leek
+contributors: Aboozar Hadavand
+}
+
 # What is the cloud?
 
 It's hard to find data scientists who don't work with the *cloud* and cloud computing is the talk of the town these days. But what is the cloud?
@@ -28,7 +36,7 @@ There are also concerns with the privacy and security of your data stored remote
 
 ### Slides and Video
 
-![What is the Cloud?](ADD VIDEO LINK)
+![What is the Cloud?](https://www.youtube.com/watch?v=jwFpzYl1GRo)
 
 * [Slides](https://docs.google.com/presentation/d/1ZJcA83EHDsMXevkZd7ALGNj4s4QufKag8WyS_-G4Sa4/edit?usp=sharing)
 
