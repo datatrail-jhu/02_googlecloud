@@ -23,11 +23,13 @@ In addition, you can open word documents through Google Drive, either through go
 
 One of the most convenient features of Google Drive and its applications is its auto save. As soon as the application detects a change in the file, it will periodically save without any prompt from the user. No more worries about losing progress when the power goes out, the internet disconnects, or even when a computer breaks down. 
 
-Google Docs operates very similarly to Microsoft Word sans a couple of Word's more advanced features. However, most tasks can be done with Google Docs, from simple text editing to importing images and graphs to exporting documents as PDFs. There are more in-depth guides on [creating documents](https://www.gcflearnfree.org/googlespreadsheets/creating-google-docs/1/) and [downloading and printing](https://www.gcflearnfree.org/googlespreadsheets/converting-and-printing-docs/1/).
+Google Docs operates very similarly to Microsoft Word without a couple of Word's more advanced features. However, most tasks can be done with Google Docs, from simple text editing to importing images and graphs to exporting documents as PDFs. There are more in-depth guides on [creating documents](https://www.gcflearnfree.org/googlespreadsheets/creating-google-docs/1/) and [downloading and printing](https://www.gcflearnfree.org/googlespreadsheets/converting-and-printing-docs/1/).
 
-If a stable internet connection is an issue or that plans have been made to work offline, Google Docs offers an offline mode that saves the word documents to the local computer. Even in offline mode, Google Docs will automatically save changes. 
+If a stable internet connection is an issue or if you plan to work offline, Google Docs offers an offline mode that saves the word documents to the local computer. Even in offline mode, Google Docs will automatically save changes.
+
 To turn on offline mode:  
-1. Go to the Google Docs
+
+1. Go to Google Docs
 2. Click on the menu button
 3. Click on "Settings"
 

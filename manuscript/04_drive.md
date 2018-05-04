@@ -1,8 +1,8 @@
 # Google Drive #
 
-Google drive is a storage service. It enables us to store any documents (including images, videos, and documents) online. Also, it can help us do work together on the same documents or slides at the same time. You can edit and store slides and documents on Google Drive. To use Google Drive follow the steps below.
+Google Drive is a storage service. It enables us to store any documents (including images, videos, and documents) online. Also, it can help us do work together on the same documents or slides at the same time. You can edit and store slides and documents on Google Drive. To use Google Drive, follow the steps below:
 
-1. In Chrome go to [google drive](https://www.google.com/drive/)
+1. In Chrome go to [Google Drive](https://www.google.com/drive/)
 2. You will see picture like this
 
 ![Google Drive main page](images/04_drive/04_google_drive_01.png)
@@ -14,13 +14,13 @@ Google drive is a storage service. It enables us to store any documents (includi
 
 ### Storage Limit ##
 
-While Google Drive is generous in terms of how much space users have on the cloud compared to similar products, the amount of storage you get is not unlimited. Your free account comes with 15GB of storage. You have to pay for the service is 15GB is not enough: $1.99 per month buys you 100GB of storage and $9.99 (as of Februry 2018) buys you 1TB of storage. Note that this 15GB is shared among all Google services such as Gmail and Drive. So part of this storage may be used by your email attachments.
+While Google Drive is generous in terms of how much space users have on the cloud compared to similar products, the amount of storage you get is not unlimited. Your free account comes with 15GB of storage. You have to pay for the service if 15GB is not enough: $1.99 per month buys you 100GB of storage and $9.99 (as of Februry 2018) buys you 1TB of storage. Note that this 15GB is shared among all Google services such as Gmail and Drive. So, part of this storage may be used by your email attachments.
 
 ### Working Offline
 
-The advantage of Google Drive is that all your files are stored online so they are more secure and are accessible whenever you want them. However, sometimes when you don't have access to the internet you may want to access your files offline. You can easily make Google Drive files available offline on your Chromebook. Follow these steps:
+The advantage of Google Drive is that all your files are stored online so they are more secure and are accessible whenever you want them. However, sometimes when you don't have access to the Internet you may want to access your files offline. You can easily make Google Drive files available offline on your Chromebook. To do so, follow these steps:
 
-1. When online, install the [Google Docs Offline extension](https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi) by clicking on Add to Chrome. (If the button says "Added to Chrome," you've already installed the extension.)
+1. When online, install the [Google Docs Offline extension](https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi) by clicking on 'Add to Chrome'. (If the button says "Added to Chrome," you've already installed the extension.)
 
 ![Google Drive extension for Chrome](images/04_drive/04_google_drive_03.png)
 
@@ -48,7 +48,7 @@ If for some reason you want to stop sharing a file/folder that you have already 
 
 ### Deleting Files
 
-Deleting files on Google Drive is easy. On the web interface, right click on any file you would like to delete and choose Remove from the menu. You can delete multiple files or folders by selecting them all while holding the Ctrl key. Once selected, you can right click and remove them. 
+Deleting files on Google Drive is easy. On the web interface, click with two fingers on any file you would like to delete and choose 'Remove' from the menu. You can delete multiple files or folders by selecting them all while holding the Ctrl key. Once selected, you can click with two fingers and remove them. 
 
 ### File Recovery
 
@@ -56,7 +56,7 @@ If you mistakenly delete a file or change your mind after deleting a file, recov
 
 [The trash folder on Google Drive](images/04_drive/04_google_drive_07.png)
 
-In Trash you can see a list of all the files that you have previously removed. Then, right-click on the the file and select Restore.
+In Trash you can see a list of all the files that you have previously removed. Then, click with two fingers on the the file and select Restore.
 
 [Restoring files on Google Drive](images/04_drive/04_google_drive_08.png)
 
@@ -88,21 +88,21 @@ By using Two-Step Verification (also known as two-factor authentication), you ad
 
 ? Is the following statement true? "Google Drive is a free service by Google that allows users to upload files without any limit on the size."
 
-a) Ture
+a) True
 B) False
 
 ? What is Google's two-step verification?
 
 a) It allows users to two more steps in addition to entering their password.
 b) It is for Google to shorten the time of logging in.
-c) It asks for users' valid identification such as driver license.
-D) It is an additional step to increases the security of your Google account.
+c) It asks for users' valid identification such as driver's license.
+D) It is an additional step to increase the security of your Google account.
 
 ? Which of the following statements is false?
 
-a) Once files that exists in the trash folder are deleted, they can no longer be recovered.
+a) Once files that exist in the trash folder are deleted, they can no longer be recovered.
 b) Files can be shared with anyone on Google Drive.
-C) Files can't be accssed offline
+C) Files can't be accessed offline
 
 {/quiz}
 

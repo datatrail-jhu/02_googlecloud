@@ -14,7 +14,7 @@ This shows a list of your events for the week. You can also look at a daily, mon
 
 
 ### Scheduling events
-To schedule an event, start by clicking on the red button with the plus-sign in the bottom right you can create a new event. After pressing this red button a new page will be loaded where you can name the event, assign the event start time and end time and date, location, and description. You can also share the event with others by entering their email addresses in the Add guests section.
+To schedule an event, start by clicking on the red button with the plus-sign in the bottom right you can create a new event. After pressing this red button a new page will be loaded where you can name the event, assign the event start time and end time as well as date, location, and description. You can also share the event with others by entering their email addresses in the Add guests section.
 
 ![Add Event](images/03_calendar/03_google_calendar_02.png)
 

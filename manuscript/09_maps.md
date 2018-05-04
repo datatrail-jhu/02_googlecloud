@@ -2,7 +2,7 @@
 
 You must have already worked with or at least heard of Google Maps. Google Maps is part of the lives of many people around the world: from finding the best route to a friend's house to finding the closest gas station to finding the best public transit to work.
 
-Google Maps is Google's mapping service that offers street maps, 360? panoramic view of street, satellite images, and real-time traffic in roads. Maps is free and is accessible through your Chrome browser (or any browser) or as an app on your phone. Let us see some of the main features of Google Maps:
+Google Maps is Google's mapping service that offers street maps, 360 degree panoramic view of street, satellite images, and real-time traffic in roads. Maps is free and is accessible through your Chrome browser (or any browser) or as an app on your phone. Let us see some of the main features of Google Maps:
 
 ### Getting Directions
 
@@ -18,12 +18,12 @@ You can also use this feature as a GPS navigator. If you are using Google Maps o
 
 These are some of the tips for a better search for an address on Google Maps:
 
-- You can type the full address: 456 Union Ave Baltimore MD
-- You can only type an intersection: Broadway and 23rd
+- You can type the full address: 456 Union Ave Baltimore MD.
+- You can only type an intersection: Broadway and 23rd.
 - You can simply type the latitude and longitude coordinates of a location: 35.71883, 139.77652.
-- If you are logged in to your Google account and have your friend's name and address saved as a Google contact, you can just type their name: David Rhodes
+- If you are logged in to your Google account and have your friend's name and address saved as a Google contact, you can just type their name: David Rhodes.
 
-A convenient feature of Google Maps is that it prioritzes the places you have already searched to in your new search and suggests them to you so you don't have to type in the whole address. You can also save an address as your work or home address so instead of typing your complete work or home address, you can just type "work" or "home" and Google Map will show directions to your addresses. For this you should click on the three bars menu on the top left corner and select "Your places". Try adding your home or work address to your Google Maps if you like.
+A convenient feature of Google Maps is that it prioritzes the places you have already searched to in your new search and suggests them to you so you don't have to type in the whole address. You can also save an address as your work or home address. So instead of typing your complete work or home address, you can just type "work" or "home" and Google Maps will show directions to your addresses. For this you should click on the three bars menu on the top left corner and select "Your places". Try adding your home or work address to your Google Maps if you like.
 
 ![Your places on Google Maps](images/09_maps/09_google_maps_03.png)
 
@@ -33,10 +33,10 @@ Beyond directions, Google Maps can also help you with finding businesses, their 
 
 These are some of the tips for a better search on Google Maps:
 
-- You can type a specific business: Burger King
-- You can narrow your results: Burger King in Brooklyn NY
-- You can be even more specific: Burger King in 11211
-- You can type a place with an approximate location: coffee near Central Park
+- You can type a specific business: Burger King.
+- You can narrow your results: Burger King in Brooklyn NY.
+- You can be even more specific: Burger King in 11211.
+- You can type a place with an approximate location: coffee near Central Park.
 
 ### Slides and Video
 

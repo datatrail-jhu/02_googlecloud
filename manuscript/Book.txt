@@ -1,5 +1,4 @@
 00_cloud.md
-01_chrome.md
 02_gmail.md
 03_calendar.md
 04_drive.md

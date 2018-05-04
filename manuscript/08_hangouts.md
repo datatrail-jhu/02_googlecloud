@@ -51,7 +51,7 @@ To message people who have Google accounts you can start by pressing on the "Mes
 
 ![Message button](images/08_hangouts/08_google_hangouts_08.png)
 
-Afterwards you can enter the names, email, op phone number of the people you want to message. When you find the correct person you can simply click on them and that will open a conversation box. You can also create a group chat by pressing on the "New group" button.
+Afterwards you can enter the names, email, or phone number of the people you want to message. When you find the correct person you can simply click on them and that will open a conversation box. You can also create a group chat by pressing on the "New group" button.
 
 ### How to start a group conversation?
 
@@ -76,7 +76,7 @@ Now, you can enter or select the names, phone numbers, or email addresses of all
 
 a) 2
 b) 5
-C) 10
+C) 25
 d) Unlimited
 
 ? Which one of the following is NOT a feature of Google Hangouts?
