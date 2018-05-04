@@ -18,7 +18,7 @@ Let's say you want to send an email. You can send and email by first pressing th
 
 A box will pop-up where you can enter the recipient, subject, and content of the email. There are a few buttons at the buttom of the email box that are very helpful. 
 
-First, you can attach a file (such as an image, a document, or a video) to your email by clicking on the attachment sign and choosing the file from your computer.
+First, you can attach a file (such as an image, a document, or a video) to your email by clicking on the attachment sign and choosing the file from your computer. You can send up to 25 MB in attachments. If you have more than one attachment, they can't add up to more than 25 MB. If your file is greater than 25 MB, Gmail automatically adds a Google Drive link in the email instead of including it as an attachment. The person you send the file to can download it so they'll have access to it even if you remove it from Google Drive.
 
 ![Attach files](images/02_gmail/02_google_gmail_04.png)
 
@@ -63,12 +63,12 @@ To find emails in your inbox you can type on the search box the subject of the e
 
 ### Gmail quiz
 
-? Go to the following [link](https://support.google.com/mail/answer/6584?co=GENIE.Platform%3DDesktop&hl=en) on Google's web entry on Gmail attachments. What is the limit on the size of email attachments?
+? What is the limit on the size of email attachments?
 
-a) less than 5 MB
-b) between 5 MB and 20 MB
-C) between 20 MB and 100 MB
-d) more than 100 MB
+a) 5 MB
+b) 10 MB
+C) 25 MB
+d) 100 MB
 
 ? When sending an email, what is the Bcc field?
 
