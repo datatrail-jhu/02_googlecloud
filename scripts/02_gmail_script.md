@@ -1,6 +1,6 @@
 Gmail is a free e-mail service provided by Google that provides users with a gigabyte of storage for messages and provides the ability to search for specific emails. Gmail also automatically organizes related emails into a conversational thread.
 
-You can access Gmail by going to the address www.gmail.com or by clicking on the start menu located on the lower left hand corner and searching for "Gmail". If you are not already logged into your gmail account, you will see a screen similar to the one down below.
+You can access Gmail by going to the address www.gmail.com or by clicking on the start menu located on the lower left hand corner and searching for "Gmail". If you are not already logged in to your gmail account, you will see a screen similar to the one down below.
 
 After inputting your email and password you will be able to see your inbox.
 
