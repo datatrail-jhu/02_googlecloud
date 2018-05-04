@@ -4,12 +4,12 @@ One of the benefits to using Google Drive is its suite of document editors, comp
 
 ### Getting Started
 
-Similar to Google Docs and Sheets, Google Slides can be opened multiple ways. The simplest option for starting a new document is going to the Google Slides URL https://slides.google.com. Under "Start a new presentation" select the blank option or any of the templates available. Clicking on "TEMPLATE GALLERY" will expand the template options to include "Personal," "Work," and "Education" templates.
+Similar to Google Docs and Sheets, Google Slides can be opened multiple ways. The simplest option for starting a new document is going to the Google Slides URL https://slides.google.com. Under "Start a new presentation" select the "Blank" option or any of the templates available. Clicking on "TEMPLATE GALLERY" will expand the template options to include "Personal," "Work," and "Education" templates.
 
 
 ![Google Slides Page](images/07_slides/07_google_slides_01.png)
-Assuming that you are logged into your Google account, underneath the templates you will see the past slide presentations that are saved on your Google Drive under the "Recent presentations." Each of them can be opened and edited by clicking on them, which will redirect the current window to the existing slide presentation.
 
+Assuming that you are logged into your Google account, underneath the templates you will see the past slide presentations that are saved on your Google Drive under the "Recent presentations." Each of them can be opened and edited by clicking on them, which will redirect the current window to the existing slide presentation.
 
 In addition, you can open slide presentations through Google Drive, either through going to the URL https://drive.google.com or opening your file manager and opening the Google Drive tab on the left hand menu. 
 
@@ -33,25 +33,25 @@ Offline access to Slides works the same way as in Google Docs and Sheets.
 
 Create a blanck presentation as we saw before. From here you can begin to: 
 
-* type in the dotted boxes to add text to your presentation
-* add new slides to your presentation by clicking on the + sign in the top left-hand corner.
+* Type in the dotted boxes to add text to your presentation
+* Add new slides to your presentation by clicking on the + sign in the top left-hand corner.
 
 ![Add a new slide on Google Slides](images/07_slides/07_google_slides_04.png)
 
-* add images to your slides by clicking on the image icon.
+* Add images to your slides by clicking on the image icon.
 
 ![Add an image on Google Slides](images/07_slides/07_google_slides_05.png)
 
-* once you have created all the slides, you can easily present them. On the right-hand corner of the window, click on Present and your slides will be in full-screen mode ready to be presented.
-
+Once you have created all the slides, you can easily present them. On the right-hand corner of the window, click on Present and your slides will be in full-screen mode ready to be presented.
 
 ![View your presentation](images/07_slides/07_google_slides_06.png)
 
 As you prepare your presentation, it's best to keep a few guidelines in mind:
+
 1. Minimize the number of words you put on any slide.
 2. Whenever possible, use pictures instead of words.
 3. Make sure images and text are as large as possible.
-4. Use consistent text font and colors throughout slideshow.
+4. Use consistent text font and colors throughout the presentation.
 
 
 ### Slides and Video
@@ -80,8 +80,8 @@ b) words
 ? Why don't you have to worry about saving your work with Google Slides?
 
 a) You don't want to save your work
-B) Google Slides exports to PowerPoint
-b) Google Slides allows for image import
-D) Google slides has AutoSave
+b) Google Slides exports to PowerPoint
+c) Google Slides allows for image import
+D) Google Slides has AutoSave
 
 {/quiz}
