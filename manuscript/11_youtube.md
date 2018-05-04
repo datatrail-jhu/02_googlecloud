@@ -42,7 +42,7 @@ Overall, Youtube will be one of the main places to go to for finding answers to 
 
 ### Slides and Video
 
-![YouTube](https://www.youtube.com/watch?v=i0wOWU-LWro)
+![YouTube](https://youtu.be/PZmK5tYhDaU)
 
 * [Slides](https://docs.google.com/presentation/d/1-OYJWNoZ5ECP5qHHZjWdOtb14i-AQAB1mq3W0ds3fsA/edit?usp=sharing)
 
