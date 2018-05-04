@@ -4,11 +4,11 @@ Youtube as you know is a video-sharing website that allows users to upload and v
 
 To access Youtube on your Chromebook, click on the red button on the left side of the screen.
 
-![Youtube on your Chromebook](images/11_youtube/11_google_youtube_01.png)
+![Youtube on your Chromebook](images/12_youtube/00_youtube_on_chromebook.png)
 
 Then you can search anything on Youtube now
 
-![Search Youtube](images/11_youtube/11_google_youtube_02.png)
+![Search Youtube](images/12_youtube/01_search_youtube.png)
 
 If you want to get more personalized results or create playlists you should login via your Google account. Youtube is good with learning about your preferences. So if you watch a video that is about how to import data into R, Youtube will suggest more videos related to those keywords to you. There are various ways you can find videos on Youtube.
 
@@ -18,12 +18,12 @@ If you want to get more personalized results or create playlists you should logi
 
 Note that you can filter your results when you search for specific keywords by clicking on the Filter icon on the top right corner. For instance, you can filter based on the length of the video or the time it was posted.
 
-![Filter Results](images/11_youtube/11_google_youtube_03.png)
+![Filter Results](images/12_youtube/02_filter.png)
 
 For our purposes, here is a list of some of the most popular Youtube channels on data science.
 
 
-![Data science channels](images/11_youtube/11_google_youtube_04.png)
+![Data science channels](images/12_youtube/05_data_sci_channels.png.png)
 
 
 ### How to save videos to watch later
@@ -31,12 +31,12 @@ For our purposes, here is a list of some of the most popular Youtube channels on
 Sometimes you find an interesting video on Youtube but you are too busy to watch it right away. There are a couple of options. You can either favorite a video by liking a video or you can add the video to a playlist as shown in the picture. 
 
 
-![Liking and Adding to Playlist](images/11_youtube/11_google_youtube_05.png)
+![Liking and Adding to Playlist](images/12_youtube/03_favorite.png)
 
 To find the videos you liked previously you can click on Liked videos on the left menu.
 
 
-![Liked Videos](images/11_youtube/11_google_youtube_06.png)
+![Liked Videos](images/12_youtube/04_liked_videos.png)
 
 Overall, Youtube will be one of the main places to go to for finding answers to your questions. There are millions of videos explaining things that you don't know of and you don't want to read pages and pages of text to figure them out. Sometimes a 5-minutes video does a better job.
 
@@ -44,7 +44,7 @@ Overall, Youtube will be one of the main places to go to for finding answers to 
 
 ![YouTube](ADD VIDEO LINK)
 
-* [Slides](https://docs.google.com/presentation/d/1-OYJWNoZ5ECP5qHHZjWdOtb14i-AQAB1mq3W0ds3fsA/edit?usp=sharing)
+* [Slides](ADD SLIDES LINK)
 
 {quiz, id: quiz_12_youtube}
 
