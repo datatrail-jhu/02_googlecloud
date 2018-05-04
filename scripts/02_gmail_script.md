@@ -6,7 +6,7 @@ After inputting your email and password you will be able to see your inbox.
 
 Let's say you want to send an email. You can send and email by first pressing the "Compose" button on the top left corner. A box will pop-up where you can enter the recipient, subject, and content of the email. There are a few buttons at the buttom of the email box that are very helpful. 
 
-First, you can attach a file (such as an image, a document, or a video) to your email by clicking on the attachment sign and choosing the file from your computer.
+First, you can attach a file (such as an image, a document, or a video) to your email by clicking on the attachment sign and choosing the file from your computer. You can send up to 25 MB in attachments. If you have more than one attachment, they can't add up to more than 25 MB. If your file is greater than 25 MB, Gmail automatically adds a Google Drive link in the email instead of including it as an attachment. The person you send the file to can download it so they'll have access to it even if you remove it from Google Drive.
 
 You can also choose files from your Google Drive folder. Google Drive is Google's file hosting service and we will learn about that soon. But for now, you can eastily attach a file that is hosted on your Google Drive to any email. Other options include inserting a photo, inserting a link, emojis, or even sending money through your email.
 
