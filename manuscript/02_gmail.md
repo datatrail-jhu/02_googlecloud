@@ -1,8 +1,8 @@
 # What is Gmail?
 
-[Gmail](https://www.gmail.com/) is a free e-mail service provided by Google that provides users with a gigabyte of storage for messages and provides the ability to search fro specific emails. Gmail also automatically organizes related emails into a conversational thread.
+[Gmail](https://www.gmail.com/) is a free e-mail service provided by Google that provides users with a gigabyte of storage for messages and provides the ability to search for specific emails. Gmail also automatically organizes related emails into a conversational thread.
 
-You can access Gmail by going to the address ["Gmail.com"](https://www.gmail.com) or by clicking on the start menu located on the lower left hand corner and searching for "Gmail". If you are not already logged in to your gmail account, you will see a screen similar to the one down below.
+You can access Gmail by going to the address ["Gmail.com"](https://www.gmail.com) or by clicking on the start menu located on the lower left hand corner and searching for "Gmail". If you are not already logged into your gmail account, you will see a screen similar to the one down below.
 
 ![First page](images/02_gmail/02_google_gmail_01.png)
 
@@ -26,11 +26,11 @@ You can also choose files from your Google Drive folder. Google Drive is Google'
 
 ![Insert files using Drive](images/02_gmail/02_google_gmail_05.png)
 
-Other options include inserting a photo, inserting a link, empjis, or even sending money through your email. If you type an email but change your mind and you want to delete the email, you can discard the email by clicking on the trash can in the corner of the composing screen.
+Other options include inserting a photo, inserting a link, emojis, or even sending money through your email. If you type an email but change your mind and you want to delete the email, you can discard the email by clicking on the trash can in the corner of the composing screen.
 
 ![Discard draft](images/02_gmail/02_google_gmail_06.png)
 
-Note that you can send an email to multiple people by entering all the email one after another in from of To. Or you could add them in the Cc or Bcc fileds. If you enter an email in the Bcc filed, they won't see other emails that are also in the Bcc field.
+Note that you can send an email to multiple people by entering all the emails one after another in from of To. Or you could add them in the Cc or Bcc fileds. If you enter an email in the Bcc filed, they won't see other emails that are also in the Bcc field.
 
 ![Cc and Bcc](images/02_gmail/02_google_gmail_07.png)
 
@@ -74,6 +74,6 @@ d) more than 100 MB
 
 A) Email addresses entered in this filed will be hidden from anyone else on the email.
 b) The location of the attachment should be entered there.
-c) The subject of the email should be enetered there.
+c) The subject of the email should be entered there.
 
 {/quiz}
