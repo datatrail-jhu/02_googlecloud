@@ -2,7 +2,7 @@
 
 You must have already worked with or at least heard of Google Maps. Google Maps is part of the lives of many people around the world: from finding the best route to a friend's house to finding the closest gas station to finding the best public transit to work.
 
-Google Maps is Google's mapping service that offers street maps, 360? panoramic view of street, satellite images, and real-time traffic in roads. Maps is free and is accessible through your Chrome browser (or any browser) or as an app on your phone. Let us see some of the main features of Google Maps:
+Google Maps is Google's mapping service that offers street maps, 360&deg panoramic view of street, satellite images, and real-time traffic in roads. Maps is free and is accessible through your Chrome browser (or any browser) or as an app on your phone. Let us see some of the main features of Google Maps:
 
 ### Getting Directions
 
