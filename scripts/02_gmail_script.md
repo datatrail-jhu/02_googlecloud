@@ -8,9 +8,9 @@ Let's say you want to send an email. You can send and email by first pressing th
 
 First, you can attach a file (such as an image, a document, or a video) to your email by clicking on the attachment sign and choosing the file from your computer.
 
-You can also choose files from your Google Drive folder. Google Drive is Google's file hosting service and we will learn about that soon. But for now, you can eastily attach a file that is hosted on your Google Drive to any email.
+You can also choose files from your Google Drive folder. Google Drive is Google's file hosting service and we will learn about that soon. But for now, you can eastily attach a file that is hosted on your Google Drive to any email. Other options include inserting a photo, inserting a link, emojis, or even sending money through your email.
 
-Other options include inserting a photo, inserting a link, emojis, or even sending money through your email. If you type an email but change your mind and you want to delete the email, you can discard the email by clicking on the trash can in the corner of the composing screen.
+If you type an email but change your mind and you want to delete the email, you can discard the email by clicking on the trash can in the corner of the composing screen.
 
 Note that you can send an email to multiple people by entering all the emails one after another in from of To. Or you could add them in the Cc or Bcc fileds. If you enter an email in the Bcc filed, they won't see other emails that are also in the Bcc field.
 
