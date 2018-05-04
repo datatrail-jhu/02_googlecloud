@@ -1,6 +1,6 @@
-Gmail is a free e-mail service provided by Google that provides users with a gigabyte of storage for messages and provides the ability to search fro specific emails. Gmail also automatically organizes related emails into a conversational thread.
+Gmail is a free e-mail service provided by Google that provides users with a gigabyte of storage for messages and provides the ability to search for specific emails. Gmail also automatically organizes related emails into a conversational thread.
 
-You can access Gmail by going to the address www.gmail.com or by clicking on the start menu located on the lower left hand corner and searching for "Gmail". If you are not already logged in to your gmail account, you will see a screen similar to the one down below.
+You can access Gmail by going to the address www.gmail.com or by clicking on the start menu located on the lower left hand corner and searching for "Gmail". If you are not already logged into your gmail account, you will see a screen similar to the one down below.
 
 After inputting your email and password you will be able to see your inbox.
 
@@ -10,9 +10,9 @@ First, you can attach a file (such as an image, a document, or a video) to your 
 
 You can also choose files from your Google Drive folder. Google Drive is Google's file hosting service and we will learn about that soon. But for now, you can eastily attach a file that is hosted on your Google Drive to any email.
 
-Other options include inserting a photo, inserting a link, empjis, or even sending money through your email. If you type an email but change your mind and you want to delete the email, you can discard the email by clicking on the trash can in the corner of the composing screen.
+Other options include inserting a photo, inserting a link, emojis, or even sending money through your email. If you type an email but change your mind and you want to delete the email, you can discard the email by clicking on the trash can in the corner of the composing screen.
 
-Note that you can send an email to multiple people by entering all the email one after another in from of To. Or you could add them in the Cc or Bcc fileds. If you enter an email in the Bcc filed, they won't see other emails that are also in the Bcc field.
+Note that you can send an email to multiple people by entering all the emails one after another in from of To. Or you could add them in the Cc or Bcc fileds. If you enter an email in the Bcc filed, they won't see other emails that are also in the Bcc field.
 
 After you are done writing your email just press the "Send" button and you are done!
 
