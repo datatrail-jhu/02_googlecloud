@@ -9,7 +9,7 @@ default-random-choice-order: true
 
 It's hard to find data scientists who don't work with the *cloud* and cloud computing is the talk of the town these days. But what is the cloud?
 
-Cloud storage refers to data/document storage on the web rather than on your local computer. If you share documents via Dropbox, have your documents stored on Google Drive, or store all your pictures on iCloud or Google Photos, you are using the *cloud*. Using the Cloud is like having an external hard drive that you don't ever see and can't acutally hold in your hands.
+Cloud storage refers to data/document storage on the web rather than on your local computer. If you share documents via Dropbox, have your documents stored on Google Drive, or store all your pictures on iCloud or Google Photos, you are using the *cloud*. Using the Cloud is like having an external hard drive that you don't ever see and can't actualy hold in your hands.
 
 
 ### Cloud computing
@@ -47,7 +47,7 @@ There are also concerns with the privacy and security of your data stored remote
 ? Which one of the following is NOT an advantage of using cloud-based storage or computing?
 
 a) Remote computers are more powerful
-B) You need access to interent to access your files
+B) You need access to Internet to access your files
 c) You won't lose your files if you lose your computer
 d) You can access your files everywhere
 

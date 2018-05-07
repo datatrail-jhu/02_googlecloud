@@ -12,9 +12,9 @@ Google Drive is a storage service. It enables us to store any documents (includi
 
 ![Google Drive directory](images/04_drive/04_google_drive_02.png)
 
-### Storage Limit ##
+### Storage Limit 
 
-While Google Drive is generous in terms of how much space users have on the cloud compared to similar products, the amount of storage you get is not unlimited. Your free account comes with 15GB of storage. You have to pay for the service if 15GB is not enough: $1.99 per month buys you 100GB of storage and $9.99 (as of Februry 2018) buys you 1TB of storage. Note that this 15GB is shared among all Google services such as Gmail and Drive. So, part of this storage may be used by your email attachments.
+While Google Drive is generous in terms of how much space users have on the cloud compared to similar products, the amount of storage you get is not unlimited. Your free account comes with 15GB of storage. You have to pay for the service if 15GB is not enough: $1.99 per month buys you 100GB of storage and $9.99 (as of February 2018) buys you 1TB of storage. Note that this 15GB is shared among all Google services such as Gmail and Drive. So, part of this storage may be used by your email attachments.
 
 ### Working Offline
 
@@ -88,8 +88,8 @@ By using Two-Step Verification (also known as two-factor authentication), you ad
 
 ? Is the following statement true? "Google Drive is a free service by Google that allows users to upload files without any limit on the size."
 
-a) True
-B) False
+a) Yes
+B) No
 
 ? What is Google's two-step verification?
 
@@ -98,7 +98,7 @@ b) It is for Google to shorten the time of logging in.
 c) It asks for users' valid identification such as driver's license.
 D) It is an additional step to increase the security of your Google account.
 
-? Which of the following statements is false?
+? Which of the following statements is FALSE?
 
 a) Once files that exist in the trash folder are deleted, they can no longer be recovered.
 b) Files can be shared with anyone on Google Drive.

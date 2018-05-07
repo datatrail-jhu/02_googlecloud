@@ -46,7 +46,12 @@ In the notification section, choose how you want to be reminded about the event 
 
 ? Is sharing calendars a feature of Google Calendar?
 
-a) False
-B) True
+a) No
+B) Yes
+
+? If you're looking at your Google Calendar on your phone, will an event entered on your computer show up?
+
+a) No
+B) Yes
 
 {/quiz}

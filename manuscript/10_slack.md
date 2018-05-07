@@ -49,4 +49,11 @@ b) Private channels
 C) Audio chatting
 d) Sending images
 
+? What is an advantage of Slack?
+
+a) It only allows for private messaging
+B) Conversations are organized into channels
+c) It can only be accessed offline
+d) It does not allow for private channels
+
 {/quiz}

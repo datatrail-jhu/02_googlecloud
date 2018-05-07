@@ -16,13 +16,13 @@ Let's say you want to send an email. You can send and email by first pressing th
 
 ![Compose button](images/02_gmail/02_google_gmail_03.png)
 
-A box will pop-up where you can enter the recipient, subject, and content of the email. There are a few buttons at the buttom of the email box that are very helpful. 
+A box will pop-up where you can enter the recipient, subject, and content of the email. There are a few buttons at the bottom of the email box that are very helpful. 
 
 First, you can attach a file (such as an image, a document, or a video) to your email by clicking on the attachment sign and choosing the file from your computer. You can send up to 25 MB in attachments. If you have more than one attachment, they can't add up to more than 25 MB. If your file is greater than 25 MB, Gmail automatically adds a Google Drive link in the email instead of including it as an attachment. The person you send the file to can download it so they'll have access to it even if you remove it from Google Drive.
 
 ![Attach files](images/02_gmail/02_google_gmail_04.png)
 
-You can also choose files from your Google Drive folder. Google Drive is Google's file hosting service and we will learn about that soon. But for now, you can eastily attach a file that is hosted on your Google Drive to any email.
+You can also choose files from your Google Drive folder. Google Drive is Google's file hosting service and we will learn about that soon. But for now, you can easily attach a file that is hosted on your Google Drive to any email.
 
 ![Insert files using Drive](images/02_gmail/02_google_gmail_05.png)
 
@@ -30,7 +30,7 @@ Other options include inserting a photo, inserting a link, emojis, or even sendi
 
 ![Discard draft](images/02_gmail/02_google_gmail_06.png)
 
-Note that you can send an email to multiple people by entering all the emails one after another in from of To. Or you could add them in the Cc or Bcc fileds. If you enter an email in the Bcc filed, they won't see other emails that are also in the Bcc field.
+Note that you can send an email to multiple people by entering all the emails one after another in from of To. Or you could add them in the Cc or Bcc fields. If you enter an email in the Bcc filed, they won't see other emails that are also in the Bcc field.
 
 ![Cc and Bcc](images/02_gmail/02_google_gmail_07.png)
 

@@ -6,7 +6,6 @@ One of the benefits to using Google Drive is its suite of document editors, comp
 
 Similar to Google Docs and Sheets, Google Slides can be opened multiple ways. The simplest option for starting a new document is going to the Google Slides URL https://slides.google.com. Under "Start a new presentation" select the "Blank" option or any of the templates available. Clicking on "TEMPLATE GALLERY" will expand the template options to include "Personal," "Work," and "Education" templates.
 
-
 ![Google Slides Page](images/07_slides/07_google_slides_01.png)
 
 Assuming that you are logged into your Google account, underneath the templates you will see the past slide presentations that are saved on your Google Drive under the "Recent presentations." Each of them can be opened and edited by clicking on them, which will redirect the current window to the existing slide presentation.
@@ -31,7 +30,7 @@ Offline access to Slides works the same way as in Google Docs and Sheets.
 
 ### Creating a Great Presentation
 
-Create a blanck presentation as we saw before. From here you can begin to: 
+Create a blank presentation as we saw before. From here you can begin to: 
 
 * Type in the dotted boxes to add text to your presentation
 * Add new slides to your presentation by clicking on the + sign in the top left-hand corner.
@@ -72,10 +71,11 @@ C) An online slide editor
 d) An online document editor
 e) An online calculator 
 
-? What should you have more of on your slides?
+? What should you have the most of on your slides?
 
 A) pictures
 b) words
+c) empty blank space
 
 ? Why don't you have to worry about saving your work with Google Slides?
 
