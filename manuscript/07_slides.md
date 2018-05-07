@@ -68,11 +68,11 @@ As you start to add text to slides, you'll quickly realize that the icons along 
 
 ![Process for formatting text is the same across Google Products](images/07_slides/07_google_slides-8.png)
 
-While the process for formatting text is the same, the one thing that differs between Google Docs and Google Slides is the fact that the positioning of the text box in Google Slides is important (and something you didn't have to consider in Google Docs). To re-position a text box in Google slides, you'll first click on the text box. Then,, by hovering over the blue highlighted border around the text box, a arrow cross will appear, once this appears, you'll click and holding down. This will allow you to drag the text box to the the position on the slide where you want the box. Once the text is where you want it, youc can release your click. The text box will now be wherever you've dropped the text box on the slide. 
+While the process for formatting text is the same, the one thing that differs between Google Docs and Google Slides is the fact that the positioning of the text box in Google Slides is important (and something you didn't have to consider in Google Docs). To re-position a text box in Google slides, you'll first click on the text box. Then,, by hovering over the blue highlighted border around the text box, a arrow cross will appear, once this appears, you'll click and holding down. This will allow you to drag the text box to the the position on the slide where you want the box. Once the text is where you want it, you can release your click. The text box will now be wherever you've dropped the text box on the slide. 
 
 #### Adding and editing images
 
-To add images to a slideshow, the process is again the same as in Google Docs, and he tprocess for re-positioning an image on the slide is the same as was just discussed. However, in Google Slides, you'll likely be editing the size and appearance of images to a greater extent than you would need to in Google Docs. We'll discuss how to work with images in Google Slides here.
+To add images to a slideshow, the process is again the same as in Google Docs, and the process for re-positioning an image on the slide is the same as was just discussed. However, in Google Slides, you'll likely be editing the size and appearance of images to a greater extent than you would need to in Google Docs. We'll discuss how to work with images in Google Slides here.
 
 ##### Cropping an image
 
@@ -102,7 +102,7 @@ Additional formatting options can be explored by two-finger clicking on the imag
 
 #### Formatting and editing themes
 
-In addition to formatting individual text boxes and images on your slides, you may want to fomrat the design of your entire slide show. This can be accomplished, by clicking on the "Theme" icon along the toolbar
+In addition to formatting individual text boxes and images on your slides, you may want to format the design of your entire slide show. This can be accomplished, by clicking on the "Theme" icon along the toolbar
 
 ![Theme icon](images/07_slides/07_google_slides-14.png)
 )
