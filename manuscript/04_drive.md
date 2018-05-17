@@ -1,109 +1,116 @@
 # Google Drive
 
-Google Drive is a storage service. It enables us to store any documents (including images, videos, and documents) online. Also, it can help us do work together on the same documents or slides at the same time. You can edit and store slides and documents on Google Drive. To use Google Drive, follow the steps below:
+[Google Drive](https://www.google.com/drive/)  is a cloud storage service. It enables you to store files (including documents, data, images, videos, and presentation slides) online. You can also edit many these files directly online, without needed to download them to your computer or upload them back to the cloud.  One of the major benefits of Google Drive is the ability for multiple people to edit the same files at the same time.  This makes Drive a useful tool for collaboration, with is very important to a data scientist.  
 
-1. In Chrome go to [Google Drive](https://www.google.com/drive/)
-2. You will see picture like this
+### Accessing your Google Drive account
 
-![Google Drive main page](images/04_drive/04_google_drive_01.png)
+Like Gmail and Calendar, Google Calendar is included with your Google Account.  You can access your Drive account by going to the address ["https://www.google.com/drive/"](https://calendar.google.com/) or by clicking on the start menu located on the lower left hand corner of your Chromebook and searching for "Drive". You will see a welcome screen like this.  
 
-3. Click on "Go to Google Drive"
-4. There you go, you have landed on Google Drive
+![Drive welcome screen](images/04_drive/04_google_drive_01.png)
+
+Click the "Go to Google Drive" button to be taken to your Drive account.  If you are already logged in to your Google account, you will go directly to Drive.  If not, you will be prompted to log in with the username and password for your Google account.  Here you can see Jane's Drive directory.  She currently has four documents stored on her Google Drive: a presentation in Google Slides, a dataset in Google Sheets, an image, and a document in Google Docs.  To open any document from drive, simply double-click on the document itself.
 
 ![Google Drive directory](images/04_drive/04_google_drive_02.png)
 
-### Storage Limit 
+### Organizing files in Google Drive
 
-While Google Drive is generous in terms of how much space users have on the cloud compared to similar products, the amount of storage you get is not unlimited. Your free account comes with 15GB of storage. You have to pay for the service if 15GB is not enough: $1.99 per month buys you 100GB of storage and $9.99 (as of February 2018) buys you 1TB of storage. Note that this 15GB is shared among all Google services such as Gmail and Drive. So, part of this storage may be used by your email attachments.
+In Jane's Drive account, you can see that she simply has each document shown individually without any file organization structure. This is fine when you have only a small number of documents.  However, if you use Google Drive to store lots of documents you will need an file structure keeps things organized and help you to quickly find the document you need.  In general, we strongly suggest that you create folders to keep similar files together.
 
-### Working Offline
+In this course, we will simply go over the basics of organization in Google Drive. You will learn about good practices for organizing files for projects in a later course, which will include how to chose a folder structure and naming conventions for files and folders.  
 
-The advantage of Google Drive is that all your files are stored online so they are more secure and are accessible whenever you want them. However, sometimes when you don't have access to the Internet you may want to access your files offline. You can easily make Google Drive files available offline on your Chromebook. To do so, follow these steps:
+First, let's create a new folder.  Click the "New" button in the top left corner of the Google Drive home page and then select "Folder." A new window will open. Type the name of your folder, in this case "Cancer project," and click the blue "CREATE" button.
 
-1. When online, install the [Google Docs Offline extension](https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi) by clicking on 'Add to Chrome'. (If the button says "Added to Chrome," you've already installed the extension.)
+![Create folder](images/04_drive/04_google_drive_03.png)
 
-![Google Drive extension for Chrome](images/04_drive/04_google_drive_03.png)
+You can now see this new folder under the "Folders" section of your Google Drive home page.  To access the files in this folder, you would double-click on the folder name.
 
+![Folders section](images/04_drive/04_google_drive_04.png)
 
+Now that you have created a folder, you can start adding files to it. Suppose you want to move the Google Slides presentation "Exploratory plots for cancer project" to this "Cancer project" folder. In the Google Drive home page find this presentation file and right click on it. A menu will open; choose the "Move to" option and then select the folder, "Cancer projects," that you want to move it to.  If don't already have a folder, you can create one in the menu by clicking on the folder icon.
 
-2. Go to [Google Drive settings](drive.google.com/drive/settings) and in the "Offline" area, check the box. It might take a few minutes for the offline access setting to turn on.
+![Moving a File to a Folder on Google Drive](images/04_drive/04_google_drive_05.png)
 
-![Offline settings for Drive](images/04_drive/04_google_drive_04.png)
+You can also drag a file to a folder. Just click the mouse button to select a file and while keeping the mouse button pushed down move the file over to the folder and release the buttion.
 
-You can work on your files offline now. Any changes will sync to Google Drive the next time your Chromebook connects to the Internet.
+### Creating files in Google Drive
 
+So far we have only moved existing files to a folder.  You can create a new file in Google Drive by clicking the "New" button in the top left corner of the Google Drive home page and then selecting the type of file you want to create.  You can choose a "Google Doc" for a word-processing document, a "Google Sheet" for a spreadsheet, a "Google Slides" for a presentation, or other choices from the "More" menu. Once you've selected your file type, a new window will open with your new file.  From here you can begin to edit your file; specific types of Google files will be covered in later lessons.  Files in Google Drive are automatically saved to the folder you are in when the file is created.  So if you create a new file from your home page, the file will be saved there.  If you create a new file the "Cancer project," the file will be saved to that folder.  Remember that you can always move a file to a particular folder as shown before.
 
-### File Sharing
+![Create file](images/04_drive/04_google_drive_06.png)
 
-One of the best advantages of Google Drive is the ability to share files and folders. You can share the files and folders that you store in Google Drive with anyone using their email address (preferably their Gmail account). You can allow those people to edit, comment on, or only view the file. Editing gives more freedom to the person. They can change or even delete the file so be cautious. In order to share a file or folder right click on the file or folder and choose Share from the menu.
+### Uploading files to Google Drive
 
-![Sharing files and folders on Google Drive](images/04_drive/04_google_drive_05.png)
+You can also upload files or folders from your computer to Google Drive.  To do this, you again click the "New" button in the top left corner of the Google Drive home page and then select either "File upload" or "Folder upload."  Once selectedm a window will open that will allow you to navigate to the file or folder you'd like to upload.
 
-In the window that opens, enter the email address of the person you want to share the file/folder with and choose whether the person can edit, comment, or only view the content.
+![Upload file or folder](images/04_drive/04_google_drive_07.png)
 
-![Giving access to files and folders on Google Drive](images/04_drive/04_google_drive_06.png)
+### Deleting Files and folders
 
-If for some reason you want to stop sharing a file/folder that you have already shared, right click on the file/folder and choose Share again. In the bottom right corner of the window that pops up, click on Advanced. There you'll see a list of people you've shared the files/folders with. On the right of each name/email there is a cross, <img src="./img/05_googledrive/07_cross.png" width="150">. By clicking on it, you will remove access of that person to the file/folder. Click Save changes at the end.
+Deleting files and folders is easy on Google Drive. Simply right-click on the file you would like to delete and choose "Remove" from the menu. Be careful when deleting folders, though!  If you delete a folder, all the files in it will be deleted as well.
 
+![Delete file](images/04_drive/04_google_drive_08.png)
 
-### Deleting Files
-
-Deleting files on Google Drive is easy. On the web interface, click with two fingers on any file you would like to delete and choose 'Remove' from the menu. You can delete multiple files or folders by selecting them all while holding the Ctrl key. Once selected, you can click with two fingers and remove them. 
+You can delete multiple files or folders at once by first selecting them all while holding the Ctrl key. Once selected, you can right-click and delete them with the "Remove" option on the menu. 
 
 ### File Recovery
 
-If you mistakenly delete a file or change your mind after deleting a file, recovering a removed file on Google Drive is easy. Simply click on Trash on the left-hand menu in the web interface.
+If you do accidentally delete a file or change your mind once it's deleted, recovering a removed file on Google Drive is straight-forward. Deleted files are moved to the Trash folders within Google drive.  To recover a file, simply click on the "Trash" link on the left-hand menu.
 
-![The trash folder on Google Drive](images/04_drive/04_google_drive_07.png)
+![Trash folder](images/04_drive/04_google_drive_09.png)
 
-In Trash you can see a list of all the files that you have previously removed. Then, click with two fingers on the the file and select Restore.
+In Trash you can see a list of all the files that you have previously removed. Right-click on the file you want to recover and select "Restore."  The file when they be returned to its original folder on Google Drive.  If you're sure that you won't need the file ever again, you can clear some storage space by right-clicking on the file and choosing "Delete forever" from the menu. This option is *only* available within the "Trash" folder.  Use this option with caution!  By doing this your files will be deleted forever from your drive and can no longer be recovered.
 
-![Restoring files on Google Drive](images/04_drive/04_google_drive_08.png)
+### File Sharing
 
+One of the biggest advantages of Google Drive is the ability to share files and folders with other people. You can share individual files and folders that you store in Google Drive with anyone by using their email address (preferably their Gmail account). You can allow those people the permission to either edit, comment on, or only view the file. Permission to edit gives the person freedom to delete the file or change it in any way.  Permission to view will only allow the other person to read the file, but theu won't be able to change it.  Permission to comment allows the other person to insert comments on the file, but they won't be able to edit the file itself. To share a file or folder, just right click on the file or folder and select "Share" from the menu.
 
-If you're sure that you won't need the file forever, you can empty up some space by selecting the file(s)/folder(s) and clicking on Delete forever. By doing so your files will be deleted forever from your drive and can't be recovered. Use it with caution!
+![Sharing files and folders on Google Drive](images/04_drive/04_google_drive_05_10.png)
 
-![Deleting files forever](images/04_drive/04_google_drive_09.png)
+In the window that opens, enter the email address of the person you want to share the file/folder with and choose whether the person can edit, comment, or only view the content.
 
+If for some reason you want to stop sharing a file or folder that you have already shared, right click on the file and choose "Share" again. In the bottom right corner of the window that pops up, click on Advanced. There you'll see a list of people with whom you've shared the file. To the right of each name or email there is an X. By clicking on it, you will remove access of that person to the file. Click "Save changes" when you've finished removing access.
 
-### Organizing Files in Google Drive
+### Working Offline
 
-You will soon notice that after using Google Drive a lot, it can get hard to keep everything organized. The good news is that you can organize your files in Google Drive quite easily. Our strong suggestion is to keep in files in folders. Each file on Google Drive has a specific purpose and belongs to a specific project so it makes sense to put similar files in the same folder. We will learn the best folder structure and naming convention in future lessons. But let's go over the basics of organization in Google Drive. For starters, creating a folder is easy. Click on NEW on the top left corner of Google Drive home page and then choose Folder. A new windows pops up. Type the name of your folder and click on CREATE.
+The main advantage of cloud storage like Google Drive is that all of your files are stored online and are accessible whenever you want them. But what do you do when you don't have access to the Internet and want to access your files offline?  If you know in advance you will be without internet access, you can easily make Google Drive files available offline on your Chromebook. To do so, follow these steps:
 
-![Creating Folders on Google Drive](images/04_drive/04_google_drive_10.png)
+First, when online, install the [Google Docs Offline extension](https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi) by clicking on 'Add to Chrome'. If the button says "Added to Chrome," you've already installed the extension.
 
-Now that you have created a folder, you can start adding files to it. Let's assume you would like to add a Google Sheet that you created to a folder called `data_analysis_project_1`. For this, in the Google Drive home page find the file and right click on it. A menue opens and in the menue choose Move to. 
+![Google Drive extension for Chrome](images/04_drive/04_google_drive_11.png)
 
-![Moving a File to a Folder on Google Drive](images/04_drive/04_google_drive_11.png)
+Next, go to [Google Drive settings](drive.google.com/drive/settings) and in the "Offline" area, check the box. It might take a few minutes for the offline access setting to turn on.
 
-There you can select the folder you would like your file to be moved to. 
+![Offline settings for Drive](images/04_drive/04_google_drive_12.png)
 
-![Moving a File to a Folder on Google Drive](images/04_drive/04_google_drive_12.png)
+You are now ready to work on your files offline! Any changes will sync to Google Drive the next time your Chromebook connects to the Internet.
 
-If don't already have a folder, you can create one in the menue by clicking on the folder icon.
+### Storage limit 
 
+Your Google Drive account comes with 15GB of free storage. If this is not enough space, you can pay for more space: $1.99 per month buys  100GB of storage and $9.99 (as of February 2018) buys  1TB of storage. Note that the free 15GB is shared among all Google services, including Gmail and Drive, so, part of your storage may be used by your email attachments.  You can see how much storage you are using in the lower part of the left-hand menu on your home page.  There is also a link here to purchase additional storage.
 
-![Moving a File to a New Folder on Google Drive](images/04_drive/04_google_drive_13.png)
+![Storage information](images/04_drive/04_google_drive_13.png)
 
-You can also drag a file to a folder. Try it out! Click the mouse button to select a file and while keeping the mouse buttion pushed down move the file over to the folder and release the buttion. Lastly, note that you can delete a folder the same way that you delete a file but you have to be careful that by deleting a folder all the content in it will be deleted as well.
+### Security
 
+Google Drive encrypts your data before storing it. Encryption is any method that converts data to to encoded version for security purposes. Drive is encrypted using SSL, the same security protocol used on Gmail and other Google services. However, you're still responsible for securing your Google account. 
 
-### Security and Two-Step Verification
-
-Google Drive encrypts your data before storing it. Encryption is any method that converts data to to encoded version for security purposes. Drive is encrypted using SSL, the same security protocol used on Gmail and other Google services. However, you're responsible for securing your Google account. Our suggestion is to use Google's 2-step verification.
-
-By using Two-Step Verification (also known as two-factor authentication), you add an extra layer of security to your account. This requires you to enter your password and on top of that enter a code that is sent to your phone or email. To set up two-step verification on your Google Account (which then applies to all Google products), go to [Two-Step Verification](https://myaccount.google.com/signinoptions/two-step-verification/enroll-welcome) and select Get started and follow the step-by-step setup process.
-
+Two-Step Verification (also known as two-factor authentication), provides an extra layer of security to your account. This requires you to enter your password and on top of that enter a code that is sent to your phone or email. You've learned about two-step verification in a previous lesson; we strongly recommend you use Google's two-step verification to secure your files on Google Drive.
 
 ![Two-Step Verification setup](images/04_drive/04_google_drive_14.png)
 
+### More specifics on using Google Drive
+
+In this lesson, we have talked briefly about how to create files and folders in Google Drive, as well as how to delete, recover, and share your files.  There are many other features of Drive that you may want to eventually explore.  There are many tutorials for using Drive on YouTube.com. 
+
+Google also has extensive information on getting started with Drive on their G Suite Learning Center, which can be found at the following web address: https://gsuite.google.com/learning-center/products/drive/get-started/#!/
+
 ### Slides and Video
 
-![Google Drive](https://youtu.be/3gutbsAvmPA)
+![Google Drive]()
 
 * [Slides](https://docs.google.com/presentation/d/1y4ZrJSXqxr4eaPkjWrn1M5X9q3m8K9ihRoXUls2TXIs/edit?usp=sharing)
 
-{quiz, id: quiz_05_google_drive}
+{quiz, id: quiz_04_google_drive}
 
 ### Google Drive quiz
 
