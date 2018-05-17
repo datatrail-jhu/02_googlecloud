@@ -187,16 +187,13 @@ You can also download Google Docs documents in most common formats. You should c
 
 For sharing documents you can follow the procedure we learned in the lesson on Google Drive.
 
-### Compatibility with Microsoft Word
-
-Google Docs operates very similarly to Microsoft Word without a couple of Word's more advanced features. However, most tasks can be done with Google Docs, from simple text editing to importing images and graphs to exporting documents as PDFs. There are more in-depth guides on [creating documents](https://www.gcflearnfree.org/googlespreadsheets/creating-google-docs/1/) and [downloading and printing](https://www.gcflearnfree.org/googlespreadsheets/converting-and-printing-docs/1/).
-
-
 ### More specifics on using Google Docs
 
 This lesson has covered a number of helpful features within Google Docs. There are many more capabilities within this application, so feel free to play around and check out additional resources here and on the web.  For example, there are many tutorials for using Drive on YouTube.com. 
 
 Google also has extensive information on getting started with Drive on their G Suite Learning Center, which can be found at the following web address: https://gsuite.google.com/learning-center/products/docs/get-started/#!/
+
+If you're already familiar with Microsoft Word, Google Docs also operates very similarly without a couple of Word's more advanced features. However, most tasks can be done with Google Docs, from simple text editing to importing images and graphs to exporting documents as PDFs. There are more in-depth guides on [creating documents](https://www.gcflearnfree.org/googlespreadsheets/creating-google-docs/1/) and [downloading and printing](https://www.gcflearnfree.org/googlespreadsheets/converting-and-printing-docs/1/).
 
 
 ### Additional resources
