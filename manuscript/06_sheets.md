@@ -2,11 +2,11 @@
 
 As discussed in the introductory course in this series, one of the primary Google applications is the web-based spreadsheet editor, [Google Sheets](https://sheets.google.com). Google Sheets allows users to format and edit spreadsheets with other users simultaneously. As mentioned in an earlier course, this tool is very similar to Microsoft Excel in how you use it; however, Google Sheets makes working with others way easier than Microsoft Excel. As data scientists are often members of teams, this is a really helpful feature. The documents created with Google Sheets are compatible with Microsoft Excel files (.xlsx) and comma delimited values (.csv), two commonly-used spreadsheet file types, making Google Sheets a great option for working with data in spreadsheets.  
 
-To start working in Google Sheets, you'll want to go to the [Google Sheets URL](https://sheets.google.com) at https://sheets.google.com. If it's your first time on Google Sheets, you may see a window pop up offering to take you on a tour. Feel free to 'Take a Tour' if you're in the mood. If not, you can click the x in the top right side of this window to close the tour and just get started working in Google Sheets. If you don't see this window, welcome back to Google Sheets! 
+Like Google Docs, Google Sheets can be accessed from within Google Drive.  To create a new spreadsheet through Drive, simply click the "New" button in the top left corner of the Google Drive home page and then select "Google Sheets."  
 
-![Closing Take a Tour window](images/06_sheets/06_google_sheets-1.png)
+![Sheets on Google Drive](images/06_sheets/06_google_sheets-1.png)
 
-Under "Start a new spreadsheet" select the 'Blank' option to get started.
+Alternatively, you can go directly to the [Google Sheets URL](https://sheets.google.com) at https://sheets.google.com.   Remember, Google Drive contains all of the files you have stored on the cloud, while Google Sheets will only contain your spreadsheet files.  Google Sheets has a TEMPLATE GALLERY just like Google Docs, where you can choose a blank spreadsheet or select any of the available templates.  In our case, select the 'Blank' option under "Start a new spreadsheet" to get started. 
 
 ![Google Sheets Page](images/06_sheets/06_google_sheets-2.png)
 
@@ -100,11 +100,24 @@ If you're familiar with Excel, you may have merged cells together in the past. M
 
 ![Avoid merging cells](images/06_sheets/06_google_sheets-19.png)
 
+### Accessing, downloading, and sharing your spreadsheets
 
-### Where your Sheets are Saved
+All of the Google Sheets you generate are saved automatically on your Google Sheets account as well as to your Google Drive account. Just like Google Docs, Google Sheets has an auto-save feature that means you don't need to actively save your work.  
 
-All of the Google Sheets you generate are saved automatically on your Google Drive account. They can be accessed by going to [drive.google.com](drive.google.com) at any point in time. 
+You can also download your spreadsheet from Google Sheets in most common spreadsheet formats. You should click on "File" in the top menu and then select "Download as." You can then choose the format you want among the options including .csv (a comma separated file) and .xlsx (an Excel file).
 
+![Downloading spreadsheets](images/06_sheets/06_google_sheets-20.png)
+
+For sharing documents you can follow the procedure we learned in the lesson on Google Drive.  You can also share directly from the spreadsheet itself by clicking "File" in the top menu and then choosing "Share" and entering email addresses of the people you want to share with or getting a shareable link.
+
+![Sharing spreadsheets](images/06_sheets/06_google_sheets-21.png)
+
+
+### More specifics on using Google Sheets
+
+This lesson and the introductory course have covered a number of helpful features within Google Sheets. There is always more to learn, however, so check out the additional resources here and on the web.  For example, there are many tutorials for using Sheets on YouTube.com. 
+
+Google also has extensive information on getting started with Drive on their G Suite Learning Center, which can be found at the following web address: https://gsuite.google.com/learning-center/products/sheets/get-started/#!/
 
 ### Additional resources:
 - [modifying columns and rows](https://www.gcflearnfree.org/googlespreadsheets/modifying-columns-rows-and-cells/1/)
@@ -114,7 +127,7 @@ All of the Google Sheets you generate are saved automatically on your Google Dri
 
 ### Slides and Video
 
-![Google Sheets](https://www.youtube.com/watch?v=QtbOZEF2ChI)
+![Google Sheets]()
 
 * [Slides](https://docs.google.com/presentation/d/1IDBbmKBIdsMWB7JvHQSrWlgAPieU-S0lJfBJL5j4hT4/edit?usp=sharing)
 
