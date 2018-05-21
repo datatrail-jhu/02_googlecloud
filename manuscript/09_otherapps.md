@@ -1,4 +1,51 @@
-# Google Maps
+# Other Google cloud applications
+
+There are lots of other cloud-based applications that are compatible with working on a Chromebook.  We have already talked about the main ones relevant to working as a data scientist.  Here we will briefly talk about two other useful applications -- YouTube and Google Maps.  
+
+### YouTube
+
+YouTube, as you likely know, is a video-sharing website that allows users to upload and view all sorts of videos.  The videos hosted on YouTube range from home videos to music videos, movie trailers, and TV shows. Access to the content on Youtube is free but comes with commercials (you have to only pay to watch videos free of commercials). In order to upload videos, you need to have a Google account, but watching the content does not require any login. However, you need to login if you want to rate or comment on a video.
+
+For a data scientist, YouTube can be an excellent resource for video tutorials on tools and tips of the trade.  You can easily find step-by-step tutorials and other resources on any of the tools we've already discussed in this course by simply search YouTube.
+
+##### Accessing YouTube
+
+You can access YouTube by going to the URL [youtube.com](https://www.youtube.com/) in your web browser.  You can also click on the start menu located on the lower left hand corner of your Chromebook and searching for "YouTube".  
+
+If you aren't logged into your Google account, you will arrive at a generic YouTube home page, where you can watch videos and search for specific video content.
+
+![Generic YouTube Homepage](images/11_youtube/11_google_youtube_02.png)
+
+If you want to get more personalized results or create your own playlists, you should log in via your Google account. YouTube is good with learning about your preferences. If you watch a video that is about how to import data into R, YouTube will suggest more videos related to those keywords to you. There are various ways you can find videos on YouTube.
+
+- By browsing channels via the link https://www.youtube.com/channels. You can browse channels from news and politics to technology.
+- By searching videos by typing keywords in the search bar. For instance if you type "What is data science?", YouTube will find around 22 million videos.
+- By viewing the charts ranking the Most Popular videos in any given category by clicking on the Trending icon on the left menu.
+
+Note that you can filter your results when you search for specific keywords by clicking on the Filter icon on the top right corner. For instance, you can filter based on the length of the video or the time it was posted.
+
+![Filter Results](images/11_youtube/11_google_youtube_03.png)
+
+##### Data science on YouTube
+
+For our purposes, here is a list of some of the most popular YouTube channels on data science.
+
+![Data science channels](images/11_youtube/11_google_youtube_04.png)
+
+##### How to save videos to watch later
+
+Sometimes you may find an interesting video on YouTube, but you are too busy to watch it right away. There are a couple of options. You can either favorite a video by liking a video, or you can add the video to a playlist as shown in the picture.
+
+![Liking and Adding to Playlist](images/11_youtube/11_google_youtube_05.png)
+
+To find the videos you liked previously, you can click on Liked videos on the left menu.
+
+![Liked Videos](images/11_youtube/11_google_youtube_06.png)
+
+Overall, YouTube will be a great place to go to for finding answers to your questions. There are millions of videos explaining things that you might not know about or pertaining to topics that you don't want to read pages and pages of text in order to understand. Sometimes a good 5-minute video can be the most efficient way to get the information you need.
+
+
+### Google Maps
 
 You must have already worked with or at least heard of Google Maps. Google Maps is part of the lives of many people around the world: from finding the best route to a friend's house to finding the closest gas station to finding the best public transit to work.
 
@@ -47,6 +94,13 @@ These are some of the tips for a better search on Google Maps:
 {quiz, id: quiz_11_google_maps}
 
 ### Google Maps quiz
+
+? Which of the following is not a feature when using YouTube?
+
+A) Downloading videos
+b) Creating playlists
+c) Saving videos for later
+d) Uploading videos
 
 ? What are the different modes of transportation when using Google Maps for directions?
 
