@@ -1,6 +1,6 @@
 # Google Slides
 
-One of the many benefits to using Google Drive is its suite of document editors, completely free to use and accessible anywhere online. One of Drive's primary applications is the web-based slide presentation editor, Google Slides. Google Slides allows users to format and edit slide presentations. Other users can edit the slides simultaneously. It is compatible with Microsoft Powerpoint files (.pptx and .ppt).
+In addition to Google Docs for word documents and Google Sheets for spreadsheets, Google also has a web-based slide presentation editor called Google Slides.  Google Slides allows users to format and edit slide presentations and with Slide's sharing capabilities, multiple people can edit the slides at the same time.  If you've ever used Microsoft Slides as an online version of Powerpoint, but with the additional capability to work simultaneously with other users on the same set of slides!  It is compatible with Microsoft Powerpoint files (.pptx and .ppt).
 
 ### Google Slides Basics
 
