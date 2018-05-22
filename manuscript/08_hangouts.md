@@ -1,22 +1,34 @@
 # Google Hangouts
 
-Google Hangouts is a communication platform by Google and includes tools such as video chat, instant messaging, and SMS. Google Hangouts is mostly famous for the video conferencing feature. You can video chat with up to 10 people at the same time and instant message a team of up to 150 people. Google has added features from its previous services Google Voice and Google Talk to Google Hangouts. Google Hangouts is a good alternative to Skype.
+Google Hangouts is a communication platform by Google and includes tools such as messaging and video chat.  Google Hangouts is also famous for its video conferencing feature; you can video chat with up to 10 people at the same time and message a team of up to 150 people. These features make Google Hangouts an excellent tool for staying connected with collaborators, employers, and friends.
 
-One of the nice features of Hangouts is that it syncs automatically across devices, i.e. you can start a Hangouts on your phone and continue your chat on another device such as your laptop. 
+An additional bonus feature of Hangouts is that it syncs automatically across different devices.  That is, you can start a Hangout on your phone and continue your chat on another device such as your laptop. 
 
-### How to start a video chat?
+### Accessing your Google Hangout account
 
-Like any other Google service, you need a Google account in order to use Hangouts. You can either go to the link [https://hangouts.google.com](https://hangouts.google.com) or on your Chromebook, lunch Google Hangout from the App menu. If you're not logged in to your Google account, first log in. You will then be able to see a screen like this:
+Like the other Google services we've talked about, you need a Google account in order to use Hangouts. To access your Hangouts account, You can either go to the Hangouts URL at [https://hangouts.google.com](https://hangouts.google.com) or click on the start menu located on the lower left hand corner of your Chromebook and searching for "Hangouts".  If you're not already logged in to your Google account, first you'll need to log in. Here's a screenshot of Jane's Google Hangouts screen:
 
 ![Google Hangouts Picture](images/08_hangouts/08_google_hangouts-1.png)
 
-To initiate a video call simply click on the "Video Call" button located at the center of the screen.
+On this screen you can see that there are options for making a video call, a phone call, or sending a text message.
+
+### Starting a video chat
+
+You can initiate a video call by clicking on the "Video Call" button located at the center of the screen.
 
 ![Video call button](images/08_hangouts/08_google_hangouts-2.png)
 
-When this button is clicked a new screen will pop-up as shown below. To invite people to your google hangouts you can either search them by their names or emails or you can press the "Copy Link To Share" button and send them an invite link. 
+When this button is clicked, a new window will open for the video call.  Google Hangouts may request permission to use your computer's camera and microphone for the call.  If you see this request, you should click "Allow" to continue your call.   
 
-![Inviting people](images/08_hangouts/08_google_hangouts-3.png)
+![Granting Google Hangouts access to microphone and camera](images/08_hangouts/08_google_hangouts-3.png)
+
+Once you've given permission, you'll be taken to your call.  You can invite people to your video call in two ways.  One option is to enter their names or email addresses directly into the invitation box and click "Invite."  Another way is to click the "Copy Link To Share" button and paste this link into an your own email invitation.  This second option is an easy way to invite a large number of people to a video call.
+
+![Inviting people](images/08_hangouts/08_google_hangouts-4.png)
+
+Notice that if you have already exchanged emails with someone, meaning they are in your Gmail address book, they will automatically show up when you begin to type in the invitation box.  In this case, we see John.Everyday.Doe's contact information when we just type "John" into the box.
+
+![Auto-complete of contacts](images/08_hangouts/08_google_hangouts-5.png)
 
 During the video call if you press on the button at the very right corner 5 settings will show up:
 1. Share screen
