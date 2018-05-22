@@ -1,12 +1,9 @@
 # Google Slides
 
-In addition to Google Docs for word documents and Google Sheets for spreadsheets, Google also has a web-based slide presentation editor called Google Slides.  Google Slides allows users to format and edit slide presentations and with Slide's sharing capabilities, multiple people can edit the slides at the same time.  If you've ever used Microsoft Slides as an online version of Powerpoint, but with the additional capability to work simultaneously with other users on the same set of slides!  It is compatible with Microsoft Powerpoint files (.pptx and .ppt).
+In addition to Google Docs for word documents and Google Sheets for spreadsheets, Google also has a web-based slide presentation editor called Google Slides. Google Slides allows users to format and edit slide presentations online and with Slide's sharing capabilities, multiple people can edit the slides at the same time.  As a data scientist, Google Slides can be a powerful tool to present your work to your employer or contribute to a presentation with your colleagues.
 
-### Google Slides Basics
+If you've ever used Microsoft Powerpoint, you can think of Slides as an online version of Powerpoint, but with the additional capability to work simultaneously with other users on the same set of slides!  It is compatible with Microsoft Powerpoint files (.pptx and .ppt).
 
-One of the most convenient features of Google Drive and its applications is AutoSave. As soon as the application detects a change in the file, it will periodically save without any prompt from the user. No more worries about losing progress when the power goes out, the Internet disconnects, or even when a computer breaks down. Everything is on the Internet and saving automatically!
-
-Google Slides is very similar to [Microsoft Powerpoint](https://products.office.com/en-us/powerpoint). Most tasks that can be done in PowerPoint can also be done with Google Slides. From simple text addition and slide transitions to importing graphics and embedding [YouTube](https://www.youtube.com/) videos, all of this is possible in Google Slides. And, of course offline access to Slides works the same way as in Google Docs and Sheets.
 
 ### Presentation Guidelines
 
@@ -17,19 +14,27 @@ Before we talk details about how to work within Google Slides, we want to review
 3. Make sure images and text are as large as possible.
 4. Use consistent text font and colors throughout the presentation.
 
-### Getting Started 
+### Accessing Google Slides
 
-While covered previously, to review here, the simplest option for starting a new document is going to the [Google Slides URL](https://slides.google.com) https://slides.google.com. Under "Start a new presentation" select the "Blank" option or any of the templates available. Clicking on "TEMPLATE GALLERY" will expand the template options to include "Personal," "Work," and "Education" templates.
+Like Docs and Sheets, Google Slides can be accessed from within Google Drive.  To create a new presentation through Drive, simply click the "New" button in the top left corner of the Google Drive home page and then select "Google Slides."  
 
-![Google Slides Page](images/07_slides/07_google_slides-2.png)
+![Slides on Google Drive](images/07_slides/07_google_slides-2.png)
+
+Like Docs and Sheets, however, you can also access Google Slides directly through its own URL, [https://slides.google.com](https://slides.google.com).  Remember, Google Drive contains all of the files you have stored on the cloud, while Google Slides will only contain your presentation files.  Your Google Slides homepage will have the same structure as for Docs and Sheets.  You can see there is a TEMPLATE GALLERY at the top of the screen and recent presentations at the bottom.  To start a new presentation, you can select the "Blank" option or any of the available templates. 
+
+![Google Slides Page](images/07_slides/07_google_slides-3.png)
+
+Clicking on "TEMPLATE GALLERY" will expand the template options to include "Personal," "Work," and "Education" templates.
+
+![Expanded templates](images/07_slides/07_google_slides-4.png)
 
 Once you click on "Blank" to create a blank presentation, you can begin to type in the dotted boxes to add text to your presentation.
 
-![Adding text to Google Slides](images/07_slides/07_google_slides-3.png)
+![Adding text to Google Slides](images/07_slides/07_google_slides-5.png)
 
 ### Creating a Full Slideshow
 
-Thus far, this lesson has covered how to open a new slide show in Google Slides and how to enter text onto your first slide. However, to create a full slideshow, you'll want to know how to:
+So far, this lesson has covered how to open a new slide show in Google Slides and how to enter text onto your first slide. However, to create a full slideshow, you'll want to know how to:
 
 * Add new slides
 * Use different slide layouts
@@ -38,17 +43,17 @@ Thus far, this lesson has covered how to open a new slide show in Google Slides 
 * Change the theme and format of your slide show
 * Rearrange slide order
 
-The remainder of this lesson will be dedicated to covering these topics.
+The remainder of this lesson will be dedicated to covering these topics.  
 
 #### Adding new slides
 
 To add a new slide to your slideshow, you'll click the plus sign at the left on the toolbar at the top of your Google Slides presentation. 
 
-![New Slide](images/07_slides/07_google_slides-4.png)
+![New Slide](images/07_slides/07_google_slides-6.png)
 
 A second slide will appear in the panel at the left. The blue highlighting around around the second slide in the panel at the left indicates that that slide is the slide being displayed on the right.
 
-![New Slide highlighted in blue at left](images/07_slides/07_google_slides-5.png)
+![New Slide highlighted in blue at left](images/07_slides/07_google_slides-7.png)
 
 You may notice that this slide has a different layout than the first slide. The first slide had a large text box for the title. This slide, however, has a a text box for a title along the top and a large text box covering the rest of the slide. Google Slides is taking its best guess as to what type of slide you may want; however, you can always state which slide layout you want explicitly.
 
@@ -56,19 +61,19 @@ You may notice that this slide has a different layout than the first slide. The 
 
 If the slide layout being displayed is not the slide layout you want, this can be easily changed by clicking on the "Layout" icon from the toolbar. 
 
-![Layout icon](images/07_slides/07_google_slides-6.png)
+![Layout icon](images/07_slides/07_google_slides-8.png)
 
-There are a number of different layouts from which you can choose, depending upon your needs. Click on the layout you'd like to use and the slide will change to the layout you've selected.
+There are a number of different layouts from which you can choose, depending upon your needs. For example, you might only need a caption for a large image, so you could select the "Caption" layout choice.  Click on the layout you'd like to use and the slide will change to the layout you've selected.  You can always change the layout again if the one you've chosen doesn't work well.  As you gain experience making presentations, you will know which layouts work well for you!
 
-![select layout menu](images/07_slides/07_google_slides-7.png)
+![select layout menu](images/07_slides/07_google_slides-9.png)
 
 #### Formatting text
 
 As you start to add text to slides, you'll quickly realize that the icons along the top and steps required are the same as they were in Google Docs. This is by design. Google has designed its suite of products so that once you master a skill in one of its products, you can use it in its other products. That said, you already know how to format text from the Google Docs lesson, so we won't go over that here.
 
-![Process for formatting text is the same across Google Products](images/07_slides/07_google_slides-8.png)
+![Process for formatting text is the same across Google Products](images/07_slides/07_google_slides-10.png)
 
-While the process for formatting text is the same, the one thing that differs between Google Docs and Google Slides is the fact that the positioning of the text box in Google Slides is important (and something you didn't have to consider in Google Docs). To re-position a text box in Google slides, you'll first click on the text box. Then,, by hovering over the blue highlighted border around the text box, a arrow cross will appear, once this appears, you'll click and holding down. This will allow you to drag the text box to the the position on the slide where you want the box. Once the text is where you want it, you can release your click. The text box will now be wherever you've dropped the text box on the slide. 
+While the process for formatting text is the same, the one thing that differs between Google Docs and Google Slides is the fact that the positioning of the text box in Google Slides is important (and something you didn't have to consider in Google Docs). To re-position a text box in Google slides, you'll first click on the text box. Then, by hovering over the blue highlighted border around the text box, you will see an cross made of arrows appear.  Once this arrow cross appears, you click and hold down.  While still holding down, you can drag the text box to the the position on the slide where you want the box. Once the text is where you want it, you release release your click. The text box will now be wherever you've dropped the text box on the slide. 
 
 #### Adding and editing images
 
@@ -79,77 +84,85 @@ To add images to a slideshow, the process is again the same as in Google Docs, a
 Consider the following image in Google Slides. 
 Notice that the blue box around the outside of the image is much larger than the actual image we're interested in using. To crop out this extra white space, you'll want to first click on the icons, you'll select the crop icon.
 
-![Crop icon](images/07_slides/07_google_slides-9.png)
+![Crop icon](images/07_slides/07_google_slides-11.png)
 
 The outline around the image will now have black bars around it.
 
-![Remove whitespace from image](images/07_slides/07_google_slides-10.png)
+![Remove whitespace from image](images/07_slides/07_google_slides-12.png)
 
-These can be dragged to the position that you'd like the image to be. 
+These black bars can be dragged to the position that you'd like the image to be. 
 
-![Remove whitespace from image](images/07_slides/07_google_slides-11.png)
+![Remove whitespace from image](images/07_slides/07_google_slides-13.png)
 
-After the image is the size you want it to be, hit 'enter' or click away from the image on your screen. The image has now been cropped, as indicated by the now-smaller blue outline on the image!
+After the image is the size you want it to be, hit 'Enter' or click away from the image on your screen. The image has now been cropped, as indicated by the now-smaller blue outline on the image!
 
-![cropped image](images/07_slides/07_google_slides-12.png)
+![cropped image](images/07_slides/07_google_slides-14.png)
 
 #### Additional formatting options 
 
-Additional formatting options can be explored by two-finger clicking on the image to expose a menu with additional options or by clicking on the additional image-editing icons on the toolbar
+Additional formatting options can be explored by right-clicking on the image to expose a menu with additional options or by clicking on the additional image-editing icons on the toolbar.
 
-![Additional formatting options](images/07_slides/07_google_slides-13.png)
+![Additional formatting options](images/07_slides/07_google_slides-15.png)
 )
 
 #### Formatting and editing themes
 
 In addition to formatting individual text boxes and images on your slides, you may want to format the design of your entire slide show. This can be accomplished, by clicking on the "Theme" icon along the toolbar
 
-![Theme icon](images/07_slides/07_google_slides-14.png)
+![Theme icon](images/07_slides/07_google_slides-16.png)
 )
 
 Note: If you do not see the "Theme" icon, click on a blank spot on your slide. This will make the toolbar option appear.
 
 After clicking on the "Theme" icon, a panel will appear on the right side of your screen with all the pre-loaded themes available.
 
-![Themes available](images/07_slides/07_google_slides-15.png)
-)
+![Themes available](images/07_slides/07_google_slides-17.png)
 
 You can scroll through these themes. Clicking on one of these themes will apply the theme across every slide in your presentation.
 
-![Themes applied across entire presentation](images/07_slides/07_google_slides-16.png)
+![Themes applied across entire presentation](images/07_slides/07_google_slides-18.png)
 
 
 ##### Changing background color 
 
-In addition to pre-specified themes, you can also alter the background color of all your slides. To do so, you would two-finger click on a blank spot on your slide. On the menu that appears, you would select "Change background"
+In addition to pre-specified themes, you can also alter the background color of all your slides. To do so, you would right-click on a blank spot on your slide. On the menu that appears, you would select "Change background"
 
-![Change background](images/07_slides/07_google_slides-17.png)
+![Change background](images/07_slides/07_google_slides-19.png)
 
 A menu will appear where you can select the color you want your slides to be from the drop-down menu and click "Done." This will only change the background color of the slide on which you're currently working.
 
-![Change background color window](images/07_slides/07_google_slides-18.png)
+![Change background color window](images/07_slides/07_google_slides-20.png)
 
 #### Rearranging slides
 
 Sometimes as you're generating a slide show, you'll realize you'd rather your slides be in a different order. This can be fixed easily by clicking on a slide in the left hand panel of your Google Slides window, and dragging and dropping your slide to the position in your slide show where you'd rather it be.
 
+![Rearrange slides](images/07_slides/07_google_slides-21.png)
+
 ### Presenting Your Slideshow
 
 Once you have created all the slides you want in your slideshow, you can easily present them. On the right-hand corner of the window, click on Present and your slides will be in full-screen mode ready to be presented.
 
-![View your presentation](images/07_slides/07_google_slides-20.png)
+![View your presentation](images/07_slides/07_google_slides-22.png)
 
-### Accessing Your Slideshows
+### Accessing, downloading, and sharing your slides
 
-Assuming that you are logged into your Google account, when you go to the [Google Slides URL](https://slides.google.com) : https://slides.google.com, underneath the templates you will see the most recent slide presentations that are saved on your Google Drive under the "Recent presentations." Each of them can be opened and edited by clicking on them, which will redirect the current window to the existing slide presentation.
+All of the Google Slides you generate are saved automatically on your Google Slides account as well as to your Google Drive account. Like the other document editors you've learned about, Google Slides has an auto-save feature that means you don't need to actively save your work.
 
-Additionally, you can open slide presentations through [Google Drive](drive.google.com), either through going to the URL https://drive.google.com or by opening your file manager on your Chromebook and opening the Google Drive tab on the left hand menu. 
+You can also download your presentations from Google Slides in different formats, such as Microsoft Powerpoint of Adobe PDF files.  To do this, you would click on "File" in the top menu and then select "Download as." You can then choose the format you want among the various options.
 
-![Google Drive menu bar](images/07_slides/07_google_slides-21.png)
+![Download your presentation](images/07_slides/07_google_slides-23.png)
 
-### What's not covered here
+For sharing documents you can follow the procedure we learned in the lesson on Google Drive.  You can also share directly from the spreadsheet itself by clicking "File" in the top menu and then choosing "Share" and entering email addresses of the people you want to share with or getting a shareable link.
 
-Here, we have covered the basics of Google Slides. If you want to learn how to further customize your templates, how to add transitions and animations, and details on working with images, check out the additional resources links below. 
+![Sharing your presentation](images/07_slides/07_google_slides-24.png)
+
+### More specifics on using Google Slides
+
+Here, we have covered the basics of Google Slides. If you want to learn how to further customize your templates, how to add transitions and animations, and details on working with images, check out the additional resources links below search for tutorials on YouTube.com. 
+
+Google also has extensive information on getting started with Slides on their G Suite Learning Center, which can be found at the following web address: https://gsuite.google.com/learning-center/products/slides/get-started/#!/
+
 
 ### Additional resources
 * [Google's Slide Tutorial](https://gsuite.google.com/learning-center/products/slides/get-started/#!/)
@@ -160,7 +173,7 @@ Here, we have covered the basics of Google Slides. If you want to learn how to f
 
 ### Slides and Video
 
-![Google Slides](https://youtu.be/8nGD0-rzt7k)
+![Google Slides]()
 
 * [Slides](https://docs.google.com/presentation/d/1QafnUK8jji3UHdIjUvh-3ZVhY_72LOPLhX3kU0QYCHc/edit?usp=sharing)
 
@@ -204,3 +217,5 @@ c) Chromebook File Manager
 D) YouTube
 
 {/quiz}
+
+
