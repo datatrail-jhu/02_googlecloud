@@ -4,11 +4,11 @@ YouTube, as you likely know, is a video-sharing website that allows users to upl
 
 To access YouTube on your Chromebook, click on the red button on the left side of the screen.
 
-![YouTube on your Chromebook](images/11_youtube/11_google_youtube_01.png)
+![YouTube on your Chromebook](images/11_youtube/11_google_youtube-1.png)
 
 Then you can search anything on YouTube now
 
-![Search YouTube](images/11_youtube/11_google_youtube_02.png)
+![Search YouTube](images/11_youtube/11_google_youtube-2.png)
 
 If you want to get more personalized results or create playlists, you should login via your Google account. YouTube is good with learning about your preferences. If you watch a video that is about how to import data into R, YouTube will suggest more videos related to those keywords to you. There are various ways you can find videos on YouTube.
 
@@ -18,21 +18,21 @@ If you want to get more personalized results or create playlists, you should log
 
 Note that you can filter your results when you search for specific keywords by clicking on the Filter icon on the top right corner. For instance, you can filter based on the length of the video or the time it was posted.
 
-![Filter Results](images/11_youtube/11_google_youtube_03.png)
+![Filter Results](images/11_youtube/11_google_youtube-3.png)
 
 For our purposes, here is a list of some of the most popular YouTube channels on data science.
 
-![Data science channels](images/11_youtube/11_google_youtube_04.png)
+![Data science channels](images/11_youtube/11_google_youtube-4.png)
 
 ### How to save videos to watch later
 
 Sometimes you may find an interesting video on YouTube, but you are too busy to watch it right away. There are a couple of options. You can either favorite a video by liking a video, or you can add the video to a playlist as shown in the picture.
 
-![Liking and Adding to Playlist](images/11_youtube/11_google_youtube_05.png)
+![Liking and Adding to Playlist](images/11_youtube/11_google_youtube-5.png)
 
 To find the videos you liked previously, you can click on Liked videos on the left menu.
 
-![Liked Videos](images/11_youtube/11_google_youtube_06.png)
+![Liked Videos](images/11_youtube/11_google_youtube-6.png)
 
 Overall, YouTube will be a great place to go to for finding answers to your questions. There are millions of videos explaining things that you might not know about or pertaining to topics that you don't want to read pages and pages of text in order to understand. Sometimes a good 5-minute video can be the most efficient way to get the information you need.
 

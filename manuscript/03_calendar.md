@@ -8,7 +8,8 @@ Like Gmail, Google Calendar is included with your Google Account.  You can acces
 
 Once you access your calendar, you will see something like this:
 
-![Google Calendar screen](images/03_calendar/03_google_calendar_01.png)
+![Google Calendar screen](images/03_calendar/03_google_calendar-1.png)
+
 This shows a list of your scheduled events for the week. The shaded column and red line show the current day and time.  You can also look at your schedule in a daily, monthly, or yearly view by selecting the appropriate option from the drop-down menu at the top right part of your calendar.
 
 To the left of the scheduling window, you can see the different calendars available to be scheduled.  You should have a calendar with your name, in this case Jane Doe, and some defaults like Birthdays and Reminders.  Each calendar is given a different color on your schedule.  We will talk later about organizing your schedule by adding additional calendars.
@@ -17,34 +18,34 @@ To the left of the scheduling window, you can see the different calendars availa
 
 Right now there is nothing scheduled on this calendar.  To create a new event, click on the red button with the plus-sign in the bottom right corner of the page. 
 
-![Add Event](images/03_calendar/03_google_calendar_02.png)
+![Add Event](images/03_calendar/03_google_calendar-2.png)
 
 After clicking this button, a new page will be loaded where you can name the event, assign the event start time and end time as well as date, location, and description. 
 
-![Event settings](images/03_calendar/03_google_calendar_03.png)
+![Event settings](images/03_calendar/03_google_calendar-3.png)
 
 You can also share the event with others by entering their email addresses in the "Add guests"" section.  You can also schedule reminders for you event, which we will talk about a little bit later.  After entering all the information the event can be created by pressing the "Save" button at the top.
 
-![More event settings](images/03_calendar/03_google_calendar_04.png)
+![More event settings](images/03_calendar/03_google_calendar-4.png)
 
 Now you can see that the event has been added to your schedule on the appropriate day and time.  
 
-![New event](images/03_calendar/03_google_calendar_05.png)
+![New event](images/03_calendar/03_google_calendar-5.png)
 
 If you need to modify an event after creating it, you simply click on the event in the calendar and then press the "pencil" button.  This will re-open the scheduling window for the event.  You can make any necessary changes and then click "Save" again.  Any changes will also be made in the schedule of those you have invited to your event as guests.
 
-![Edit event](images/03_calendar/03_google_calendar_06.png)
+![Edit event](images/03_calendar/03_google_calendar-6.png)
 
 A short-cut method to creating new events is to simply click on your schedule where you want the event to go.  This will open a window where you can enter the name and time of the event.  From here you can click "Save" to schedule the event or "More options" to add additional information.  This short-cut method is handy for quickly scheduling events where the name and time is all of the information you need.
 
-![Short-cut event](images/03_calendar/03_google_calendar_07.png)
+![Short-cut event](images/03_calendar/03_google_calendar-7.png)
 
 
 ### Adding reminders to your events
 
 If you want to be reminded about an event in advance, you can schedule notifications for your event.  You can do this when you first create your event, or add reminders later.  First click on the event in your schedule and then the "pencil" button to edit the event.  In the scheduling window, look at the notification section, indicated by the red box.  
 
-![Notifications](images/03_calendar/03_google_calendar_08.png)
+![Notifications](images/03_calendar/03_google_calendar-8.png)
 
 You select how you want to be reminded of the event, either by a pop-up **notification** on your computer screen or through an **email** to your Gmail account.   You also choose how far in advance you want to be reminded, which can be in terms of minutes, hours, days, or weeks.  For meetings, you might choose to be reminded 30 minutes before the event, while for a friend's birthday you might choose a notification 1 day before.  For our event, we have choosen to have a pop-up notification reminder 30 minutes before the meeting.  You can add a second notification by clicking on "Add Notification" and remove notifications you don't want by clicking the "X" next to the notification you want to remove.
 
@@ -56,25 +57,25 @@ To help organize your schedule, you can create different calendars for different
 
 Suppose we want to create a new calendar for social events.  To create a new calendar, click on the + sign next to the "Add a friend's calendar" box to the left of your schedule and select "New calendar."  
 
-![Add calendar](images/03_calendar/03_google_calendar_09.png)
+![Add calendar](images/03_calendar/03_google_calendar-9.png)
 
 This will open a window where you can customize this new calendar.  Give  it a name, in this case "Social," and a description if you'd like.  Then click the "Create calendar" link.
 
-![New calendar](images/03_calendar/03_google_calendar_10.png)
+![New calendar](images/03_calendar/03_google_calendar-10.png)
 
 Once your calendar is created, you it will appear under the "My calendars" section to the left of your schedule.  (You get get back to your schedule by clicking on the back arrow at the top left of the settings screen.)  Now you can configure this calendar by hovering over the calendar name and then clicking on the three vertical dots to the left.  You can choose a particular color to use for this calendar if you don't like the one that is automatically assigned.  You can also configure the settings for the calendar by choosing the "Settings and sharing" option.
 
-![Configure calendar](images/03_calendar/03_google_calendar_11.png)
+![Configure calendar](images/03_calendar/03_google_calendar-11.png)
 
 In the "Settings" window, you can change the name of your calendar and edit the description.  You can also share the entire calendar with other people rather than just sharing an individual event.  If you scroll down to the "Event notifications" section, you can set up customized notifications for all events in the calendar.  To do this, click on the "ADD NOTIFICATION" link and choose the method and time for your default notifications.  For example, for social events, you might choose a one-day reminder over email. Now this will be the default notification for all events scheduled on your Social calendar, although you can still adjust the notifications for individual events in this calendar under the individual event settings.  
 
-![Calendar notifications](images/03_calendar/03_google_calendar_12.png)
+![Calendar notifications](images/03_calendar/03_google_calendar-12.png)
 
 One thing to remember is that while notifications can be useful, it can be overwhelming to constantly receive them. You should figure out the notification system that works best for you!
 
 Here you can see that Jane has the three calendars we talked about set up on her schedule.  The blue is her work events, the purple is her social events, and the red is her work plan for the day.  She has notifications set for 1 day on social events, 30 minutes on work events, and no notifications on her work plan for the day.  Using her calendar to schedule and organize her time helps her stay on task during the day.
 
-![Jane's schedule](images/03_calendar/03_google_calendar_13.png)
+![Jane's schedule](images/03_calendar/03_google_calendar-13.png)
 
 ### More specifics on using Google Calendar
 
@@ -84,7 +85,7 @@ Google also has extensive information on getting started with Calendar on their 
 
 ### Slides and Video
 
-![Google Calendar]()
+![Google Calendar](NA)
 
 * [Slides](https://docs.google.com/presentation/d/1t74f2Xf4h8Hoq8wK2LdI4H35d57Ty8Vpm1ifMuD5y9o/edit?usp=sharing)
 

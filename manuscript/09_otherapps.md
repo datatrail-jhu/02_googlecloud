@@ -14,7 +14,7 @@ You can access YouTube by going to the URL [youtube.com](https://www.youtube.com
 
 If you aren't logged into your Google account, you will arrive at a generic YouTube home page, where you can watch videos and search for specific video content.
 
-![Generic YouTube Homepage](images/11_youtube/11_google_youtube_02.png)
+![Generic YouTube Homepage](images/11_youtube/11_google_youtube-2.png)
 
 If you want to get more personalized results or create your own playlists, you should log in via your Google account. YouTube is good with learning about your preferences. If you watch a video that is about how to import data into R, YouTube will suggest more videos related to those keywords to you. There are various ways you can find videos on YouTube.
 
@@ -24,23 +24,23 @@ If you want to get more personalized results or create your own playlists, you s
 
 Note that you can filter your results when you search for specific keywords by clicking on the Filter icon on the top right corner. For instance, you can filter based on the length of the video or the time it was posted.
 
-![Filter Results](images/11_youtube/11_google_youtube_03.png)
+![Filter Results](images/11_youtube/11_google_youtube-3.png)
 
 ##### Data science on YouTube
 
 For our purposes, here is a list of some of the most popular YouTube channels on data science.
 
-![Data science channels](images/11_youtube/11_google_youtube_04.png)
+![Data science channels](images/11_youtube/11_google_youtube-4.png)
 
 ##### How to save videos to watch later
 
 Sometimes you may find an interesting video on YouTube, but you are too busy to watch it right away. There are a couple of options. You can either favorite a video by liking a video, or you can add the video to a playlist as shown in the picture.
 
-![Liking and Adding to Playlist](images/11_youtube/11_google_youtube_05.png)
+![Liking and Adding to Playlist](images/11_youtube/11_google_youtube-5.png)
 
 To find the videos you liked previously, you can click on Liked videos on the left menu.
 
-![Liked Videos](images/11_youtube/11_google_youtube_06.png)
+![Liked Videos](images/11_youtube/11_google_youtube-6.png)
 
 Overall, YouTube will be a great place to go to for finding answers to your questions. There are millions of videos explaining things that you might not know about or pertaining to topics that you don't want to read pages and pages of text in order to understand. Sometimes a good 5-minute video can be the most efficient way to get the information you need.
 
@@ -55,11 +55,11 @@ Google Maps is Google's mapping service that offers street maps, 360 degree pano
 
 Whether you walk, ride your bike, drive, or use public transportation, you can use Google Maps to get directions. Google Maps finds a list of the shortest routes that have the least traffic. It also knows bus or subway times for most big cities and adjusts your travel time based on your mode of transportation. You can review the route by checking out the turn-by-turn direction. In order to find direction to your destination, first enter your destination address and then select *Directions*. You can then enter your starting location (or leaving it as your current location). If you enter, Maps will suggest different routes to you (or just one route). By default, the shortest one is selected and other routes are shown in grey. You can easily change the mode of transportation by selecting different icons shown on the top left corner (car, train, etc.).
 
-![Finding Directions on Google Maps](images/09_maps/09_google_maps_01.png)
+![Finding Directions on Google Maps](images/09_maps/09_google_maps-1.png)
 
 If you click on OPTIONS, you can impose some restriction for the best route. For instance, if you are driving, you can choose to avoid tolls by clicking on OPTIONS and checking the box before Avoid Tolls.
 
-![Google Maps options](images/09_maps/09_google_maps_02.png)
+![Google Maps options](images/09_maps/09_google_maps-2.png)
 
 You can also use this feature as a GPS navigator. If you are using Google Maps on your phone, Maps will synchronize your current location with the route directions and uses automated voice to guide you step by step along your route. 
 
@@ -72,7 +72,7 @@ These are some of the tips for a better search for an address on Google Maps:
 
 A convenient feature of Google Maps is that it prioritizes the places you have already searched to in your new search and suggests them to you so you don't have to type in the whole address. You can also save an address as your work or home address. So instead of typing your complete work or home address, you can just type "work" or "home" and Google Maps will show directions to your addresses. For this you should click on the three bars menu on the top left corner and select "Your places". Try adding your home or work address to your Google Maps if you like.
 
-![Your places on Google Maps](images/09_maps/09_google_maps_03.png)
+![Your places on Google Maps](images/09_maps/09_google_maps-3.png)
 
 ### Finding Local Businesses
 

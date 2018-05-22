@@ -4,7 +4,6 @@ Google Docs can be accessed from within Google Drive.  To create a new document 
 
 Alternatively, you can go directly to the Google Docs URL https://docs.google.com to create a new document.  What's the difference? Google Drive contains all of the files you have stored on the cloud, including images, spreadsheets, and presentations.   Google Docs will contain only your word and text documents, so it can be useful when you only want to work with those types of files.  Here's an example of Jane's Google Docs page.  You can see her recent documents in the bottom part of the screen.  The top part, below "Start a new document" is called the TEMPLATE GALLERY, which allows you to quickly create a new document. To create a new document you can choose the blank option or any of the templates available. 
 
-
 Clicking on the "TEMPLATE GALLERY" link will expand the template options to include "Resumes," "Letters," "Personal," "Work," and "Education" templates. 
 
 Assuming that you are logged into your Google account, underneath the templates you will see the past documents that are saved on your Google Drive under the "Recent documents".  In Jane's account, we see only one. Each of them can be opened and edited by clicking on them, which will redirect the current window to the old word document. You can sort by date modified or by title by clicking on the "A-Z" button.
@@ -27,8 +26,7 @@ In addition to changing how some text is formatted or where it is on the page, y
 
 Inserting an image was touched on briefly in an earlier course; however, we'll cover how to insert an image into your Google Doc in more detail now. To insert an image, you'll make sure the cursor is in your document where you would like to insert the image, and then you'll click on the insert an image icon in the toolbar to display a drop-down menu with options.There are a number of ways in which you can insert an image that will appear on this menu. Most frequently, you'll likely be including images that are either on your computer or from a URL. We'll discuss those in detail now, but feel free to play around with the other options to understand them as well.
 
-If there's an image on the Internet that you would like to insert into your Google Doc, Google makes this simple for you. For example if you were on Google and searched for "R language image
-you'd likely get results looking something similar to this. If you were to click on 'Images for R language', you'd see lots of images from which to choose.
+If there's an image on the Internet that you would like to insert into your Google Doc, Google makes this simple for you. For example if you were on Google and searched for "R language image you'd likely get results looking something similar to this. If you were to click on 'Images for R language', you'd see lots of images from which to choose.
 
 If you were to scroll through these, you could select your favorite image, and two-finger click on it. 
 
@@ -42,7 +40,7 @@ The image you selected will automatically appear in that box. Now, you just have
 
 The image will now appear in your Google Doc!
 
-Whenever you're using an image that is not your own, whether in a Google Doc, a Google Sheet presentation, or anywhere else, it's important to include the source information, to give credit to the people whose image it is and to allow others to find the image if they want to. A final ote on inserting images from the web. If an image you select does not work with these instructions, there is a chance that you do not have permission to use that image. In that case, it's likely best to search for an alternate image. 
+Whenever you're using an image that is not your own, whether in a Google Doc, a Google Sheet presentation, or anywhere else, it's important to include the source information, to give credit to the people whose image it is and to allow others to find the image if they want to. A final note on inserting images from the web. If an image you select does not work with these instructions, there is a chance that you do not have permission to use that image. In that case, it's likely best to search for an alternate image. 
 
 In addition to inserting images from URL, you may need to insert images that are on your computer locally. We previously discussed that there is not much local storage on your Chromebook; however, if you have saved an image to that space, you can insert it in your Google Doc using the following procedure. First, you'll click on Insert Image Icon and click on the "Upload from computer" from the drop-down menu. On your Chromebook, this will give you access to your Downloads folder. 
 
