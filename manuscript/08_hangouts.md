@@ -30,7 +30,7 @@ Notice that if you have already exchanged emails with someone, meaning they are 
 
 ![Auto-complete of contacts](images/08_hangouts/08_google_hangouts-5.png)
 
-During the video call, the default is for your microphone and video camera to be on so that the other people on the call can both see and hear you.  You can choose to mute your audio and/or video feeds by clicking on the microphone and/or camera buttons at the bottom of the screen.  Sometimes it can be useful to mute your audio if you are listening into other people talking and don't want noises from your environment to distract from the call.  You can un-mute by simply clicking the appropriate button again.  You can also You can also click the three dots at the very right corner of the screen to see options for the call: share screen, fullscreen, chat, help, and feedback.
+During the video call, the default is for your microphone and video camera to be on so that the other people on the call can both see and hear you.  You can choose to mute your audio and/or video feeds by clicking on the microphone and/or camera buttons at the bottom of the screen.  Sometimes it can be useful to mute your audio if you are listening into other people talking and don't want noises from your environment to distract from the call.  You can un-mute by simply clicking the appropriate button again.  You can also click the three dots at the very right corner of the screen to see options for the call: share screen, fullscreen, chat, help, and feedback.
 
 ![Call options](images/08_hangouts/08_google_hangouts-6.png)
 
@@ -69,20 +69,23 @@ You can also message other people with Google accounts through Hangouts.  To sta
 
 ![Message button](images/08_hangouts/08_google_hangouts-13.png)
 
-Afterwards you can enter the names, email, or phone number of the people you want to message. When you find the correct person you can simply click on them and that will open a conversation box. You can also create a group chat by pressing on the "New group" button.
+Then you can enter the name, email address, or phone number of the person you want to message. When you find the correct person you can simply click on them and that will open a conversation box. Type your message in the box and hit enter to send the message!
 
-### How to start a group conversation?
+![Starting a conversation](images/08_hangouts/08_google_hangouts-14.png)
 
-In Hangouts, you can have a video/audio/text conversation with multiple people at the same time. You can have a conversation with up to 150 people and a video call with up to 25 people at the same time. Everyone who wants to join a group conversation must use Hangouts. In order to start a conversation with multiple people click on New conversation and then click on New group.
+### Group conversations
 
-![New Conversation](images/08_hangouts/08_google_hangouts-9.png)
+In Hangouts, you can have a video/audio/text conversation with multiple people at the same time. You can have a conversation with up to 150 people and a video call with up to 25 people at the same time. Everyone who wants to join a group conversation must use Hangouts. For a group video call, just enter in multiple names and/or email addresses when starting your call.  In text messaging, click on the "New group" link and then enter in the names and or email addresses and or phone numbers for all of the people in the group.
 
-Now, you can enter or select the names, phone numbers, or email addresses of all the people you want to add to the group. When you're done, you can click on the check mark and click on Message or Video call.
+![New group](images/08_hangouts/08_google_hangouts-15.png)
 
+### More specifics on using Google Calendar
+
+Google Hangouts is an excellent way to communicate with outhers about your work, all through a web browser or your Chromebook!  We've covered some of the main features of Hangouts here.  If you want to know more, you can search for tutorials on YouTube.com or check out Google's guide to getting started with Hangouts at the following web address: https://gsuite.google.com/learning-center/products/hangouts/get-started/#!/
 
 ### Slides and Video
 
-![Google Hangouts](https://youtu.be/CBiUP3Pj7mI)
+![Google Hangouts]()
 
 * [Slides](https://docs.google.com/presentation/d/14u2fp3D2t-umKnFOSfIxyDwfjIDMKJ9cBtqYUh_E93o/edit?usp=sharing)
 
