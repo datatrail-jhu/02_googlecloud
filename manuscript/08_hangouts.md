@@ -4,7 +4,7 @@ Google Hangouts is a communication platform by Google and includes tools such as
 
 An additional bonus feature of Hangouts is that it syncs automatically across different devices.  That is, you can start a Hangout on your phone and continue your chat on another device such as your laptop. 
 
-### Accessing your Google Hangout account
+### Accessing your Google Hangouts account
 
 Like the other Google services we've talked about, you need a Google account in order to use Hangouts. To access your Hangouts account, You can either go to the Hangouts URL at [https://hangouts.google.com](https://hangouts.google.com) or click on the start menu located on the lower left hand corner of your Chromebook and searching for "Hangouts".  If you're not already logged in to your Google account, first you'll need to log in. Here's a screenshot of Jane's Google Hangouts screen:
 
@@ -12,7 +12,7 @@ Like the other Google services we've talked about, you need a Google account in 
 
 On this screen you can see that there are options for making a video call, a phone call, or sending a text message.
 
-### Starting a video chat
+### Video chats
 
 You can initiate a video call by clicking on the "Video Call" button located at the center of the screen.
 
@@ -26,42 +26,48 @@ Once you've given permission, you'll be taken to your call.  You can invite peop
 
 ![Inviting people](images/08_hangouts/08_google_hangouts-4.png)
 
-Notice that if you have already exchanged emails with someone, meaning they are in your Gmail address book, they will automatically show up when you begin to type in the invitation box.  In this case, we see John.Everyday.Doe's contact information when we just type "John" into the box.
+Notice that if you have already exchanged emails with someone, meaning they are in your Gmail address book, they will automatically show up when you begin to type in the invitation box.  In this case, we see John Doe's contact information when we just type "John" into the box.
 
 ![Auto-complete of contacts](images/08_hangouts/08_google_hangouts-5.png)
 
-During the video call if you press on the button at the very right corner 5 settings will show up:
-1. Share screen
-2. Fullscreen
-3. Chat
-4. Help
-5. Feedback
+During the video call, the default is for your microphone and video camera to be on so that the other people on the call can both see and hear you.  You can choose to mute your audio and/or video feeds by clicking on the microphone and/or camera buttons at the bottom of the screen.  Sometimes it can be useful to mute your audio if you are listening into other people talking and don't want noises from your environment to distract from the call.  You can un-mute by simply clicking the appropriate button again.  You can also You can also click the three dots at the very right corner of the screen to see options for the call: share screen, fullscreen, chat, help, and feedback.
 
-If you want to share your screen with people currently in your hangout simply click on the "Share Screen" option and choose either to share your entire screen or just one specific application window that you have open.
+![Call options](images/08_hangouts/08_google_hangouts-6.png)
 
-![Share screen options](images/08_hangouts/08_google_hangouts-4.png)
+If you want to share your screen with people currently in your call simply click on the "Share Screen" option and choose either to share your entire screen or just one specific application window that you have open.  If you share your entire screen, the other people on your call will be able to see everything on your screen, even when you click between applications.  If you only share a single application window, they won't be able to see things on your screen that aren't in that application window.  Sharing a single application can be useful if you want to be able to check your email during the call without letting everyone else see your messages!
 
-You can stop sharing your screen by pressing on the "STOP" button located at the top of the screen. If you want to make the video call into fullscreen you can press the "Fullscreen" button on the same menu. Sometimes you need to type a message to everyone in the video call. You can do this by pressing the "Chat" button that will show a pop-up as the one shown below on the lower left corner.
+![Share screen options](images/08_hangouts/08_google_hangouts-7.png)
 
-![Message pop-up](images/08_hangouts/08_google_hangouts-5.png)
+Once you've shared your screen, you can stop sharing at any time by pressing on the "STOP" button located at the top of the screen. 
 
-For more information or if you are unsure about anything you can always click on the "Help" option that will open a new window with tutorials and guides on how to solve problems and explanations on how to use Google Hangouts.
+If you want to make the video call into fullscreen you can select the "Fullscreen" on the option menu. 
 
-### How to make a phone call in Hangouts?
+![Call options](images/08_hangouts/08_google_hangouts-8.png)
 
-Surprisingly, you can also make a phone call in Google Hangouts. You can do this by firs pressing on the "Phone Call" button.
+If you need to send a text message to everyone in the video call, you can choose "Chat" from option menu.  A message window will then open in the lower as the one shown below on the lower left corner of your call screen.  Simply type your message and press the arrow to send!
 
-![Phone call button](images/08_hangouts/08_google_hangouts-6.png)
+![Message pop-up](images/08_hangouts/08_google_hangouts-9.png)
 
-To enter a phone number you can press on the "New Conversation" button on the left menu. After entering the number you can select what country you want to call and simply press "Call".
+If you need more information or have any questions about using Google Hangouts, choose "Help" from the option menu.  This will open a new window with tutorials and guides on how to solve problems and explanations on how to use Google Hangouts.
 
-![Making calls](images/08_hangouts/08_google_hangouts-7.png)
+![Hangouts help](images/08_hangouts/08_google_hangouts-10.png)
 
-### How to send a message in Hangouts?
 
-To message people who have Google accounts you can start by pressing on the "Message" button.
+### Phone calls
 
-![Message button](images/08_hangouts/08_google_hangouts-8.png)
+You can also make a phone call in Google Hangouts. This allows you to contact someone through a phone number instead of via email address.  You make a call by clicking on the "Phone Call" button on the main Hangouts screen
+
+![Phone call button](images/08_hangouts/08_google_hangouts-11.png)
+
+To enter a phone number you can press on the "New Conversation" button on the left menu. After entering the number you can select what country you want to call and simply press "Call".  The first time you make a phone call from Hangouts, you may be asked to register a phone number where they can contact you if there are any problems with the call.  Follow the instructions onscreen to do this.
+
+![Making calls](images/08_hangouts/08_google_hangouts-12.png)
+
+### Messaging
+
+You can also message other people with Google accounts through Hangouts.  To start a message, click on the "Message" button.
+
+![Message button](images/08_hangouts/08_google_hangouts-13.png)
 
 Afterwards you can enter the names, email, or phone number of the people you want to message. When you find the correct person you can simply click on them and that will open a conversation box. You can also create a group chat by pressing on the "New group" button.
 
