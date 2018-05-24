@@ -203,7 +203,7 @@ If you're already familiar with Microsoft Word, Google Docs also operates very s
 
 ### Slides and Video
 
-![Google Docs](NA)
+![Google Docs](https://www.youtube.com/watch?v=0YFXnYCN-W0)
 
 * [Slides](https://docs.google.com/presentation/d/1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM/edit?usp=sharing)
 

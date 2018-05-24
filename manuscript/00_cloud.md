@@ -34,7 +34,7 @@ There are also concerns with the privacy and security of data that is stored rem
 
 ### Slides and Video
 
-![What is the Cloud?](https://youtu.be/NPDQnjWuG6M)
+![What is the Cloud?](https://www.youtube.com/watch?v=0ZBCsOvrUZg)
 
 * [Slides](https://docs.google.com/presentation/d/1ZJcA83EHDsMXevkZd7ALGNj4s4QufKag8WyS_-G4Sa4/edit?usp=sharing)
 

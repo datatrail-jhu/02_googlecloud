@@ -228,7 +228,7 @@ Last but not least, Slack has different plans for different uses. Companies ofte
 
 ### Slides and Video
 
-![Slack](https://youtu.be/2DPmdh2CSq8)
+![Slack](https://www.youtube.com/watch?v=PECLT7ZB3qA)
 
 * [Slides](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/edit?usp=sharing)
 

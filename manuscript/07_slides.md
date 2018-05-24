@@ -173,7 +173,7 @@ Google also has extensive information on getting started with Slides on their G 
 
 ### Slides and Video
 
-![Google Slides]()
+![Google Slides](https://www.youtube.com/watch?v=DWGafytTnJY)
 
 * [Slides](https://docs.google.com/presentation/d/1QafnUK8jji3UHdIjUvh-3ZVhY_72LOPLhX3kU0QYCHc/edit?usp=sharing)
 

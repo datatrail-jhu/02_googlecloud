@@ -85,7 +85,7 @@ Google Hangouts is an excellent way to communicate with outhers about your work,
 
 ### Slides and Video
 
-![Google Hangouts]()
+![Google Hangouts](https://www.youtube.com/watch?v=1WeUNMSeFy4)
 
 * [Slides](https://docs.google.com/presentation/d/14u2fp3D2t-umKnFOSfIxyDwfjIDMKJ9cBtqYUh_E93o/edit?usp=sharing)
 
