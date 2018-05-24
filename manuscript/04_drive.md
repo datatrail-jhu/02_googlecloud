@@ -110,7 +110,7 @@ Google also has extensive information on getting started with Drive on their G S
 
 * [Slides](https://docs.google.com/presentation/d/1y4ZrJSXqxr4eaPkjWrn1M5X9q3m8K9ihRoXUls2TXIs/edit?usp=sharing)
 
-{quiz, id: quiz_04_google_drive}
+{quiz, id: quiz_04_drive}
 
 ### Google Drive quiz
 

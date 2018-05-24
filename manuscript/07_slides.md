@@ -177,7 +177,7 @@ Google also has extensive information on getting started with Slides on their G 
 
 * [Slides](https://docs.google.com/presentation/d/1QafnUK8jji3UHdIjUvh-3ZVhY_72LOPLhX3kU0QYCHc/edit?usp=sharing)
 
-{quiz, id: quiz_08_googleslides}
+{quiz, id: quiz_07_slides}
 
 ### Google Slides quiz
 

@@ -89,7 +89,7 @@ Google also has extensive information on getting started with Calendar on their 
 
 * [Slides](https://docs.google.com/presentation/d/1t74f2Xf4h8Hoq8wK2LdI4H35d57Ty8Vpm1ifMuD5y9o/edit?usp=sharing)
 
-{quiz, id: quiz_03_google_calendar}
+{quiz, id: quiz_03_calendar}
 
 ### Google Calendar quiz
 

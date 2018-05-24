@@ -131,7 +131,7 @@ Google also has extensive information on getting started with Drive on their G S
 
 * [Slides](https://docs.google.com/presentation/d/1IDBbmKBIdsMWB7JvHQSrWlgAPieU-S0lJfBJL5j4hT4/edit?usp=sharing)
 
-{quiz, id: quiz_07_google_sheets}
+{quiz, id: quiz_06_sheets}
 
 ### Google Sheets quiz
 

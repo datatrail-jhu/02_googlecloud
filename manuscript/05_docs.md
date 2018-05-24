@@ -207,7 +207,7 @@ If you're already familiar with Microsoft Word, Google Docs also operates very s
 
 * [Slides](https://docs.google.com/presentation/d/1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM/edit?usp=sharing)
 
-{quiz, id: quiz_05_googledocs}
+{quiz, id: quiz_05_docs}
 
 ### Google Docs quiz
 

@@ -39,7 +39,7 @@ There are also concerns with the privacy and security of data that is stored rem
 * [Slides](https://docs.google.com/presentation/d/1ZJcA83EHDsMXevkZd7ALGNj4s4QufKag8WyS_-G4Sa4/edit?usp=sharing)
 
 
-{quiz, id: quiz_00_what_is_cloud}
+{quiz, id: quiz_00_cloud}
 
 ### What is the Cloud quiz
 

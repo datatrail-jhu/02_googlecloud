@@ -89,9 +89,9 @@ Google Hangouts is an excellent way to communicate with outhers about your work,
 
 * [Slides](https://docs.google.com/presentation/d/14u2fp3D2t-umKnFOSfIxyDwfjIDMKJ9cBtqYUh_E93o/edit?usp=sharing)
 
-{quiz, id: quiz_09_hangouts}
+{quiz, id: quiz_08_hangouts}
 
-### Google Sheets quiz
+### Google Hangouts quiz
 
 ? What is the maximum number of people you can video chat with in Google Hangouts?
 
