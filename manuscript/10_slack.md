@@ -237,7 +237,6 @@ Last but not least, Slack has different plans for different uses. Companies ofte
 ### Slack quiz
 
 {choose-answers: 4}
-
 ? Which one of the following is not a feature in Slack?
 
 C) Creating docs
@@ -248,7 +247,6 @@ o) Creating workspaces
 o) Joining workspaces
 
 {choose-answers: 4}
-
 ? What is an advantage of Slack?
 
 C) Conversations are organized into channels
@@ -259,7 +257,6 @@ o) It keeps all messages in a single place
 o) It does not allow for app integration
 
 {choose-answers: 4}
-
 ? How can you join a pre-existing Slack workspace
 
 C) using your work e-mail address
