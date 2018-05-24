@@ -54,7 +54,7 @@ Overall, YouTube is be a great place to go to for finding answers to your questi
 
 ### Slides and Video
 
-![YouTube]()
+![YouTube](https://www.youtube.com/watch?v=7ynct31Rjrk)
 
 * [Slides](https://docs.google.com/presentation/d/1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI/edit?usp=sharing)
 
@@ -70,4 +70,3 @@ c) Saving videos for later
 d) Uploading videos
 
 {/quiz}
-
