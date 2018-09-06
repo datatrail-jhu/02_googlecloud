@@ -212,7 +212,7 @@ If you're already familiar with Microsoft Word, Google Docs also operates very s
 ### Google Docs quiz
 
 {choose-answers:4}
-? Which one of the following is NOT true about Google Docs?
+?1 Which one of the following is NOT true about Google Docs?
 
 C) It only works online.
 C) It requires two-factor authentication.
@@ -223,7 +223,7 @@ o) You can export files as .docx and .pdf.
 o) It allows you to write text documents.
 
 {choose-answers:4}
-? To change the font size within a table, you would:
+?2 To change the font size within a table, you would:
 
 C) click on the text within the table, click on the font size icon in the toolbar, and click on the size you want the text to be
 C) select text in table, click font size icon, and choose size
@@ -235,7 +235,7 @@ o) copy the text into Google Sheets, since that's the only product that allows t
 
 
 {choose-answers:4}
-?1 From what source can you NOT include a photo within Google Docs?
+?3 From what source can you NOT include a photo within Google Docs?
 
 C) someone else's computer 
 C) some else's restricted directory on the cloud 
@@ -246,7 +246,7 @@ o) a URL
 o) Camera
 
 {choose-answers:4}
-?2 If you wanted your paragraph to be flush with both the left- and right-sides of your document, what alignment would you choose?
+?4 If you wanted your paragraph to be flush with both the left- and right-sides of your document, what alignment would you choose?
 
 C) justified
 o) left
@@ -255,7 +255,7 @@ o) center
 o) middle
 
 {choose-answers:4}
-?2 If you wanted your paragraph to be flush with the left-side of your document (but not necessarily aligned on the right), what alignment would you choose?
+?4 If you wanted your paragraph to be flush with the left-side of your document (but not necessarily aligned on the right), what alignment would you choose?
 
 C) left
 o) justified
