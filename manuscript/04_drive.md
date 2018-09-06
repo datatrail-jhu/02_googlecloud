@@ -114,23 +114,38 @@ Google also has extensive information on getting started with Drive on their G S
 
 ### Google Drive quiz
 
-? Is the following statement true? "Google Drive is a free service by Google that allows users to upload files without any limit on the size."
+?1 TRUE or FALSE: "Google Drive is a free service by Google that allows users to upload files without any limit on the size."
 
-a) Yes
-B) No
+a) TRUE
+B) FALSE
 
-? What is Google's two-step verification?
 
-a) It allows users to two more steps in addition to entering their password.
-b) It is for Google to shorten the time of logging in.
-c) It asks for users' valid identification such as driver's license.
-D) It is an additional step to increase the security of your Google account.
+?1 TRUE or FALSE: "Google Drive is a free service by Google that allows users to upload files to the cloud."
 
-? Which of the following statements is FALSE?
+A) TRUE
+b) FALSE
 
-a) Once files that exist in the trash folder are deleted, they can no longer be recovered.
-b) Files can be shared with anyone on Google Drive.
-C) Files can't be accessed offline
+{choose-answers:4}
+?2 What is Google's two-step verification?
+
+C) It is an additional step to increase the security of your Google account.
+C) It is a two-step process that increases security on your Google account.
+o) It allows users to two more steps in addition to entering their password.
+o) It is for Google to shorten the time of logging in.
+o) It asks for users' valid identification such as driver's license.
+o) It is a process that removes the need for a password.
+o) It is a two-step process that decreases the security on your Google account.
+
+{choose-answers:4}
+?3 Which of the following statements is FALSE?
+
+C) Files can't be accessed offline.
+C) Google Drive only allows files to be shared when offline
+o) Once files that exist in the trash folder are deleted, they can no longer be recovered.
+o) Files can be shared with anyone on Google Drive.
+o) Google Drive can store Sheets, Docs, and Slides.
+o) Google Drive allows files to be uploaded from your local computer.
+o) Google drive allows organization into different folders.
 
 {/quiz}
 

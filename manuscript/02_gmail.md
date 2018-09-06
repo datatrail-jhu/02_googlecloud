@@ -1,4 +1,4 @@
-# Using Gmail for email communications
+# Using Gmail for Email Communications
 
 Communication with your clients or your employer is an important part of being a data scientist.  E-mail, short for electronic mail, is an important part of the communication picture because of it's flexibility.  You can write messages of varying lengths, use formatting if you desire, and attach documents as needed.  Depending on your particular work situation, email may be your main means of communicating about your work.
 
@@ -44,7 +44,7 @@ A box will pop-up where you can enter the recipient's email address (in the *To*
 
 ![New message](images/02_gmail/02_google_gmail-7.png)
 
-You can send an email to multiple people by entering all the emails one after another in front of *To*. You can also add recipients in the Cc (copy) or Bcc (blind copy) fields by clicking on either of these links to the right of the *To* area. Recipients who are copied (Cc) will receive the email as if it is addressed to them; this option in usually used if you want them to be aware of the message but aren't expecting them to take any action or reply.  Recipients who are blind copied (Bcc) will receive the message, but their email addresses won't be visible to other recipients of the email.  This option is often used when sending an email to a long list of recipients where you don't want each individual to see the other people on the email.
+You can send an email to multiple people by entering all the emails one after another in front of *To*. You can also add recipients in the Cc (carbon copy) or Bcc (blind carbon copy) fields by clicking on either of these links to the right of the *To* area. Recipients who are copied (Cc) will receive the email as if it is addressed to them; this option in usually used if you want them to be aware of the message but aren't expecting them to take any action or reply.  Recipients who are blind copied (Bcc) will receive the message, but their email addresses won't be visible to other recipients of the email.  This option is often used when sending an email to a long list of recipients where you don't want each individual to see the other people on the email.
 
 You should also include a short informative subject in the *Subject* area so that the recipient will know what the contents of the email are about.  This is also helpful later when you may want to search your email to find a particular message.
 
@@ -111,17 +111,47 @@ In this tutorial, you can find additional information about creating and sending
 
 ### Gmail quiz
 
+{choose-answers:4}
 ? What is the limit on the size of email attachments?
 
-a) 5 MB
-b) 10 MB
 C) 25 MB
-d) 100 MB
+o) 25 KB
+o) 25 GB
+o) 5 MB
+o) 5 KB
+o) 5 GB
+o) 10 MB
+o) 10 KB
+o) 10 GB
+o) 100 MB
+o) 100 KB
+o) 100 GB
 
+{choose-answers:4}
 ? When sending an email, what is the Bcc field?
 
-A) Email addresses entered in this filed will be hidden from anyone else on the email.
-b) The location of the attachment should be entered there.
-c) The subject of the email should be entered there.
+C) Email addresses entered in this filed will be hidden from other recipients on the email.
+C) "Blind Carbon Copy"
+C) A way to send emails to individuals without showing their email address to other recipients 
+o) where to type the location of the attachment.
+o) where to type the subject of the email.
+o) where to type the body of the email
+o) where to enter an image in your email
+
+changing the font type and size, bolding text, including bullet lists, and more
+
+{choose-answers:4}
+? Which of the following is *not* an option within Gmail?
+
+C) insert code chunk
+C) attach Dropbox file
+C) send via USPS
+o) change font
+o) change font size
+o) bold text
+o) enter bulletted lists
+o) enter numbered lists
+o) underline text
+o) change text color
 
 {/quiz}

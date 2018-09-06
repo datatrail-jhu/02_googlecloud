@@ -135,25 +135,38 @@ Google also has extensive information on getting started with Drive on their G S
 
 ### Google Sheets quiz
 
-? Spreadsheets created in Google Sheets can be downloaded as which of the following formats?
+{choose-answers:4}
+? Which of the following is a possible way in which spreadsheets created in Google Sheets can be downloaded?
 
-a) .xlsx
-b) .pdf
-c) .csv
-D) All of the above
+C) .xlsx
+C) .pdf
+C) .csv
+o) .docx
+o) .R
+o) .Rmd
+o) .png
+o) .svg
+o) .doc
 
+{choose-answers:4}
 ? If you highlight an entire column and try to drop its contents on top of another column, what will happen?
 
-a) It will overwrite the contents of the column where you dropped the data.
-b) It will delete the current data.
 C) It will insert your column to the right or left of existing data.
-d) Nothing.
+C) It will add that column to the side of the existing data.
+o) It will overwrite the contents of the column where you dropped the data.
+o) It will delete the current data.
+o) Nothing.
+o) It will delete all data in the other columns of the spreadsheet.
+o) It will change the color of the text in all other columns.
 
+{choose-answers:4}
 ? If you have put text-wrapping on a column and then attempted to auto-adjust the width of the column, what happens?
 
-a) Text-wrapping is automatically turned off and auto-adjustment happens as if text wrapping weren't on.
-b) Text-wrapping remains on but auto-adjustment happens as if text wrapping weren't on
-c) Nothing
-D) Text-wrapping remains on and column is not auto-adjusted
+C) Text-wrapping remains on and column is not auto-adjusted.
+C) Text will still wrap within the cell; Auto-adjustment will not occur.
+o) Text-wrapping is automatically turned off and auto-adjustment happens as if text wrapping weren't on.
+o) Text-wrapping remains on but auto-adjustment happens as if text wrapping weren't on.
+o) The column's contents will be deleted.
+o) The font size of the text-wrapped column will decrease.
 
 {/quiz}

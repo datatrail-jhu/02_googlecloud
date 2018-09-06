@@ -181,40 +181,62 @@ Google also has extensive information on getting started with Slides on their G 
 
 ### Google Slides quiz
 
+{choose-answers:4}
 ? What is Google Slides?
 
-a) The same thing as PowerPoint
-b) An online spreadsheet editor
 C) An online slide editor 
-d) An online document editor
-e) An online calculator 
+o) The same thing as PowerPoint
+o) An online spreadsheet editor
+o) An online document editor
+o) An online calculator 
 
+{choose-answers:4}
 ? What should you have the most of on your slides?
 
-A) pictures
-b) words
-c) empty blank space
+C) pictures
+C) images
+C) figures
+o) words
+o) empty blank space
+o) text
+o) bulleted lists
+o) numbered lists
 
+{choose-answers:4}
 ? Why don't you have to worry about saving your work with Google Slides?
 
-a) You don't want to save your work
-b) Google Slides exports to PowerPoint
-c) Google Slides allows for image import
-D) Google Slides has AutoSave
+C) Google Slides has AutoSave
+C) Google Slides will save automatically
+o) You don't want to save your work
+o) Google Slides exports to PowerPoint
+o) Google Slides allows for image import
+o) Google Slides automatically converts to Google Docs
+o) Google Slides automatically converts to Google Sheets
+o) Google Slides isn't compatible with Google Drive
 
+
+{choose-answers:4}
 ? What is a slide theme?
 
-a) how you arrange text and images on a slide
-b) a design that applies to the current slide in your presentation
 C) a design that applies to to every slide in your presentation
-d) how to change the background color of a single slide
+C) a template that will change the appearance of slides throughout your presentation
+o) how you arrange text and images on a slide
+o) a design that applies to the current slide in your presentation
+o) how to change the background color of a single slide
+o) an image that will appear on your current slide
+o) a way to change the font in the header on your current slide
 
+{choose-answers:4}
 ? Where can you NOT access your Google Slides?
 
-a) Google Drive URL
-b) Google Sheets URL
-c) Chromebook File Manager
-D) YouTube
+C) YouTube
+C) Dropbox
+C) Microsoft Excel
+C) Microsoft Word
+C) Microsoft Powerpoint
+o) Google Drive URL
+o) Google Sheets URL
+o) Chromebook File Manager
 
 {/quiz}
 

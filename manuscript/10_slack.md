@@ -250,6 +250,8 @@ o) Joining workspaces
 ? What is an advantage of Slack?
 
 C) Conversations are organized into channels
+C) Messages are organized into channels
+C) Private messaging outside of channels is possible
 o) It only allows for private messaging
 o) It can only be accessed offline
 o) It does not allow for private channels

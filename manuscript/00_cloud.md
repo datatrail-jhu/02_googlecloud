@@ -9,7 +9,7 @@ default-random-choice-order: true
 
 You may have heard the term *cloud computing* before, and data scientists often talk about working on the *cloud*. But what exactly is the cloud?
 
-*Cloud storage* refers to data or document storage on the internet rather than on your personal computer. If you take pictures using your phone and then they are backed up on iCloud or Google Photos, you are using the *cloud*.  Using the cloud for storage is like having an external hard drive (portable storage device) that you don't ever see and can't actually hold in your hands.
+*Cloud storage* refers to data or document storage on the Internet rather than on your personal computer. If you take pictures using your phone and then they are backed up on iCloud or Google Photos, you are using the *cloud*.  Using the cloud for storage is like having an external hard drive (portable storage device) that you don't ever see and can't actually hold in your hands.
 
 ### Cloud computing
 
@@ -18,7 +18,7 @@ You may have heard the term *cloud computing* before, and data scientists often 
 
 ### What are the advantages of using the cloud?
 
-A major advantage of the cloud is the ability to access your files everywhere,  even if you don't have your personal computer with you. Since storage and applications work over the internet, they can be accessed from any computer with an internet connection.
+A major advantage of the cloud is the ability to access your files everywhere,  even if you don't have your personal computer with you. Since storage and applications work over the Internet, they can be accessed from any computer with an Internet connection.
 
 An important advantage of cloud storage is that your files are safe even if your computer is lost or damaged.  Because your files are not stored *on* your computer itself, they are safe and available even if your computer is stolen, you spill coffee on your keyboard, or there's a natural disaster in your area. Moreover, most cloud storage services provide back-up services in case you delete files by mistake. These back-up services allow for accidentally deleted files to be recovered and restored. 
 
@@ -28,7 +28,7 @@ Finally, working with the cloud puts the responsibility of maintaining software 
 
 ### What are the disadvantages of using the cloud?
 
-The most obvious disadvantage of working on the cloud is that you need an internet connection to access storage and computing power. You cannot work "offline" away from the internet.  However, with wireless internet service (wifi) available widely in libraries, coffee shops, and other public places, it's possible to work on the cloud from almost anywhere!
+The most obvious disadvantage of working on the cloud is that you need an Internet connection to access storage and computing power. You cannot work "offline" away from the Internet.  However, with wireless Internet service (wifi) available widely in libraries, coffee shops, and other public places, it's possible to work on the cloud from almost anywhere!
 
 There are also concerns with the privacy and security of data that is stored remotely. Privacy and security are issues that must be address by both providers and users of cloud-based services.   Service providers need to ensure that the files stored at their data centers are safe and secure. Users need to take advantage of authentication measures and use strong passwords to ensure that no one can gain access to their account. Most major cloud-based service providers do a good job in securing your data. Specifically, their infrastructure is set up so that you can avoid security issues by being serious about protecting your account access information through your choice of password and by using two-factor authentication for logins. Briefly, two-factor authentication is a way of proving your identity to a service provider in two steps. The first step that is by providing a password. The second step involves using a physical object in your possession, such as a phone, to prove your identity. For example, you may also need to enter a code that is sent to your phone during the login process.  This means someone would need both your password and physical possession of your phone to access your account.  It is good practice to chose two-factor authentication whenever it is offered by a service provider.
 
@@ -43,12 +43,29 @@ There are also concerns with the privacy and security of data that is stored rem
 
 ### What is the Cloud quiz
 
+{choose-answers:4}
+? When using cloud-based storage and computing, what is your local computer (i.e. your Chromebook) used for?
+
+C) Connecting to the Internet to access the cloud
+C) Providing an interface to the cloud via the Internet
+C) Running the software that interfaces with the Internet
+o) Writing the software you'll need to download the cloud
+o) Saving all your files and software
+o) Downloading new versions of software after each update
+o) It acts as a modem to access the cloud.
+o) It acts as a circuit to access the cloud.
+
+
+{choose-answers:4}
 ? Which one of the following is NOT an advantage of using cloud-based storage or computing?
 
-a) Remote computers are more powerful
-B) You need access to Internet to access your files
-c) You won't lose your files if you lose your computer
-d) You can access your files everywhere
+C) You need access to Internet to access your files
+C) Using the cloud requires Internet access
+C) Cloud computing raises new privacy and security concerns 
+o) Remote computers are more powerful than local storage
+o) You won't lose your files if you lose your computer
+o) You can access your files everywhere
+o) You don't have to download and install a new version of software each time updates are made and a new version is released.
 
 {/quiz}
 

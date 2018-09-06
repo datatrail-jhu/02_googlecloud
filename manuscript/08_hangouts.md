@@ -93,19 +93,28 @@ Google Hangouts is an excellent way to communicate with outhers about your work,
 
 ### Google Hangouts quiz
 
+{choose-answers:4}
 ? What is the maximum number of people you can video chat with in Google Hangouts?
 
-a) 2
-b) 5
 C) 25
-d) Unlimited
+o) 2
+o) 5
+o) 10
+o) 15
+o) 20
+o) Unlimited
 
+{choose-answers:4}
 ? Which one of the following is NOT a feature of Google Hangouts?
 
-a) Audio conversations
-b) Video conversations
-c) Text conversations
-D) Sending large attachments
+C) Sending large attachments
+C) Slide presentation creation
+C) Sheet creation
+C) Document creation
+o) Audio conversations
+o) Video conversations
+o) Text conversations
+o) Picture sharing
 
 {/quiz}
 

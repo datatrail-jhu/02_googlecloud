@@ -211,32 +211,56 @@ If you're already familiar with Microsoft Word, Google Docs also operates very s
 
 ### Google Docs quiz
 
+{choose-answers:4}
 ? Which one of the following is NOT true about Google Docs?
 
-a) It's free.
-b) It autosaves the most recent changes.
-c) You can export files as .docx and .pdf.
-D) It only works online.
+C) It only works online.
+C) It requires two-factor authentication.
+C) It requires a separate login from other Google accounts.
+o) It's free.
+o) It autosaves the most recent changes.
+o) You can export files as .docx and .pdf.
+o) It allows you to write text documents.
 
+{choose-answers:4}
 ? To change the font size within a table, you would:
 
-A) click on the text within the table, click on the font size icon in the toolbar, and click on the size you want the text to be
-b) click on Insert > table and modify font size from that menu
-c) not be able to. Google Docs does not have this functionality
-d) click on text outside the table, click on the font size icon in the toolbar, and click on the size you want the text to be
+C) click on the text within the table, click on the font size icon in the toolbar, and click on the size you want the text to be
+C) select text in table, click font size icon, and choose size
+o) click on Insert > table and modify font size from that menu
+o) not be able to. Google Docs does not have this functionality
+o) click on text outside the table, click on the font size icon in the toolbar, and click on the size you want the text to be
+o) click on text outside the table and say out loud the font size you want it to be
+o) copy the text into Google Sheets, since that's the only product that allows text size to be altered
 
-? From what source can you NOT include a photo within Google Docs?
 
-a) your computer
-b) a website
-c) Google Drive
-D) someone else's computer 
+{choose-answers:4}
+?1 From what source can you NOT include a photo within Google Docs?
 
-? If you wanted your paragraph to be flush with both the left- and right-sides of your document, what alignment would you choose?
+C) someone else's computer 
+C) some else's restricted directory on the cloud 
+o) your computer
+o) a website
+o) Google Drive
+o) a URL
+o) Camera
 
-a) left
-b) right
-c) center
-D) justified
+{choose-answers:4}
+?2 If you wanted your paragraph to be flush with both the left- and right-sides of your document, what alignment would you choose?
+
+C) justified
+o) left
+o) right
+o) center
+o) middle
+
+{choose-answers:4}
+?2 If you wanted your paragraph to be flush with the left-side of your document (but not necessarily aligned on the right), what alignment would you choose?
+
+C) left
+o) justified
+o) right
+o) center
+o) middle
 
 {/quiz}

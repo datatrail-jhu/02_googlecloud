@@ -93,14 +93,34 @@ Google also has extensive information on getting started with Calendar on their 
 
 ### Google Calendar quiz
 
-? Is sharing calendars a feature of Google Calendar?
+?1 TRUE or FAlSE: Sharing calendars is a feature of Google Calendar?
 
-a) No
-B) Yes
+A) TRUE
+b) FALSE
 
-? If you're looking at your Google Calendar on your phone, will an event entered on your computer show up?
+?1 TRUE or FAlSE: Sharing calendars is *not* a feature of Google Calendar?
 
-a) No
-B) Yes
+a) TRUE
+B) FALSE
+
+?2 TRUE or FALSE: An event entered int your Google Calendar on your computer will be visible when you look at your Google Calendar on your phone.
+
+A) TRUE
+b) FALSE
+
+?2 TRUE or FALSE: An event entered int your Google Calendar on your computer will *not* be visible when you look at your Google Calendar on your phone.
+
+a) TRUE
+B) FALSE
+
+?3 TRUE or FALSE: Reminders should be shut off immediately when using Google Calendars.
+
+a) TRUE
+B) FALSE
+
+?3 TRUE or FALSE: Reminders in Google Calendars should always be set at 5 minutes.
+
+a) TRUE
+B) FALSE
 
 {/quiz}

@@ -62,11 +62,16 @@ Overall, YouTube is be a great place to go to for finding answers to your questi
 
 ### Google Maps quiz
 
-? Which of the following is not a feature when using YouTube?
+{choose-answers:4}
+? Which of the following is *not* a feature when using YouTube?
 
-A) Downloading videos
-b) Creating playlists
-c) Saving videos for later
-d) Uploading videos
+C) Downloading videos
+C) Creating a Spreadsheet
+o) Creating playlists
+o) Saving videos for later
+o) Uploading videos
+o) Commenting on videos
+o) Reading others' comments on videos
+
 
 {/quiz}
