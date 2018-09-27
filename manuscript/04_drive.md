@@ -30,7 +30,7 @@ Now that you have created a folder, you can start adding files to it. Suppose yo
 
 ![Moving a File to a Folder on Google Drive](images/04_drive/04_google_drive-5.png)
 
-You can also drag a file to a folder. Just click the mouse button to select a file and while keeping the mouse button pushed down move the file over to the folder and release the buttion.
+You can also drag a file to a folder. Just click the mouse button to select a file and while keeping the mouse button pushed down move the file over to the folder and release the button.
 
 ### Creating files in Google Drive
 
@@ -40,7 +40,7 @@ So far we have only moved existing files to a folder.  You can create a new file
 
 ### Uploading files to Google Drive
 
-You can also upload files or folders from your computer to Google Drive.  To do this, you again click the "New" button in the top left corner of the Google Drive home page and then select either "File upload" or "Folder upload."  Once selectedm a window will open that will allow you to navigate to the file or folder you'd like to upload.
+You can also upload files or folders from your computer to Google Drive.  To do this, you again click the "New" button in the top left corner of the Google Drive home page and then select either "File upload" or "Folder upload."  Once selected, a window will open that will allow you to navigate to the file or folder you'd like to upload.
 
 ![Upload file or folder](images/04_drive/04_google_drive-7.png)
 
@@ -62,7 +62,7 @@ In Trash you can see a list of all the files that you have previously removed. R
 
 ### File Sharing
 
-One of the biggest advantages of Google Drive is the ability to share files and folders with other people. You can share individual files and folders that you store in Google Drive with anyone by using their email address (preferably their Gmail account). You can allow those people the permission to either edit, comment on, or only view the file. Permission to edit gives the person freedom to delete the file or change it in any way.  Permission to view will only allow the other person to read the file, but theu won't be able to change it.  Permission to comment allows the other person to insert comments on the file, but they won't be able to edit the file itself. To share a file or folder, just right click on the file or folder and select "Share" from the menu.
+One of the biggest advantages of Google Drive is the ability to share files and folders with other people. You can share individual files and folders that you store in Google Drive with anyone by using their email address (preferably their Gmail account). You can allow those people the permission to either edit, comment on, or only view the file. Permission to edit gives the person freedom to delete the file or change it in any way.  Permission to view will only allow the other person to read the file, but they won't be able to change it.  Permission to comment allows the other person to insert comments on the file, but they won't be able to edit the file itself. To share a file or folder, just right click on the file or folder and select "Share" from the menu.
 
 ![Sharing files and folders on Google Drive](images/04_drive/04_google_drive-10.png)
 
@@ -106,7 +106,7 @@ Google also has extensive information on getting started with Drive on their G S
 
 ### Slides and Video
 
-![Google Drive](https://www.youtube.com/watch?v=fT3hjLxi20U)
+![Google Drive](https://www.youtube.com/watch?v=5IiKZ6gY0iQ)
 
 * [Slides](https://docs.google.com/presentation/d/1y4ZrJSXqxr4eaPkjWrn1M5X9q3m8K9ihRoXUls2TXIs/edit?usp=sharing)
 

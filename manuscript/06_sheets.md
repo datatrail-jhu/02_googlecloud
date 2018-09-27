@@ -12,9 +12,9 @@ Alternatively, you can go directly to the [Google Sheets URL](https://sheets.goo
 
 ### Entering Data 
 
-Entering data was covered in an earlier lesson; however, briefly here, to enter text into a cell, you put your cursor in that cell and type what you want in the cell. This skill was used to generate the leanpub data for your first data science project. We'll be using this data as an example to demonstrate the features in Google Sheets with which you'll want to be familiar. To follow along with this lesson on your own, you could open up that Google Sheet you previously created and try out all of the features discussed in this lesson on your own.
+Entering data was covered in an earlier lesson; however, briefly here, to enter text into a cell, you put your cursor in that cell and type what you want in the cell. This skill was used to generate the Leanpub data for your first data science project. We'll be using this data as an example to demonstrate the features in Google Sheets with which you'll want to be familiar. To follow along with this lesson on your own, you could open up that Google Sheet you previously created and try out all of the features discussed in this lesson on your own.
 
-![leanpub data](images/06_sheets/06_google_sheets-3.png)
+![Leanpub data](images/06_sheets/06_google_sheets-3.png)
 
 You'll also note that within Google Sheets there are options similar to options in Google Docs allowing you to alter the font, size, and color of the data in your Google Sheet. We're not going to discuss these options in detail for one particular reason. In data science, spreadsheets are used to store data. So, we tend to be most interested in the actual data in these sheets, and are not particularly interested in how pretty the data are. In fact, if you change the color of the text or increase its size in Google Sheets, when you later read that data into RStudio to analyze it, that information is lost. So, we try to avoid conveying information in spreadsheets with color highlighting or font changes. Thus, while it's possible, this functionality will largely be ignored for our purposes.
 
@@ -120,14 +120,15 @@ This lesson and the introductory course have covered a number of helpful feature
 Google also has extensive information on getting started with Drive on their G Suite Learning Center, which can be found at the following web address: https://gsuite.google.com/learning-center/products/sheets/get-started/#!/
 
 ### Additional resources:
-- [modifying columns and rows](https://www.gcflearnfree.org/googlespreadsheets/modifying-columns-rows-and-cells/1/)
-- [formatting cells](https://www.gcflearnfree.org/googlespreadsheets/formatting-cells/1/)
-- [working with multiple sheets](https://www.gcflearnfree.org/googlespreadsheets/working-with-multiple-sheets/1/)
+
+* [modifying columns and rows](https://www.gcflearnfree.org/googlespreadsheets/modifying-columns-rows-and-cells/1/)
+* [formatting cells](https://www.gcflearnfree.org/googlespreadsheets/formatting-cells/1/)
+* [working with multiple sheets](https://www.gcflearnfree.org/googlespreadsheets/working-with-multiple-sheets/1/)
 
 
 ### Slides and Video
 
-![Google Sheets](https://www.youtube.com/watch?v=i2kPTOmMRx0)
+![Google Sheets](https://www.youtube.com/watch?v=UT_BDoLoPG0)
 
 * [Slides](https://docs.google.com/presentation/d/1IDBbmKBIdsMWB7JvHQSrWlgAPieU-S0lJfBJL5j4hT4/edit?usp=sharing)
 

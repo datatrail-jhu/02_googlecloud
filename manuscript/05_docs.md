@@ -74,6 +74,7 @@ What if, in addition to formatting the text itself you wanted to alter where the
 * right-aligned - aligned on the right side of the page
 * justified - aligned so that the text is flush with both the left- and right-sides of the page
 
+
 To use these options, again, you'll highlight the text you would like to align and then click on the appropriate alignment option:
 
 ![different alignment options within Google Doc](images/05_docs/05_google_docs-11.png)
@@ -196,14 +197,14 @@ Google also has extensive information on getting started with Drive on their G S
 If you're already familiar with Microsoft Word, Google Docs also operates very similarly without a couple of Word's more advanced features. However, most tasks can be done with Google Docs, from simple text editing to importing images and graphs to exporting documents as PDFs. There are more in-depth guides on [creating documents](https://www.gcflearnfree.org/googlespreadsheets/creating-google-docs/1/) and [downloading and printing](https://www.gcflearnfree.org/googlespreadsheets/converting-and-printing-docs/1/).
 
 
-### Additional resources
+### Additional Resources
 
 * [Google's Google Doc Tutorial](https://gsuite.google.com/learning-center/products/docs/get-started/#!/)
 * [GCF Learn Tutorial](https://www.gcflearnfree.org/googledocuments/creating-google-docs/1/)
 
 ### Slides and Video
 
-![Google Docs](https://www.youtube.com/watch?v=0YFXnYCN-W0)
+![Google Docs](https://www.youtube.com/watch?v=W-hoROrz7tE)
 
 * [Slides](https://docs.google.com/presentation/d/1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM/edit?usp=sharing)
 

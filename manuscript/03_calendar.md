@@ -85,7 +85,7 @@ Google also has extensive information on getting started with Calendar on their 
 
 ### Slides and Video
 
-![Google Calendar](https://www.youtube.com/watch?v=YqPK5KXvHDw)
+![Google Calendar](https://www.youtube.com/watch?v=oTwsFeh20FE)
 
 * [Slides](https://docs.google.com/presentation/d/1t74f2Xf4h8Hoq8wK2LdI4H35d57Ty8Vpm1ifMuD5y9o/edit?usp=sharing)
 
