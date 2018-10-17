@@ -98,52 +98,59 @@ After the image is the size you want it to be, hit 'Enter' or click away from th
 
 ![cropped image](images/07_slides/07_google_slides-14.png)
 
+##### Aligning objects
+
+In addition to adding images, often you'll want to be sure that images on your slides are aligned so that they look good when you go to present the information. Google Slides makes that pretty easy to do. To align images, you'll drag your cursor over the ojbects to select all the objects you want to align. Once selected, you'll right click on the selected objects to display a menu. You'll then use the "Align horizontally" and "Align vertically" options to align the objects the way you want them.
+
+![Aligning objects](images/07_slides/07_google_slides-15.png)
+
+
 #### Additional formatting options 
 
 Additional formatting options can be explored by right-clicking on the image to expose a menu with additional options or by clicking on the additional image-editing icons on the toolbar.
 
-![Additional formatting options](images/07_slides/07_google_slides-15.png)
+![Additional formatting options](images/07_slides/07_google_slides-16.png)
 )
 
 #### Formatting and editing themes
 
 In addition to formatting individual text boxes and images on your slides, you may want to format the design of your entire slide show. This can be accomplished, by clicking on the "Theme" icon along the toolbar
 
-![Theme icon](images/07_slides/07_google_slides-16.png)
+![Theme icon](images/07_slides/07_google_slides-17.png)
 )
 
 Note: If you do not see the "Theme" icon, click on a blank spot on your slide. This will make the toolbar option appear.
 
 After clicking on the "Theme" icon, a panel will appear on the right side of your screen with all the pre-loaded themes available.
 
-![Themes available](images/07_slides/07_google_slides-17.png)
+![Themes available](images/07_slides/07_google_slides-18.png)
 
 You can scroll through these themes. Clicking on one of these themes will apply the theme across every slide in your presentation.
 
-![Themes applied across entire presentation](images/07_slides/07_google_slides-18.png)
+![Themes applied across entire presentation](images/07_slides/07_google_slides-19.png)
 
 
 ##### Changing background color 
 
 In addition to pre-specified themes, you can also alter the background color of all your slides. To do so, you would right-click on a blank spot on your slide. On the menu that appears, you would select "Change background"
 
-![Change background](images/07_slides/07_google_slides-19.png)
+![Change background](images/07_slides/07_google_slides-20.png)
 
 A menu will appear where you can select the color you want your slides to be from the drop-down menu and click "Done." This will only change the background color of the slide on which you're currently working.
 
-![Change background color window](images/07_slides/07_google_slides-20.png)
+![Change background color window](images/07_slides/07_google_slides-21.png)
 
 #### Rearranging slides
 
 Sometimes as you're generating a slide show, you'll realize you'd rather your slides be in a different order. This can be fixed easily by clicking on a slide in the left hand panel of your Google Slides window, and dragging and dropping your slide to the position in your slide show where you'd rather it be.
 
-![Rearrange slides](images/07_slides/07_google_slides-21.png)
+![Rearrange slides](images/07_slides/07_google_slides-22.png)
 
 ### Presenting Your Slideshow
 
 Once you have created all the slides you want in your slideshow, you can easily present them. On the right-hand corner of the window, click on Present and your slides will be in full-screen mode ready to be presented.
 
-![View your presentation](images/07_slides/07_google_slides-22.png)
+![View your presentation](images/07_slides/07_google_slides-23.png)
 
 ### Accessing, downloading, and sharing your slides
 
@@ -151,11 +158,11 @@ All of the Google Slides you generate are saved automatically on your Google Sli
 
 You can also download your presentations from Google Slides in different formats, such as Microsoft Powerpoint of Adobe PDF files.  To do this, you would click on "File" in the top menu and then select "Download as." You can then choose the format you want among the various options.
 
-![Download your presentation](images/07_slides/07_google_slides-23.png)
+![Download your presentation](images/07_slides/07_google_slides-24.png)
 
 For sharing documents you can follow the procedure we learned in the lesson on Google Drive.  You can also share directly from the spreadsheet itself by clicking "File" in the top menu and then choosing "Share" and entering email addresses of the people you want to share with or getting a shareable link.
 
-![Sharing your presentation](images/07_slides/07_google_slides-24.png)
+![Sharing your presentation](images/07_slides/07_google_slides-25.png)
 
 ### More specifics on using Google Slides
 
@@ -175,7 +182,7 @@ Google also has extensive information on getting started with Slides on their G 
 
 ### Slides and Video
 
-![Google Slides](https://www.youtube.com/watch?v=HhKdw3PFing)
+![Google Slides](https://www.youtube.com/watch?v=wCWGYFWLHxE)
 
 * [Slides](https://docs.google.com/presentation/d/1QafnUK8jji3UHdIjUvh-3ZVhY_72LOPLhX3kU0QYCHc/edit?usp=sharing)
 

@@ -28,6 +28,8 @@ These can be dragged to the position that you'd like the image to be.
 
 After the image is the size you want it to be, hit 'enter' or click away from the image on your screen. The image has now been cropped, as indicated by the now-smaller blue outline on the image!
 
+In addition to adding images, often you'll want to be sure that images on your slides are aligned so that they look good when you go to present the information. Google Slides makes that pretty easy to do. To align images, you'll drag your cursor over the ojbects to select all the objects you want to align. Once selected, you'll right click on the selected objects to display a menu. You'll then use the "Align horizontally" and "Align vertically" options to align the objects the way you want them.
+
 Additional formatting options can be explored by right-clicking on the image to expose a menu with additional options or by clicking on the additional image-editing icons on the toolbar.
 
 In addition to formatting individual text boxes and images on your slides, you may want to format the design of your entire slide show. This can be accomplished, by clicking on the "Theme" icon along the toolbar. Note that if you do not see the "Theme" icon, click on a blank spot on your slide. This will make the toolbar option appear.
