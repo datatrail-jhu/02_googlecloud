@@ -1,6 +1,6 @@
 # Google Hangouts
 
-Google Hangouts is a communication platform by Google and includes tools such as messaging and video chat.  Google Hangouts is also famous for its video conferencing feature; you can video chat with up to 10 people at the same time and message a team of up to 150 people. These features make Google Hangouts an excellent tool for staying connected with collaborators, employers, and friends.
+Google Hangouts is a communication platform by Google and includes tools such as messaging and video chat.  Google Hangouts is also famous for its video conferencing feature; you can video chat with up to 25 people at the same time and message a team of up to 150 people. These features make Google Hangouts an excellent tool for staying connected with collaborators, employers, and friends.
 
 An additional bonus feature of Hangouts is that it syncs automatically across different devices.  That is, you can start a Hangout on your phone and continue your chat on another device such as your laptop. 
 
