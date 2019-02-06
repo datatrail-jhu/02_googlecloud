@@ -138,8 +138,6 @@ o) where to type the subject of the email.
 o) where to type the body of the email
 o) where to enter an image in your email
 
-changing the font type and size, bolding text, including bullet lists, and more
-
 {choose-answers:4}
 ? Which of the following is *not* an option within Gmail?
 
