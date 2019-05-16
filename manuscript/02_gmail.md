@@ -1,6 +1,6 @@
 # Using Gmail for Email Communications
 
-Communication with your clients or your employer is an important part of being a data scientist.  E-mail, short for electronic mail, is an important part of the communication picture because of it's flexibility.  You can write messages of varying lengths, use formatting if you desire, and attach documents as needed.  Depending on your particular work situation, email may be your main means of communicating about your work.
+Communication with your clients or your employer is an important part of being a data scientist.  E-mail, short for electronic mail, is an important part of the communication picture because of its flexibility.  You can write messages of varying lengths, use formatting if you desire, and attach documents as needed.  Depending on your particular work situation, email may be your main means of communicating about your work.
 
 When using a Chromebook on the cloud, the email application of choice is Gmail.  [Gmail](https://www.gmail.com/) is a free e-mail service provided by Google that provides users with a gigabyte of free storage for messages and includes the ability to easily search for specific emails. Gmail also automatically organizes related emails into a conversational thread, meaning that a message and all replies to that message are stored together.
 

@@ -153,7 +153,6 @@ o) .doc
 ? If you highlight an entire column and try to drop its contents on top of another column, what will happen?
 
 C) It will insert your column to the right or left of existing data.
-C) It will add that column to the side of the existing data.
 o) It will overwrite the contents of the column where you dropped the data.
 o) It will delete the current data.
 o) Nothing.

@@ -30,7 +30,7 @@ Notice that if you have already exchanged emails with someone, meaning they are 
 
 ![Auto-complete of contacts](https://docs.google.com/presentation/d/14u2fp3D2t-umKnFOSfIxyDwfjIDMKJ9cBtqYUh_E93o/export/png?id=14u2fp3D2t-umKnFOSfIxyDwfjIDMKJ9cBtqYUh_E93o&pageid=g37d79d2dad_0_28)
 
-During the video call, the default is for your microphone and video camera to be on so that the other people on the call can both see and hear you.  You can choose to mute your audio and/or video feeds by clicking on the microphone and/or camera buttons at the bottom of the screen.  Sometimes it can be useful to mute your audio if you are listening into other people talking and don't want noises from your environment to distract from the call.  You can un-mute by simply clicking the appropriate button again.  You can also click the three dots at the very right corner of the screen to see options for the call: share screen, fullscreen, chat, help, and feedback.
+During the video call, the default is for your microphone and video camera to be on so that the other people on the call can both see and hear you.  You can choose to mute your audio and/or video feeds by clicking on the microphone and/or camera buttons at the bottom of the screen.  Sometimes it can be useful to mute your audio if you are listening to other people talking and don't want noises from your environment to distract you from the call.  You can un-mute by simply clicking the appropriate button again.  You can also click the three dots at the very right corner of the screen to see options for the call: share screen, fullscreen, chat, help, and feedback.
 
 ![Call options](https://docs.google.com/presentation/d/14u2fp3D2t-umKnFOSfIxyDwfjIDMKJ9cBtqYUh_E93o/export/png?id=14u2fp3D2t-umKnFOSfIxyDwfjIDMKJ9cBtqYUh_E93o&pageid=g3adab2989a_0_0)
 
@@ -79,7 +79,7 @@ In Hangouts, you can have a video/audio/text conversation with multiple people a
 
 ![New group](https://docs.google.com/presentation/d/14u2fp3D2t-umKnFOSfIxyDwfjIDMKJ9cBtqYUh_E93o/export/png?id=14u2fp3D2t-umKnFOSfIxyDwfjIDMKJ9cBtqYUh_E93o&pageid=g3adab2989a_0_92)
 
-### More specifics on using Google Calendar
+### More specifics on using Google Hangouts
 
 Google Hangouts is an excellent way to communicate with outhers about your work, all through a web browser or your Chromebook!  We've covered some of the main features of Hangouts here.  If you want to know more, you can search for tutorials on YouTube.com or check out Google's guide to getting started with Hangouts at the following web address: https://gsuite.google.com/learning-center/products/hangouts/get-started/#!/
 

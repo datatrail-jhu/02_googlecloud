@@ -24,7 +24,7 @@ You'll be brought to a screen where to create your own team, you'll want to clic
 
 ![Create a new workspace](images/10_slack/10_google_slack-2.png)
 
-You'll then be either asked for your email, which you should enter and then click "Confirm."
+You'll then be asked for your email, which you should enter and then click "Confirm."
 
 ![Enter email to continue](images/10_slack/10_google_slack-3.png)
 

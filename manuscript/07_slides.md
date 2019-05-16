@@ -73,7 +73,7 @@ As you start to add text to slides, you'll quickly realize that the icons along 
 
 ![Process for formatting text is the same across Google Products](https://docs.google.com/presentation/d/1QafnUK8jji3UHdIjUvh-3ZVhY_72LOPLhX3kU0QYCHc/export/png?id=1QafnUK8jji3UHdIjUvh-3ZVhY_72LOPLhX3kU0QYCHc&pageid=g395957ea90_2_28)
 
-While the process for formatting text is the same, the one thing that differs between Google Docs and Google Slides is the fact that the positioning of the text box in Google Slides is important (and something you didn't have to consider in Google Docs). To re-position a text box in Google slides, you'll first click on the text box. Then, by hovering over the blue highlighted border around the text box, you will see an cross made of arrows appear.  Once this arrow cross appears, you click and hold down.  While still holding down, you can drag the text box to the the position on the slide where you want the box. Once the text is where you want it, you release release your click. The text box will now be wherever you've dropped the text box on the slide. 
+While the process for formatting text is the same, the one thing that differs between Google Docs and Google Slides is the fact that the positioning of the text box in Google Slides is important (and something you didn't have to consider in Google Docs). To re-position a text box in Google slides, you'll first click on the text box. Then, by hovering over the blue highlighted border around the text box, you will see a cross made of arrows appear.  Once this arrow cross appears, you click and hold down.  While still holding down, you can drag the text box to the the position on the slide where you want the box. Once the text is where you want it, you can release. The text box will now be wherever you've dropped the text box on the slide. 
 
 #### Adding and editing images
 
@@ -90,7 +90,7 @@ The outline around the image will now have black bars around it.
 
 ![Remove whitespace from image](https://docs.google.com/presentation/d/1QafnUK8jji3UHdIjUvh-3ZVhY_72LOPLhX3kU0QYCHc/export/png?id=1QafnUK8jji3UHdIjUvh-3ZVhY_72LOPLhX3kU0QYCHc&pageid=g395957ea90_2_53)
 
-These black bars can be dragged to the position that you'd like the image to be. 
+These black bars can be dragged to the position where you'd like the image to be. 
 
 ![Remove whitespace from image](https://docs.google.com/presentation/d/1QafnUK8jji3UHdIjUvh-3ZVhY_72LOPLhX3kU0QYCHc/export/png?id=1QafnUK8jji3UHdIjUvh-3ZVhY_72LOPLhX3kU0QYCHc&pageid=g395957ea90_2_61)
 
@@ -100,24 +100,22 @@ After the image is the size you want it to be, hit 'Enter' or click away from th
 
 ##### Aligning objects
 
-In addition to adding images, often you'll want to be sure that images on your slides are aligned so that they look good when you go to present the information. Google Slides makes that pretty easy to do. To align images, you'll drag your cursor over the ojbects to select all the objects you want to align. Once selected, you'll right click on the selected objects to display a menu. You'll then use the "Align horizontally" and "Align vertically" options to align the objects the way you want them.
+In addition to adding images, often you'll want to be sure that images on your slides are aligned so that they look good when you go to present the information. Google Slides makes that pretty easy to do. To align images, you'll drag your cursor over the objects to select all the objects you want to align. Once selected, you'll right click on the selected objects to display a menu. You'll then use the "Align horizontally" and "Align vertically" options to align the objects the way you want them.
 
 ![Aligning objects](https://docs.google.com/presentation/d/1QafnUK8jji3UHdIjUvh-3ZVhY_72LOPLhX3kU0QYCHc/export/png?id=1QafnUK8jji3UHdIjUvh-3ZVhY_72LOPLhX3kU0QYCHc&pageid=g450ce1f32d_0_4)
 
 
 #### Additional formatting options 
 
-Additional formatting options can be explored by right-clicking on the image to expose a menu with additional options or by clicking on the additional image-editing icons on the toolbar.
+Additional formatting options can be explored by right-clicking on the image that will show a menu with additional options or by clicking on the additional image-editing icons on the toolbar.
 
 ![Additional formatting options](https://docs.google.com/presentation/d/1QafnUK8jji3UHdIjUvh-3ZVhY_72LOPLhX3kU0QYCHc/export/png?id=1QafnUK8jji3UHdIjUvh-3ZVhY_72LOPLhX3kU0QYCHc&pageid=g395957ea90_2_71)
-)
 
 #### Formatting and editing themes
 
 In addition to formatting individual text boxes and images on your slides, you may want to format the design of your entire slide show. This can be accomplished, by clicking on the "Theme" icon along the toolbar
 
 ![Theme icon](https://docs.google.com/presentation/d/1QafnUK8jji3UHdIjUvh-3ZVhY_72LOPLhX3kU0QYCHc/export/png?id=1QafnUK8jji3UHdIjUvh-3ZVhY_72LOPLhX3kU0QYCHc&pageid=g395957ea90_2_82)
-)
 
 Note: If you do not see the "Theme" icon, click on a blank spot on your slide. This will make the toolbar option appear.
 
@@ -156,11 +154,11 @@ Once you have created all the slides you want in your slideshow, you can easily 
 
 All of the Google Slides you generate are saved automatically on your Google Slides account as well as to your Google Drive account. Like the other document editors you've learned about, Google Slides has an auto-save feature that means you don't need to actively save your work.
 
-You can also download your presentations from Google Slides in different formats, such as Microsoft Powerpoint of Adobe PDF files.  To do this, you would click on "File" in the top menu and then select "Download as." You can then choose the format you want among the various options.
+You can also download your presentations from Google Slides in different formats, such as Microsoft Powerpoint or Adobe PDF files.  To do this, you would click on "File" in the top menu and then select "Download as." You can then choose the format you want among the various options.
 
 ![Download your presentation](https://docs.google.com/presentation/d/1QafnUK8jji3UHdIjUvh-3ZVhY_72LOPLhX3kU0QYCHc/export/png?id=1QafnUK8jji3UHdIjUvh-3ZVhY_72LOPLhX3kU0QYCHc&pageid=g3acdf2805f_0_193)
 
-For sharing documents you can follow the procedure we learned in the lesson on Google Drive.  You can also share directly from the spreadsheet itself by clicking "File" in the top menu and then choosing "Share" and entering email addresses of the people you want to share with or getting a shareable link.
+For sharing documents you can follow the procedure we learned in the lesson on Google Drive.  You can also share directly from the Slides itself by clicking "File" in the top menu and then choosing "Share" and entering email addresses of the people you want to share with or getting a shareable link.
 
 ![Sharing your presentation](https://docs.google.com/presentation/d/1QafnUK8jji3UHdIjUvh-3ZVhY_72LOPLhX3kU0QYCHc/export/png?id=1QafnUK8jji3UHdIjUvh-3ZVhY_72LOPLhX3kU0QYCHc&pageid=g3acdf2805f_0_199)
 

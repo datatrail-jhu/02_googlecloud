@@ -1,6 +1,6 @@
 # Google Drive
 
-[Google Drive](https://www.google.com/drive/)  is a cloud storage service. It enables you to store files (including documents, data, images, videos, and presentation slides) online. You can also edit many these files directly online, without needed to download them to your computer or upload them back to the cloud.  One of the major benefits of Google Drive is the ability for multiple people to edit the same files at the same time.  This makes Drive a useful tool for collaboration, with is very important to a data scientist.  
+[Google Drive](https://www.google.com/drive/)  is a cloud storage service. It enables you to store files (including documents, data, images, videos, and presentation slides) online. You can also edit many of these files directly online, without needing to download them to your computer or upload them back to the cloud.  One of the major benefits of Google Drive is the ability for multiple people to edit the same files at the same time.  This makes Drive a useful tool for collaboration, with is very important to a data scientist.  
 
 ### Accessing your Google Drive account
 
@@ -14,7 +14,7 @@ Click the "Go to Google Drive" button to be taken to your Drive account.  If you
 
 ### Organizing files in Google Drive
 
-In Jane's Drive account, you can see that she simply has each document shown individually without any file organization structure. This is fine when you have only a small number of documents.  However, if you use Google Drive to store lots of documents you will need an file structure keeps things organized and help you to quickly find the document you need.  In general, we strongly suggest that you create folders to keep similar files together.
+In Jane's Drive account, you can see that she simply has each document shown individually without any file organization structure. This is fine when you have only a small number of documents.  However, if you use Google Drive to store lots of documents you will need a file structure to keep things organized and to quickly find the documents you need.  In general, we strongly suggest that you create folders to keep similar files together.
 
 In this course, we will simply go over the basics of organization in Google Drive. You will learn about good practices for organizing files for projects in a later course, which will include how to chose a folder structure and naming conventions for files and folders.  
 

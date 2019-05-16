@@ -63,7 +63,7 @@ This will open a window where you can customize this new calendar.  Give  it a n
 
 ![New calendar](https://docs.google.com/presentation/d/1t74f2Xf4h8Hoq8wK2LdI4H35d57Ty8Vpm1ifMuD5y9o/export/png?id=1t74f2Xf4h8Hoq8wK2LdI4H35d57Ty8Vpm1ifMuD5y9o&pageid=g398380a613_0_74)
 
-Once your calendar is created, you it will appear under the "My calendars" section to the left of your schedule.  (You get get back to your schedule by clicking on the back arrow at the top left of the settings screen.)  Now you can configure this calendar by hovering over the calendar name and then clicking on the three vertical dots to the left.  You can choose a particular color to use for this calendar if you don't like the one that is automatically assigned.  You can also configure the settings for the calendar by choosing the "Settings and sharing" option.
+Once your calendar is created, you it will appear under the "My calendars" section to the left of your schedule.  (You get back to your schedule by clicking on the back arrow at the top left of the settings screen.)  Now you can configure this calendar by hovering over the calendar name and then clicking on the three vertical dots to the left.  You can choose a particular color to use for this calendar if you don't like the one that is automatically assigned.  You can also configure the settings for the calendar by choosing the "Settings and sharing" option.
 
 ![Configure calendar](https://docs.google.com/presentation/d/1t74f2Xf4h8Hoq8wK2LdI4H35d57Ty8Vpm1ifMuD5y9o/export/png?id=1t74f2Xf4h8Hoq8wK2LdI4H35d57Ty8Vpm1ifMuD5y9o&pageid=g398380a613_0_83)
 
@@ -79,7 +79,7 @@ Here you can see that Jane has the three calendars we talked about set up on her
 
 ### More specifics on using Google Calendar
 
-In this lesson, we have talked briefly about how to create and edit events on Google Calendar, how to create and edit new calendards, and how to use notifications to set reminders for meetings and events.  These are the basics of using Calendar to manage your schedule.  There are many other features that can be used for managing and tracking your time that you may want to eventually explore.  There are many good tutorials for using Calendar on YouTube.com. 
+In this lesson, we have talked briefly about how to create and edit events on Google Calendar, how to create and edit new calendars, and how to use notifications to set reminders for meetings and events.  These are the basics of using Calendar to manage your schedule.  There are many other features that can be used for managing and tracking your time that you may want to eventually explore.  There are many good tutorials for using Calendar on YouTube.com. 
 
 Google also has extensive information on getting started with Calendar on their G Suite Learning Center, which can be found at the following web address: https://gsuite.google.com/learning-center/products/calendar/get-started/#!/
 
@@ -93,17 +93,17 @@ Google also has extensive information on getting started with Calendar on their 
 
 ### Google Calendar quiz
 
-?1 TRUE or FAlSE: Sharing calendars is a feature of Google Calendar?
+?1 TRUE or FALSE: Sharing calendars is a feature of Google Calendar?
 
 A) TRUE
 b) FALSE
 
-?1 TRUE or FAlSE: Sharing calendars is *not* a feature of Google Calendar?
+?1 TRUE or FALSE: Sharing calendars is *not* a feature of Google Calendar?
 
 a) TRUE
 B) FALSE
 
-?2 TRUE or FALSE: An event entered int your Google Calendar on your computer will be visible when you look at your Google Calendar on your phone.
+?2 TRUE or FALSE: An event entered into your Google Calendar on your computer will be visible when you look at your Google Calendar on your phone.
 
 A) TRUE
 b) FALSE

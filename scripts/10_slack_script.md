@@ -4,7 +4,7 @@ To get started, go to Slack online at slack.com/signin. We'll note here that Sla
 
 You'll be brought to a screen where to create your own team, you'll want to click on "Create a new workspace." 
 
-You'll then be either asked for your email, which you should enter and then click "Confirm."
+You'll then be asked for your email, which you should enter and then click "Confirm."
 
 At this point, you may see a screen asking for a 6-digit code. Go to the e-mail address you entered and look for this six-digit code in an email from Slack. Enter this code in this window.
 
