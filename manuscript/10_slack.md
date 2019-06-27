@@ -175,7 +175,7 @@ To direct message someone, you'll click on the plus sign to the right of "Direct
 
 ![Direct message](images/10_slack/10_google_slack-34.png)
 
-This will display a box where you'll search for someone's name. Once you've found the person you want to direct message, you'll click on their name and click "Go."
+This will display a box where you'll search for someone's name. Once you've found the person you want to message directly, you'll click on their name and click "Go."
 
 ![Start direct message](images/10_slack/10_google_slack-35.png)
 
@@ -265,7 +265,7 @@ C) using your work e-mail address
 C) via invitation by e-mail from the workspace
 o) By searching on the Internet
 o) This is not possible.
-o) By just using the URL and joining directly
+o) By just searching URLs and joining directly (without an invitation)
 o) By clicking the plus sign to the right of "Apps"
 o) By clicking on an existing channel
 
