@@ -10,10 +10,12 @@ You can access YouTube by going to the URL [youtube.com](https://www.youtube.com
 
 If you aren't logged into your Google account, you will arrive at a generic YouTube home page, where you can watch videos and search for specific video content.  You can search for content using the search box at the top of the screen.  If you want to get more personalized results or create your own playlists, you should log in via your Google account.  You can do this by clicking on on the "SIGN IN" link in the top right corner of the screen.
 
+{format: png}
 ![Generic YouTube Homepage](https://docs.google.com/presentation/d/1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI/export/png?id=1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI&pageid=g37d6dc683b_0_0)
 
 On your personal YouTube home page, you will see YouTube's recommendations for videos that you might like to watch.  YouTube is also good with learning about your preferences. If you watch a video that is about how to import data into R, YouTube will suggest more videos related to those keywords to you.  You can also easily locate videos you've already watched by clicking on "History" in the left-side menu.   
 
+{format: png}
 ![Personal YouTube Homepage](https://docs.google.com/presentation/d/1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI/export/png?id=1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI&pageid=g37d6dc683b_0_110)
 
 ### Finding videos
@@ -24,30 +26,36 @@ There are various ways you can find relevant videos on YouTube:
 * By browsing channels via the link https://www.youtube.com/channels. You can browse channels from news and politics to technology.
 * By searching videos by typing keywords in the search bar. For instance if you type "What is data science?", YouTube will find around 22 million videos.
 
+{format: png}
 ![Search results](https://docs.google.com/presentation/d/1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI/export/png?id=1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI&pageid=g37d6dc683b_0_143)
 
 Note that you can filter your results when you search for specific keywords by clicking on the Filter icon on the top right corner. For instance, you can filter based on the length of the video or the time it was posted.
 
+{format: png}
 ![Filter Results](https://docs.google.com/presentation/d/1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI/export/png?id=1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI&pageid=g37d6dc683b_0_165)
 
 ### Data science on YouTube
 
 For our purposes, here is a list of some of the most popular YouTube channels on data science.  You can find any of these channels by searching for the name, for example "Data Science Dojo," in the YouTube Search box.  You can then subscribe to the channel by clicking the red "Subscribe" box on the right. 
 
+{format: png}
 ![Data science channels](https://docs.google.com/presentation/d/1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI/export/png?id=1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI&pageid=g37d6dc683b_0_10)
 
 You can find the channels that you have subscribed to under the "Subscriptions" section in the left-hand menu of your YouTube home page.
 
+{format: png}
 ![Subscriptions](https://docs.google.com/presentation/d/1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI/export/png?id=1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI&pageid=g37d6dc683b_0_190)
 
 ### How to save videos to watch later
 
 Sometimes you may discover an interesting video on YouTube, but may be too busy to watch it right away.  One way to save the video so you can watch it later is to "like" the video by clicking the "thumbs up" icon below the video screen. 
 
+{format: png}
 ![Liking a video](https://docs.google.com/presentation/d/1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI/export/png?id=1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI&pageid=g37d6dc683b_0_15)
 
 This will add the video to your favorites, which can be found under "Liked videos" in the left-hand menu on your YouTube home page.
 
+{format: png}
 ![Favorite videos](https://docs.google.com/presentation/d/1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI/export/png?id=1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI&pageid=g37d6dc683b_0_205)
 
 Overall, YouTube is be a great place to go to for finding answers to your questions. There are millions of videos explaining things that you might not know about or pertaining to topics that you don't want to read pages and pages of text in order to understand. Sometimes a good 5-minute video can be the most efficient way to get the information you need.
@@ -60,7 +68,7 @@ Overall, YouTube is be a great place to go to for finding answers to your questi
 
 {quiz, id: quiz_09_google_youtube}
 
-### Google Maps quiz
+### YouTube quiz
 
 {choose-answers:4}
 ? Which of the following is *not* a feature when using YouTube?
