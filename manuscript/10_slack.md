@@ -171,7 +171,7 @@ Slack allows you to search by term for Messages, Files, or both (All). Just star
 In addition to sending messages within a channel and being able to direct the messages at certain people, you also often want to be able to share images or documents with others. To upload a document to be included with your message, you'll click on the plus sign to the left of the message bar. 
 
 {format: png}
-![Click left of message to upload a document](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid= g3ac1fdf3a4_0_164)
+![Click left of message to upload a document](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_164)
 
 A drop-down menu will display. To upload a file from your computer, click on "Your computer". Then, search your computer for the file you want to include. Here, I've selected an image on my computer. A box will show up asking if you want to upload this file you've selected. A preview of the image (in this case) will display. You'll be able to change the title of the file, decide in which channel it should be shared, and include a comment with the file. Once all of the necessary information is included, you'll click "Upload."
 
