@@ -4,7 +4,7 @@
 
 ### Accessing your Google Drive account
 
-Like Gmail and Calendar, Google Calendar is included with your Google Account.  You can access your Drive account by going to the address ["https://www.google.com/drive/"](https://www.google.com/drive/) or by clicking on the start menu located on the lower left hand corner of your Chromebook and searching for "Drive". You will see a welcome screen like this.  
+Like Gmail and Calendar, Google Drive is included with your Google Account.  You can access your Drive account by going to the address ["https://www.google.com/drive/"](https://www.google.com/drive/) or by clicking on the start menu located on the lower left hand corner of your Chromebook and searching for "Drive". You will see a welcome screen like this.  
 
 {format: png}
 ![Drive welcome screen](https://docs.google.com/presentation/d/1y4ZrJSXqxr4eaPkjWrn1M5X9q3m8K9ihRoXUls2TXIs/export/png?id=1y4ZrJSXqxr4eaPkjWrn1M5X9q3m8K9ihRoXUls2TXIs&pageid=g350059f510_0_0)
