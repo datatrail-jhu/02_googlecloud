@@ -13,7 +13,6 @@ rmd_files: ["index.Rmd",
             "09_maps.md",
             "10_Basecamp.md",
             "11_youtube.md",
-",
             "About.Rmd",
             "References.Rmd"]
 new_session: yes
