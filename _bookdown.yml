@@ -2,8 +2,17 @@ book_filename: "DataTrail"
 chapter_name: "Chapter "
 repo: https://github.com/jhudsl/OTTR_Template/
 rmd_files: ["index.Rmd",
-            "01-intro.Rmd",
-            "02-chapter_of_course.Rmd",
+            "00_cloud.md",
+            "02_gmail.md",
+            "03_calendar.md",
+            "04_drive.md",
+            "05_docs.md",
+            "06_sheets.md",
+            "07_slides.md",
+            "08_hangouts.md",
+            "09_maps.md",
+            "10_Basecamp.md",
+            "11_youtube.md",
             "About.Rmd",
             "References.Rmd"]
 new_session: yes
