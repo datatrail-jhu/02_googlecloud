@@ -1,10 +1,3 @@
-{
-course-completeness: 100
-course-attempts: 2
-default-quiz-attempts: 2
-default-random-choice-order: true
-default-quiz-show-answers: none
-}
 
 # What is the cloud?
 
@@ -21,7 +14,7 @@ You may have heard the term *cloud computing* before, and data scientists often 
 
 A major advantage of the cloud is the ability to access your files everywhere,  even if you don't have your personal computer with you. Since storage and applications work over the Internet, they can be accessed from any computer with an Internet connection.
 
-An important advantage of cloud storage is that your files are safe even if your computer is lost or damaged.  Because your files are not stored *on* your computer itself, they are safe and available even if your computer is stolen, you spill coffee on your keyboard, or there's a natural disaster in your area. Moreover, most cloud storage services provide back-up services in case you delete files by mistake. These back-up services allow for accidentally deleted files to be recovered and restored. 
+An important advantage of cloud storage is that your files are safe even if your computer is lost or damaged.  Because your files are not stored *on* your computer itself, they are safe and available even if your computer is stolen, you spill coffee on your keyboard, or there's a natural disaster in your area. Moreover, most cloud storage services provide back-up services in case you delete files by mistake. These back-up services allow for accidentally deleted files to be recovered and restored.
 
 An advantage of cloud computing is an increase in computing power over what is available on your local machine.  Remote machines that are used for cloud computing are more powerful than your personal computer and can do your data analysis much faster.
 
@@ -62,12 +55,10 @@ o) It acts as a circuit to access the cloud.
 
 C) You need access to Internet to access your files
 C) Using the cloud requires Internet access
-C) Cloud computing raises new privacy and security concerns 
+C) Cloud computing raises new privacy and security concerns
 o) Remote computers are more powerful than local storage
 o) You won't lose your files if you lose your computer
 o) You can access your files everywhere
 o) You don't have to download and install a new version of software each time updates are made and a new version is released.
 
 {/quiz}
-
-
