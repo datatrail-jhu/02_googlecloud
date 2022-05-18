@@ -2,7 +2,7 @@ book_filename: "DataTrail"
 chapter_name: "Chapter "
 repo: https://github.com/jhudsl/OTTR_Template/
 rmd_files: ["index.Rmd",
-            "00_cloud.md",
+            "01_cloud.md",
             "02_gmail.md",
             "03_calendar.md",
             "04_drive.md",
