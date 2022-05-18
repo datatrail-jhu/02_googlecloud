@@ -1,5 +1,5 @@
 
-# What is the cloud?
+# What is the cloud
 
 You may have heard the term *cloud computing* before, and data scientists often talk about working on the *cloud*. But what exactly is the cloud?
 
