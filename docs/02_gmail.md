@@ -46,7 +46,7 @@ Let's say you want to send an email to a client. The first step is to start a ne
 
 ![Compose button](https://docs.google.com/presentation/d/1qRfIt3P6JLioc1-NpDbtdUF5CEMSS71_yXmRRWW7KLA/export/png?id=1qRfIt3P6JLioc1-NpDbtdUF5CEMSS71_yXmRRWW7KLA&pageid=g39e04bf3bc_2_43)
 
-A box will pop-up where you can enter the recipient's email address (in the *To* field), the subject of the email, and the content of the email. 
+A box will pop-up where you can enter the recipient's email address (in the *To* field), the subject of the email, and the content of the email.
 
 
 ![New message](https://docs.google.com/presentation/d/1qRfIt3P6JLioc1-NpDbtdUF5CEMSS71_yXmRRWW7KLA/export/png?id=1qRfIt3P6JLioc1-NpDbtdUF5CEMSS71_yXmRRWW7KLA&pageid=g34ff7bbfc9_0_15)
@@ -60,19 +60,19 @@ There are also a few buttons in the menu bar at the very bottom of the email box
 
 ![Attachment from computer](https://docs.google.com/presentation/d/1qRfIt3P6JLioc1-NpDbtdUF5CEMSS71_yXmRRWW7KLA/export/png?id=1qRfIt3P6JLioc1-NpDbtdUF5CEMSS71_yXmRRWW7KLA&pageid=g39e04bf3bc_2_51)
 
-You can also attach a file from Google Drive to your message by clicking on the Google Drive button, which looks like a triangle. Google Drive is Google's file hosting service and you will learn more about it in a later lesson. 
+You can also attach a file from Google Drive to your message by clicking on the Google Drive button, which looks like a triangle. Google Drive is Google's file hosting service and you will learn more about it in a later lesson.
 
 
 ![Attachment from Google Drive](https://docs.google.com/presentation/d/1qRfIt3P6JLioc1-NpDbtdUF5CEMSS71_yXmRRWW7KLA/export/png?id=1qRfIt3P6JLioc1-NpDbtdUF5CEMSS71_yXmRRWW7KLA&pageid=g39e04bf3bc_2_64)
 
 You can send attachments up to 25 MB in size through Gmail. If you have more than one attachment, they can't add up to more than 25 total. If your file is greater than 25 MB, you can instead upload the file to Google Drive and share a link to the file over email instead of including it as an attachment.  
 
-Other options in this menu bar include inserting a photo (with the picture button), inserting a link (with the chain button), emojis (with the smiley face button), or even sending money (with the dollar sign button). 
+Other options in this menu bar include inserting a photo (with the picture button), inserting a link (with the chain button), emojis (with the smiley face button), or even sending money (with the dollar sign button).
 
 
 ![Other menu options](https://docs.google.com/presentation/d/1qRfIt3P6JLioc1-NpDbtdUF5CEMSS71_yXmRRWW7KLA/export/png?id=1qRfIt3P6JLioc1-NpDbtdUF5CEMSS71_yXmRRWW7KLA&pageid=g39e04bf3bc_2_72)
 
-There are also many formatting options available for your email message, such as changing the font type and size, bolding text, including bullet lists, and more. These formatting options are similar to those available through Google Docs, which you will see in a later lesson, so we won't spend time on them now.  But you can find these options under the format button, which looks like an uppercase A with a line under it. 
+There are also many formatting options available for your email message, such as changing the font type and size, bolding text, including bullet lists, and more. These formatting options are similar to those available through Google Docs, which you will see in a later lesson, so we won't spend time on them now.  But you can find these options under the format button, which looks like an uppercase A with a line under it.
 
 
 ![Formatting options](https://docs.google.com/presentation/d/1qRfIt3P6JLioc1-NpDbtdUF5CEMSS71_yXmRRWW7KLA/export/png?id=1qRfIt3P6JLioc1-NpDbtdUF5CEMSS71_yXmRRWW7KLA&pageid=g39e04bf3bc_2_80)
@@ -122,50 +122,3 @@ In this tutorial, you can find additional information about creating and sending
 ![Using Gmail for Email Communications](https://www.youtube.com/watch?v=fmZIMAO3sCA)
 
 * [Slides](https://docs.google.com/presentation/d/1qRfIt3P6JLioc1-NpDbtdUF5CEMSS71_yXmRRWW7KLA/edit?usp=sharing)
-
-{quiz, id: quiz_02_gmail}
-
-### Gmail quiz
-
-{choose-answers:4}
-? What is the limit on the size of email attachments?
-
-C) 25 MB
-o) 25 KB
-o) 25 GB
-o) 5 MB
-o) 5 KB
-o) 5 GB
-o) 10 MB
-o) 10 KB
-o) 10 GB
-o) 100 MB
-o) 100 KB
-o) 100 GB
-
-{choose-answers:4}
-? When sending an email, what is the Bcc field?
-
-C) Email addresses entered in this filed will be hidden from other recipients on the email.
-C) "Blind Carbon Copy"
-C) A way to send emails to individuals without showing their email address to other recipients 
-o) where to type the location of the attachment.
-o) where to type the subject of the email.
-o) where to type the body of the email
-o) where to enter an image in your email
-
-{choose-answers:4}
-? Which of the following is *not* an option within Gmail?
-
-C) insert code chunk
-C) attach Dropbox file
-C) send via USPS
-o) change font
-o) change font size
-o) bold text
-o) enter bulletted lists
-o) enter numbered lists
-o) underline text
-o) change text color
-
-{/quiz}

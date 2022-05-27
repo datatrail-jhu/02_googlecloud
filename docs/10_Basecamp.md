@@ -1,16 +1,16 @@
 # Basecamp
 
-Basecamp is a messaging platform designed to help you communicate with others in your workplace. Think of it like a group chat, but for work-related subjects. A lot of companies and workplaces look down on using Facebook and Twitter for communication, seeing them more as *just* social media platforms, rather than effective platforms for communication at work. Some places even ban the use of these platforms. However, Basecamp is being used by more and more companies as a communication tool. 
+Basecamp is a messaging platform designed to help you communicate with others in your workplace. Think of it like a group chat, but for work-related subjects. A lot of companies and workplaces look down on using Facebook and Twitter for communication, seeing them more as *just* social media platforms, rather than effective platforms for communication at work. Some places even ban the use of these platforms. However, Basecamp is being used by more and more companies as a communication tool.
 
-We covered how to get a Basecamp login in the introductory course, but we didn't discuss the details of how to use Basecamp. So, in this lesson, we'll pick up from where you last left off (with a Basecamp login in hand) and discuss why Basecamp has become the platform for communication within companies and how to get started using Basecamp. 
+We covered how to get a Basecamp login in the introductory course, but we didn't discuss the details of how to use Basecamp. So, in this lesson, we'll pick up from where you last left off (with a Basecamp login in hand) and discuss why Basecamp has become the platform for communication within companies and how to get started using Basecamp.
 
 ### How to Access Basecamp?
- 
+
 To get started, go to Basecamp online at [slack.com/signin](slack.com/signin). We'll note here that Basecamp also has a mobile app, so if you'd like to check those out, feel free. But, in this lesson, we'll work from the Chrome browser, without an app.
 
 ### Basecamp is organized into teams and projects
 
-If you're new to Basecamp, you will not *yet* be a member of any teams, and that's ok! If you ask people who have been using Basecamp for a while, they'll envy you. You'll see over time that you'll likely become a member of many different Basecamp teams! 
+If you're new to Basecamp, you will not *yet* be a member of any teams, and that's ok! If you ask people who have been using Basecamp for a while, they'll envy you. You'll see over time that you'll likely become a member of many different Basecamp teams!
 
 For now though, we'll walk through how to start your own team to get you acquainted with the features of Slack.
 
@@ -21,7 +21,7 @@ If you go to [slack.com](slack.com) and click on "GET STARTED"
 
 ![GET STARTED](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_252)
 
-You'll be brought to a screen where to create your own team, you'll want to click on "Create a new workspace." 
+You'll be brought to a screen where to create your own team, you'll want to click on "Create a new workspace."
 
 
 ![Create a new workspace](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_245)
@@ -36,7 +36,7 @@ At this point, you may see a screen asking for a 6-digit code. Go to the e-mail 
 
 ![Enter six-digit code from email](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_299)
 
-After entering the six-digit code correctly, you'll automatically be brought to a screen where you will be asked for your full name and your display name. Your display name will be the name that others see when you message within Basecamp. It's okay if this is your full name or a shortened version of your full name -- as long as the people in the team will know who you are when they see it, then that will work for your display name. Once that information has been entered, click "Continue to Password." 
+After entering the six-digit code correctly, you'll automatically be brought to a screen where you will be asked for your full name and your display name. Your display name will be the name that others see when you message within Basecamp. It's okay if this is your full name or a shortened version of your full name -- as long as the people in the team will know who you are when they see it, then that will work for your display name. Once that information has been entered, click "Continue to Password."
 
 
 ![Enter full name and display name](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_304)
@@ -76,7 +76,7 @@ You're almost there! You'll now be asked if you want to download the App or cont
 
 ![Continue in the browser](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_45)
 
-Welcome to your very own workspace! We'll now walk through Basecamp to get you acquainted with messaging in Slack. At the bottom right-hand of the window, there will be a screen welcoming you to Slack. 
+Welcome to your very own workspace! We'll now walk through Basecamp to get you acquainted with messaging in Slack. At the bottom right-hand of the window, there will be a screen welcoming you to Slack.
 
 
 ![Welcome to Basecamp!](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_50)
@@ -100,7 +100,7 @@ Each channel is listed with a pound sign to the left of the channel name. Here y
 
 ![Channels available in new workspace](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_67)
 
-To display further information about this channel, click on the 'i' icon along the top. This will open up channel information including how many members there are in this channel. 
+To display further information about this channel, click on the 'i' icon along the top. This will open up channel information including how many members there are in this channel.
 
 
 ![Channel Details](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_278)
@@ -112,7 +112,7 @@ While #general and #random are helpful channels, you often want to create additi
 
 ![Add a channel](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_88)
 
-A new screen will pop up so that you can begin to create a channel. There are two general types of channels. Public channels are viewable by anyone who is in the workspace. 
+A new screen will pop up so that you can begin to create a channel. There are two general types of channels. Public channels are viewable by anyone who is in the workspace.
 
 
 ![Public Channel](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_119)
@@ -134,7 +134,7 @@ With that, your new channel "assignments" is available underneath Channels! Note
 
 #### Messaging occurs within a channel
 
-On Slack, messaging occurs within a channel. This way conversations are organized based on a particular topic and seen only by those for whom the message is important! So, with a newly created channel, you can now begin messaging within it. To do so, you'll click on the "assignments" channel and then begin to type your message in the bar at the bottom. 
+On Slack, messaging occurs within a channel. This way conversations are organized based on a particular topic and seen only by those for whom the message is important! So, with a newly created channel, you can now begin messaging within it. To do so, you'll click on the "assignments" channel and then begin to type your message in the bar at the bottom.
 
 #### Sending a message
 
@@ -146,7 +146,7 @@ A great feature of Slack is that every member of a channel can see the messages 
 
 ![using @ within a message](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_144)
 
-Once the name has been selected it will display in your message. 
+Once the name has been selected it will display in your message.
 
 
 ![message complete with @ specified](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_149)
@@ -155,20 +155,20 @@ After you hit enter, your message will send and the person you've specified in t
 
 
 ![sent message](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_154)
- 
+
 #### Messages are searchable
 
-While in this example you're at the beginning of your message history within Slack, as time goes on there will be more and more channels and workspaces and long message histories. If, sometime in the future, you want to return to this message, you can do so by using the search bar at the top. 
+While in this example you're at the beginning of your message history within Slack, as time goes on there will be more and more channels and workspaces and long message histories. If, sometime in the future, you want to return to this message, you can do so by using the search bar at the top.
 
 
 ![searching messages](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_159)
 
 
-Slack allows you to search by term for Messages, Files, or both (All). Just start typing your search term into the search bar, and Slack will begin to provide results matching your search. Slack's search capabilities are powerful. This feature will likely save you a lot of time in the future when you have to refer back to messages from the past. 
+Slack allows you to search by term for Messages, Files, or both (All). Just start typing your search term into the search bar, and Slack will begin to provide results matching your search. Slack's search capabilities are powerful. This feature will likely save you a lot of time in the future when you have to refer back to messages from the past.
 
 #### Uploading a document
 
-In addition to sending messages within a channel and being able to direct the messages at certain people, you also often want to be able to share images or documents with others. To upload a document to be included with your message, you'll click on the plus sign to the left of the message bar. 
+In addition to sending messages within a channel and being able to direct the messages at certain people, you also often want to be able to share images or documents with others. To upload a document to be included with your message, you'll click on the plus sign to the left of the message bar.
 
 
 ![Click left of message to upload a document](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_164)
@@ -201,7 +201,7 @@ Additionally, the three dots icon at the end of the display options can be click
 
 #### Direct messaging
 
-So far, we've discussed communicating within a channel, allowing for team-based communications. This is where Slack really shines! However, Slack does have the ability to direct message individuals within your workspace. This means you can send a message to a person or multiple people outside of the specified channels. 
+So far, we've discussed communicating within a channel, allowing for team-based communications. This is where Slack really shines! However, Slack does have the ability to direct message individuals within your workspace. This means you can send a message to a person or multiple people outside of the specified channels.
 
 To direct message someone, you'll click on the plus sign to the right of "Direct Messages".
 
@@ -217,7 +217,7 @@ You'll continue to message this person as discussed for messages within a group 
 
 ### Joining a team
 
-While we've been working within a team we just created, another great thing about Slack is that you can be a member of multiple different teams. There are a few different ways to join already-established teams. To do so, you'd return 
+While we've been working within a team we just created, another great thing about Slack is that you can be a member of multiple different teams. There are a few different ways to join already-established teams. To do so, you'd return
 to [slack.com/signin](slack.com/signin) and click on "GET STARTED". This time around you would clock on "Find your Slack workspace."
 
 
@@ -253,7 +253,7 @@ While we won't discuss in detail here, it's important to know that Slack works w
 
 A list of available apps will be displayed. You can search by app name, or click "Install" for apps you want to integrate with Slack.
 
-For example, Google Drive is an example of an app that can be integrated. Installing this app would make sending docs, slides, and sheets from Google Drive within Slack simpler. 
+For example, Google Drive is an example of an app that can be integrated. Installing this app would make sending docs, slides, and sheets from Google Drive within Slack simpler.
 
 
 ![List of available apps](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_264)
@@ -272,42 +272,3 @@ Last but not least, Slack has different plans for different uses. Companies ofte
 ![Slack](https://www.youtube.com/watch?v=koGME-BGZuU)
 
 * [Slides](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/edit?usp=sharing)
-
-{quiz, id: quiz_10_slack}
-
-### Slack quiz
-
-{choose-answers: 4}
-? Which one of the following is not a feature in Slack?
-
-C) Creating docs
-o) Private messaging
-o) Private channels
-o) Sending images
-o) Creating workspaces
-o) Joining workspaces
-
-{choose-answers: 4}
-? What is an advantage of Slack?
-
-C) Conversations are organized into channels
-C) Messages are organized into channels
-C) Private messaging outside of channels is possible
-o) It only allows for private messaging
-o) It can only be accessed offline
-o) It does not allow for private channels
-o) It keeps all messages in a single place
-o) It does not allow for app integration
-
-{choose-answers: 4}
-? How can you join a pre-existing Slack workspace
-
-C) using your work e-mail address
-C) via invitation by e-mail from the workspace
-o) By searching on the Internet
-o) This is not possible.
-o) By just searching URLs and joining directly (without an invitation)
-o) By clicking the plus sign to the right of "Apps"
-o) By clicking on an existing channel
-
-{/quiz}
