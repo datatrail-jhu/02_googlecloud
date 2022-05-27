@@ -3,7 +3,6 @@ cloud-computing
 what-are-the-advantages-of-using-the-cloud
 what-are-the-disadvantages-of-using-the-cloud
 slides-and-video
-what-is-the-cloud-quiz
 using-gmail-for-email-communications
 accessing-your-gmail-inbox
 composing-and-sending-emails
@@ -11,7 +10,6 @@ replying-to-a-message
 searching-for-specific-messages
 more-specifics-on-using-gmail
 slides-and-video-1
-gmail-quiz
 google-calendar
 accessing-your-google-calendar
 scheduling-and-editing-events
@@ -19,7 +17,6 @@ adding-reminders-to-your-events
 creating-and-editing-calendars
 more-specifics-on-using-google-calendar
 slides-and-video-2
-google-calendar-quiz
 google-drive
 accessing-your-google-drive-account
 organizing-files-in-google-drive
@@ -33,7 +30,6 @@ storage-limit
 security
 more-specifics-on-using-google-drive
 slides-and-video-3
-google-drive-quiz
 google-docs
 auto-save-feature-and-working-offline
 working-in-google-docs
@@ -49,7 +45,6 @@ download-documents-in-different-formats
 more-specifics-on-using-google-docs
 additional-resources
 slides-and-video-4
-google-docs-quiz
 google-sheets
 entering-data
 formatting-the-google-sheet
@@ -66,7 +61,6 @@ accessing-downloading-and-sharing-your-spreadsheets
 more-specifics-on-using-google-sheets
 additional-resources-1
 slides-and-video-5
-google-sheets-quiz
 google-slides
 presentation-guidelines
 accessing-google-slides
@@ -86,7 +80,6 @@ accessing-downloading-and-sharing-your-slides
 more-specifics-on-using-google-slides
 additional-resources-2
 slides-and-video-6
-google-slides-quiz
 google-hangouts
 accessing-your-google-hangouts-account
 video-chats
@@ -95,14 +88,12 @@ messaging
 group-conversations
 more-specifics-on-using-google-hangouts
 slides-and-video-7
-google-hangouts-quiz
 youtube
 accessing-youtube
 finding-videos
 data-science-on-youtube
 how-to-save-videos-to-watch-later
 slides-and-video-8
-youtube-quiz
 basecamp
 how-to-access-basecamp
 basecamp-is-organized-into-teams-and-projects
@@ -122,5 +113,4 @@ joining-an-established-team-by-invite
 slack-can-work-with-other-tools
 cost-of-slack
 slides-and-video-9
-slack-quiz
 references

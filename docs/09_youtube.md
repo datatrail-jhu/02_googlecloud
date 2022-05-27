@@ -36,7 +36,7 @@ Note that you can filter your results when you search for specific keywords by c
 
 ### Data science on YouTube
 
-For our purposes, here is a list of some of the most popular YouTube channels on data science.  You can find any of these channels by searching for the name, for example "Data Science Dojo," in the YouTube Search box.  You can then subscribe to the channel by clicking the red "Subscribe" box on the right. 
+For our purposes, here is a list of some of the most popular YouTube channels on data science.  You can find any of these channels by searching for the name, for example "Data Science Dojo," in the YouTube Search box.  You can then subscribe to the channel by clicking the red "Subscribe" box on the right.
 
 
 ![Data science channels](https://docs.google.com/presentation/d/1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI/export/png?id=1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI&pageid=g37d6dc683b_0_10)
@@ -48,7 +48,7 @@ You can find the channels that you have subscribed to under the "Subscriptions" 
 
 ### How to save videos to watch later
 
-Sometimes you may discover an interesting video on YouTube, but may be too busy to watch it right away.  One way to save the video so you can watch it later is to "like" the video by clicking the "thumbs up" icon below the video screen. 
+Sometimes you may discover an interesting video on YouTube, but may be too busy to watch it right away.  One way to save the video so you can watch it later is to "like" the video by clicking the "thumbs up" icon below the video screen.
 
 
 ![Liking a video](https://docs.google.com/presentation/d/1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI/export/png?id=1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI&pageid=g37d6dc683b_0_15)
@@ -65,21 +65,3 @@ Overall, YouTube is be a great place to go to for finding answers to your questi
 ![YouTube](https://www.youtube.com/watch?v=b1uqL-6EqjQ)
 
 * [Slides](https://docs.google.com/presentation/d/1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI/edit?usp=sharing)
-
-{quiz, id: quiz_09_google_youtube}
-
-### YouTube quiz
-
-{choose-answers:4}
-? Which of the following is *not* a feature when using YouTube?
-
-C) Downloading videos
-C) Creating a Spreadsheet
-o) Creating playlists
-o) Saving videos for later
-o) Uploading videos
-o) Commenting on videos
-o) Reading others' comments on videos
-
-
-{/quiz}

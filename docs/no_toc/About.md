@@ -9,34 +9,23 @@ These credits are based on our [course contributors table guidelines](https://gi
 |Credits|Names|
 |-------|-----|
 |**Pedagogy**||
-|Lead Content Instructor(s)|[FirstName LastName]|
-|Lecturer(s) (include chapter name/link in parentheses if only for specific chapters) - make new line if more than one chapter involved| Delivered the course in some way - video or audio|
-|Content Author(s) (include chapter name/link in parentheses if only for specific chapters) - make new line if more than one chapter involved | If any other authors besides lead instructor| 
-|Content Contributor(s) (include section name/link in parentheses) - make new line if more than one section involved|  Wrote less than a chapter|
-|Content Editor(s)/Reviewer(s) | Checked your content|
-|Content Director(s) | Helped guide the content direction|
-|Content Consultants (include chapter name/link in parentheses or word "General") - make new line if more than one chapter involved | Gave high level advice on content|
-|Acknowledgments| Gave small assistance to content but not to the level of consulting |
-|**Production**||
-|Content Publisher(s)| Helped with publishing platform|
-|Content Publishing Reviewer(s)| Reviewed overall content and aesthetics on publishing platform|
+|Content Author(s)|[Shannon Ellis]|
+|Content Contributor(s)|[Candace Savonen] |
+|Content Editor(s)/Reviewer(s) | [Candace Savonen], [Davon Person]|
+|Content Director(s) | [Jeff Leek]|
 |**Technical**||
-|Course Publishing Engineer(s)| Helped with the code for the technical aspects related to the specific course generation|
+|Course Publishing Engineer(s)|[Candace Savonen]|
 |Template Publishing Engineers|[Candace Savonen], [Carrie Wright]|
 |Publishing Maintenance Engineer|[Candace Savonen]|
 |Technical Publishing Stylists|[Carrie Wright], [Candace Savonen]|
 |Package Developers ([ottrpal])|[John Muschelli], [Candace Savonen], [Carrie Wright]|
 |**Art and Design**||
-|Illustrator(s)| Created graphics for the course|
-|Figure Artist(s)| Created figures/plots for course|
-|Videographer(s)| Filmed videos|
-|Videography Editor(s)| Edited film|
-|Audiographer(s)| Recorded audio|
-|Audiography Editor(s)| Edited audio recordings|
+|Illustrator(s)|[Shannon Ellis]|
+|Figure Artist(s)|[Shannon Ellis]|
 |**Funding**||
-|Funder(s)| Institution/individual who funded course including grant number|
-|Funding Staff| Staff members who help with funding|
-
+|Funder(s)| []|
+|Funding Staff|[Ashley K.G. Johnson]|
+|Support Staff Member| [Ashley K.G. Johnson], [Simone Sawyer]|
 &nbsp;
 
 
@@ -51,7 +40,7 @@ These credits are based on our [course contributors table guidelines](https://gi
 ##  collate  en_US.UTF-8                 
 ##  ctype    en_US.UTF-8                 
 ##  tz       Etc/UTC                     
-##  date     2022-05-18                  
+##  date     2022-05-27                  
 ## 
 ## ─ Packages ───────────────────────────────────────────────────────────────────
 ##  package     * version    date       lib source                            
@@ -107,10 +96,12 @@ These credits are based on our [course contributors table guidelines](https://gi
 
 <!-- Author information -->
 
-[FirstName LastName]: link to personal website
-[John Muschelli]: https://johnmuschelli.com/
+[Ashley K.G. Johnson]: https://www.linkedin.com/in/ashleykgjohnson/
 [Candace Savonen]: https://www.cansavvy.com/
 [Carrie Wright]: https://carriewright11.github.io/
+[Jeff Leek]: https://jtleek.com/
+[John Muschelli]: https://johnmuschelli.com/
+[Shannon Ellis]: https://www.shanellis.com/
 
 <!-- Links -->
 
