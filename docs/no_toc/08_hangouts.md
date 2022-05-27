@@ -2,7 +2,7 @@
 
 Google Hangouts is a communication platform by Google and includes tools such as messaging and video chat.  Google Hangouts is also famous for its video conferencing feature; you can video chat with up to 25 people at the same time and message a team of up to 150 people. These features make Google Hangouts an excellent tool for staying connected with collaborators, employers, and friends.
 
-An additional bonus feature of Hangouts is that it syncs automatically across different devices.  That is, you can start a Hangout on your phone and continue your chat on another device such as your laptop. 
+An additional bonus feature of Hangouts is that it syncs automatically across different devices.  That is, you can start a Hangout on your phone and continue your chat on another device such as your laptop.
 
 ### Accessing your Google Hangouts account
 
@@ -45,9 +45,9 @@ If you want to share your screen with people currently in your call simply click
 
 ![Share screen options](https://docs.google.com/presentation/d/14u2fp3D2t-umKnFOSfIxyDwfjIDMKJ9cBtqYUh_E93o/export/png?id=14u2fp3D2t-umKnFOSfIxyDwfjIDMKJ9cBtqYUh_E93o&pageid=g350281495f_0_22)
 
-Once you've shared your screen, you can stop sharing at any time by pressing on the "STOP" button located at the top of the screen. 
+Once you've shared your screen, you can stop sharing at any time by pressing on the "STOP" button located at the top of the screen.
 
-If you want to make the video call into fullscreen you can select the "Fullscreen" on the option menu. 
+If you want to make the video call into fullscreen you can select the "Fullscreen" on the option menu.
 
 
 ![Call options](https://docs.google.com/presentation/d/14u2fp3D2t-umKnFOSfIxyDwfjIDMKJ9cBtqYUh_E93o/export/png?id=14u2fp3D2t-umKnFOSfIxyDwfjIDMKJ9cBtqYUh_E93o&pageid=g3adab2989a_0_23)
@@ -103,33 +103,3 @@ Google Hangouts is an excellent way to communicate with outhers about your work,
 ![Google Hangouts](https://www.youtube.com/watch?v=gutFsKYyuIA)
 
 * [Slides](https://docs.google.com/presentation/d/14u2fp3D2t-umKnFOSfIxyDwfjIDMKJ9cBtqYUh_E93o/edit?usp=sharing)
-
-{quiz, id: quiz_08_hangouts}
-
-### Google Hangouts quiz
-
-{choose-answers:4}
-? What is the maximum number of people you can video chat with in Google Hangouts?
-
-C) 25
-o) 2
-o) 5
-o) 10
-o) 15
-o) 20
-o) Unlimited
-
-{choose-answers:4}
-? Which one of the following is NOT a feature of Google Hangouts?
-
-C) Sending large attachments
-C) Slide presentation creation
-C) Sheet creation
-C) Document creation
-o) Audio conversations
-o) Video conversations
-o) Text conversations
-o) Picture sharing
-
-{/quiz}
-

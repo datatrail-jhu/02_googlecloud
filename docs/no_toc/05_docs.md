@@ -1,18 +1,18 @@
 # Google Docs
 
-One of the benefits to using Google on the cloud is its suite of document editors, which are completely free to use and accessible anywhere online. One of these editors is Google Docs, which is a web-based word document and text editor.  If you've ever used Microsoft Word to create and edit documents, then you can think of Google Docs as an online version of Word, since it has many of the same capabilities.  In fact, it is compatible with Microsoft Word files (.docx and older) as well as plain text files (.txt).  A major benefit of Google Docs over Microsoft Word, however, is the cloud capability.  Because documents are edited online, multiple users can format and edit a word document at the same time. 
+One of the benefits to using Google on the cloud is its suite of document editors, which are completely free to use and accessible anywhere online. One of these editors is Google Docs, which is a web-based word document and text editor.  If you've ever used Microsoft Word to create and edit documents, then you can think of Google Docs as an online version of Word, since it has many of the same capabilities.  In fact, it is compatible with Microsoft Word files (.docx and older) as well as plain text files (.txt).  A major benefit of Google Docs over Microsoft Word, however, is the cloud capability.  Because documents are edited online, multiple users can format and edit a word document at the same time.
 
 Google Docs can be accessed from within Google Drive.  To create a new document through Drive, simply click the "New" button in the top left corner of the Google Drive home page and then select "Google Docs."  
 
 
 ![Docs on Google Drive](https://docs.google.com/presentation/d/1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM/export/png?id=1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM&pageid=g37cad8f87a_0_80)
 
-Alternatively, you can go directly to the Google Docs URL https://docs.google.com to create a new document.  What's the difference? Google Drive contains all of the files you have stored on the cloud, including images, spreadsheets, and presentations.   Google Docs will contain only your word and text documents, so it can be useful when you only want to work with those types of files.  Here's an example of Jane's Google Docs page.  You can see her recent documents in the bottom part of the screen.  The top part, below "Start a new document" is called the TEMPLATE GALLERY, which allows you to quickly create a new document. To create a new document you can choose the blank option or any of the templates available. 
+Alternatively, you can go directly to the Google Docs URL https://docs.google.com to create a new document.  What's the difference? Google Drive contains all of the files you have stored on the cloud, including images, spreadsheets, and presentations.   Google Docs will contain only your word and text documents, so it can be useful when you only want to work with those types of files.  Here's an example of Jane's Google Docs page.  You can see her recent documents in the bottom part of the screen.  The top part, below "Start a new document" is called the TEMPLATE GALLERY, which allows you to quickly create a new document. To create a new document you can choose the blank option or any of the templates available.
 
 
 ![Google Docs Page](https://docs.google.com/presentation/d/1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM/export/png?id=1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM&pageid=g350069922f_0_0)
 
-Clicking on the "TEMPLATE GALLERY" link will expand the template options to include "Resumes," "Letters," "Personal," "Work," and "Education" templates. 
+Clicking on the "TEMPLATE GALLERY" link will expand the template options to include "Resumes," "Letters," "Personal," "Work," and "Education" templates.
 
 
 ![Google Docs Templates Gallery](https://docs.google.com/presentation/d/1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM/export/png?id=1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM&pageid=g350069922f_0_5)
@@ -24,7 +24,7 @@ Assuming that you are logged into your Google account, underneath the templates 
 
 ### Auto-save feature and working offline
 
-One of the most convenient aspects of Google Docs (and all document editors on Google Drive) is its auto-save feature. As soon as the application detects a change in the file, it will automatically save without any prompt from the user. This means you don't need to remember to save your progress as you work.  You do not need to worry about losing progress when the power goes out, the internet disconnects, or even when a computer breaks down. 
+One of the most convenient aspects of Google Docs (and all document editors on Google Drive) is its auto-save feature. As soon as the application detects a change in the file, it will automatically save without any prompt from the user. This means you don't need to remember to save your progress as you work.  You do not need to worry about losing progress when the power goes out, the internet disconnects, or even when a computer breaks down.
 
 If a stable internet connection is an issue or if you plan to work offline, Google Docs offers an offline mode that saves the word documents to the local computer. Even in offline mode, Google Docs will automatically save changes.
 
@@ -33,7 +33,7 @@ To turn on offline mode, click on the menu button in Google Docs and then click 
 
 ![Offline mode on](https://docs.google.com/presentation/d/1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM/export/png?id=1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM&pageid=g37cad8f87a_0_185)
 
-Toggle the "Offline" switch to on. 
+Toggle the "Offline" switch to on.
 
 
 ![Offline mode on](https://docs.google.com/presentation/d/1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM/export/png?id=1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM&pageid=g350069922f_0_28)
@@ -104,7 +104,7 @@ To create either type of list, you can type the list out, with each item on a se
 
 #### Inserting an Image
 
-We previously covered this briefly; however, we'll cover how to insert an image into your Google Doc in more detail now. 
+We previously covered this briefly; however, we'll cover how to insert an image into your Google Doc in more detail now.
 
 To insert an image, you'll make sure the cursor is in your document where you would like to insert the image, and then you'll click on the insert an image icon in the toolbar to display a drop-down menu with options:
 
@@ -120,7 +120,7 @@ If there's an image on the Internet that you would like to insert into your Goog
 
 ![R language image search](https://docs.google.com/presentation/d/1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM/export/png?id=1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM&pageid=g39c04c6fe7_2_148)
 
-If you were to click on 'Images for R language', you'd see lots of images from which to choose. If you were to scroll through these, you could select your favorite image, and right-click on it. 
+If you were to click on 'Images for R language', you'd see lots of images from which to choose. If you were to scroll through these, you could select your favorite image, and right-click on it.
 
 
 ![Google Image search](https://docs.google.com/presentation/d/1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM/export/png?id=1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM&pageid=g39c04c6fe7_2_173)
@@ -130,12 +130,12 @@ From the drop-down menu, click on "Copy Image Address." This copies the image ad
 
 !["Copy Image Address" menu](https://docs.google.com/presentation/d/1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM/export/png?id=1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM&pageid=g39c04c6fe7_2_189)
 
-You would then return to your Google Doc, ensure that your cursor is where you would like to insert the image and click on the image icon in the toolbar, and select "By URL" from the drop-down menu 
+You would then return to your Google Doc, ensure that your cursor is where you would like to insert the image and click on the image icon in the toolbar, and select "By URL" from the drop-down menu
 
 
 ![Insert Image icon and select "By URL"](https://docs.google.com/presentation/d/1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM/export/png?id=1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM&pageid=g39c04c6fe7_2_162)
 
-In the box that pops up, you'll then paste the URL that you just copied by using the keyboard shortcut `ctrl + v`. 
+In the box that pops up, you'll then paste the URL that you just copied by using the keyboard shortcut `ctrl + v`.
 
 
 ![Insert image by pasting URL](https://docs.google.com/presentation/d/1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM/export/png?id=1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM&pageid=g39c04c6fe7_2_152)
@@ -155,15 +155,15 @@ Whenever you're using an image that is not your own, whether in a Google Doc, a 
 
 ![image inserted in Google Doc from URL with source](https://docs.google.com/presentation/d/1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM/export/png?id=1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM&pageid=g39c04c6fe7_2_194)
 
-Note: If an image you select does not work with these instructions, there is a chance that you do not have permission to use that image. In that case, it's likely best to search for an alternate image. 
+Note: If an image you select does not work with these instructions, there is a chance that you do not have permission to use that image. In that case, it's likely best to search for an alternate image.
 
 
 ##### From your computer
 
-In addition to inserting images from URL, you may need to insert images that are on your computer locally. We previously discussed that there is not much local storage on your Chromebook; however, if you have saved an image to that space, you can insert it in your Google Doc using the following procedure. 
+In addition to inserting images from URL, you may need to insert images that are on your computer locally. We previously discussed that there is not much local storage on your Chromebook; however, if you have saved an image to that space, you can insert it in your Google Doc using the following procedure.
 
 
-First, you'll click on Insert Image Icon and click on the "Upload from computer" from the drop-down menu. On your Chromebook, this will give you access to your Downloads folder. 
+First, you'll click on Insert Image Icon and click on the "Upload from computer" from the drop-down menu. On your Chromebook, this will give you access to your Downloads folder.
 
 
 ![Select "Upload from computer"](https://docs.google.com/presentation/d/1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM/export/png?id=1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM&pageid=g39c29fd30c_0_0)
@@ -180,12 +180,12 @@ Your image will now be inserted in your Google Doc! As mentioned in the previous
 
 #### Inserting a Table
 
-In addition to inserting lists and images, you may find the need to insert tables into your Google Docs. To do so, you'll make sure your cursor is in your Google Doc where you'd like to insert the table and then click on "Insert" from the menu along the top of your Google Doc. From the drop-down menu, you'll click on Table. 
+In addition to inserting lists and images, you may find the need to insert tables into your Google Docs. To do so, you'll make sure your cursor is in your Google Doc where you'd like to insert the table and then click on "Insert" from the menu along the top of your Google Doc. From the drop-down menu, you'll click on Table.
 
 
 ![Insert table](https://docs.google.com/presentation/d/1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM/export/png?id=1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM&pageid=g39c29fd30c_2_29)
 
-This will expose an additional menu from which you'll select how many columns and rows you want the table to have. For example, if you want a table with 4 columns and two rows, you'll highlight that in the squares that pop up and click once. 
+This will expose an additional menu from which you'll select how many columns and rows you want the table to have. For example, if you want a table with 4 columns and two rows, you'll highlight that in the squares that pop up and click once.
 
 
 ![Insert table using highlighted cells](https://docs.google.com/presentation/d/1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM/export/png?id=1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM&pageid=g39c29fd30c_2_34)
@@ -196,7 +196,7 @@ In this case, a 4x2 (meaning 4 columns and 2 rows) has been inserted in your doc
 ![table inserted within a Google Doc](https://docs.google.com/presentation/d/1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM/export/png?id=1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM&pageid=g39c29fd30c_2_39)
 
 You can then click in the squares of the table to add text to your table. Note that all of the formatting discussed earlier in this lesson still applies within a table. You can change the font, font size, and color of text within a table.
-  
+
 Finally, to change additional things within your table, you can always put your cursor in the table and right-click to expose a drop-down menu, and make a selection from that list. If you need additional columns or rows or to delete columns or rows, that can be accomplished in this manner.
 
 
@@ -220,7 +220,7 @@ For sharing documents you can follow the procedure we learned in the lesson on G
 
 ### More specifics on using Google Docs
 
-This lesson has covered a number of helpful features within Google Docs. There are many more capabilities within this application, so feel free to play around and check out additional resources here and on the web.  For example, there are many tutorials for using Drive on YouTube.com. 
+This lesson has covered a number of helpful features within Google Docs. There are many more capabilities within this application, so feel free to play around and check out additional resources here and on the web.  For example, there are many tutorials for using Drive on YouTube.com.
 
 Google also has extensive information on getting started with Drive on their G Suite Learning Center, which can be found at the following web address: https://gsuite.google.com/learning-center/products/docs/get-started/#!/
 
@@ -237,61 +237,3 @@ If you're already familiar with Microsoft Word, Google Docs also operates very s
 ![Google Docs](https://www.youtube.com/watch?v=W-hoROrz7tE)
 
 * [Slides](https://docs.google.com/presentation/d/1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM/edit?usp=sharing)
-
-{quiz, id: quiz_05_docs}
-
-### Google Docs quiz
-
-{choose-answers:4}
-?1 Which one of the following is NOT true about Google Docs?
-
-C) It only works online.
-C) It requires two-factor authentication.
-C) It requires a separate login from other Google accounts.
-o) It's free.
-o) It autosaves the most recent changes.
-o) You can export files as .docx and .pdf.
-o) It allows you to write text documents.
-
-{choose-answers:4}
-?2 To change the font size within a table, you would:
-
-C) click on the text within the table, click on the font size icon in the toolbar, and click on the size you want the text to be
-C) select text in table, click font size icon, and choose size
-o) click on Insert > table and modify font size from that menu
-o) not be able to. Google Docs does not have this functionality
-o) click on text outside the table, click on the font size icon in the toolbar, and click on the size you want the text to be
-o) click on text outside the table and say out loud the font size you want it to be
-o) copy the text into Google Sheets, since that's the only product that allows text size to be altered
-
-
-{choose-answers:4}
-?3 From what source can you NOT include a photo within Google Docs?
-
-C) someone else's computer 
-C) some else's restricted directory on the cloud 
-o) your computer
-o) a website
-o) Google Drive
-o) a URL
-o) Camera
-
-{choose-answers:4}
-?4 If you wanted your paragraph to be flush with both the left- and right-sides of your document, what alignment would you choose?
-
-C) justified
-o) left
-o) right
-o) center
-o) middle
-
-{choose-answers:4}
-?4 If you wanted your paragraph to be flush with the left-side of your document (but not necessarily aligned on the right), what alignment would you choose?
-
-C) left
-o) justified
-o) right
-o) center
-o) middle
-
-{/quiz}

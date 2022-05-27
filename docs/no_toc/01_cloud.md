@@ -31,34 +31,3 @@ There are also concerns with the privacy and security of data that is stored rem
 ![What is the Cloud?](https://www.youtube.com/watch?v=ucaMPCYxqvY)
 
 * [Slides](https://docs.google.com/presentation/d/1ZJcA83EHDsMXevkZd7ALGNj4s4QufKag8WyS_-G4Sa4/edit?usp=sharing)
-
-
-{quiz, id: quiz_00_cloud}
-
-### What is the Cloud quiz
-
-{choose-answers:4}
-? When using cloud-based storage and computing, what is your local computer (i.e. your Chromebook) used for?
-
-C) Connecting to the Internet to access the cloud
-C) Providing an interface to the cloud via the Internet
-C) Running the software that interfaces with the Internet
-o) Writing the software you'll need to download the cloud
-o) Saving all your files and software
-o) Downloading new versions of software after each update
-o) It acts as a modem to access the cloud.
-o) It acts as a circuit to access the cloud.
-
-
-{choose-answers:4}
-? Which one of the following is NOT an advantage of using cloud-based storage or computing?
-
-C) You need access to Internet to access your files
-C) Using the cloud requires Internet access
-C) Cloud computing raises new privacy and security concerns
-o) Remote computers are more powerful than local storage
-o) You won't lose your files if you lose your computer
-o) You can access your files everywhere
-o) You don't have to download and install a new version of software each time updates are made and a new version is released.
-
-{/quiz}
