@@ -1,16 +1,16 @@
-# Basecamp
+# Slack
 
-Basecamp is a messaging platform designed to help you communicate with others in your workplace. Think of it like a group chat, but for work-related subjects. A lot of companies and workplaces look down on using Facebook and Twitter for communication, seeing them more as *just* social media platforms, rather than effective platforms for communication at work. Some places even ban the use of these platforms. However, Basecamp is being used by more and more companies as a communication tool.
+Slack is a messaging platform designed to help you communicate with others in your workplace. Think of it like a group chat, but for work-related subjects. A lot of companies and workplaces look down on using Facebook and Twitter for communication, seeing them more as *just* social media platforms, rather than effective platforms for communication at work. Some places even ban the use of these platforms. However, Slack is being used by more and more companies as a communication tool.
 
-We covered how to get a Basecamp login in the introductory course, but we didn't discuss the details of how to use Basecamp. So, in this lesson, we'll pick up from where you last left off (with a Basecamp login in hand) and discuss why Basecamp has become the platform for communication within companies and how to get started using Basecamp.
+We covered how to get a Slack login in the introductory course, but we didn't discuss the details of how to use Slack. So, in this lesson, we'll pick up from where you last left off (with a Slack login in hand) and discuss why Slack has become the platform for communication within companies and how to get started using Slack.
 
-### How to Access Basecamp?
+### How to Access Slack?
 
-To get started, go to Basecamp online at [slack.com/signin](slack.com/signin). We'll note here that Basecamp also has a mobile app, so if you'd like to check those out, feel free. But, in this lesson, we'll work from the Chrome browser, without an app.
+To get started, go to Slack online at [slack.com/signin](slack.com/signin). We'll note here that Slack also has a mobile app, so if you'd like to check those out, feel free. But, in this lesson, we'll work from the Chrome browser, without an app.
 
-### Basecamp is organized into teams and projects
+### Slack is organized into teams and projects
 
-If you're new to Basecamp, you will not *yet* be a member of any teams, and that's ok! If you ask people who have been using Basecamp for a while, they'll envy you. You'll see over time that you'll likely become a member of many different Basecamp teams!
+If you're new to Slack, you will not *yet* be a member of any teams, and that's ok! If you ask people who have been using Slack for a while, they'll envy you. You'll see over time that you'll likely become a member of many different Slack teams!
 
 For now though, we'll walk through how to start your own team to get you acquainted with the features of Slack.
 
@@ -31,12 +31,12 @@ You'll then be asked for your email, which you should enter and then click "Conf
 
 ![Enter email to continue](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_5)
 
-At this point, you may see a screen asking for a 6-digit code. Go to the e-mail address you entered and look for this six-digit code in an email from Basecamp. Enter this code in this window.
+At this point, you may see a screen asking for a 6-digit code. Go to the e-mail address you entered and look for this six-digit code in an email from Slack. Enter this code in this window.
 
 
 ![Enter six-digit code from email](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_299)
 
-After entering the six-digit code correctly, you'll automatically be brought to a screen where you will be asked for your full name and your display name. Your display name will be the name that others see when you message within Basecamp. It's okay if this is your full name or a shortened version of your full name -- as long as the people in the team will know who you are when they see it, then that will work for your display name. Once that information has been entered, click "Continue to Password."
+After entering the six-digit code correctly, you'll automatically be brought to a screen where you will be asked for your full name and your display name. Your display name will be the name that others see when you message within Slack. It's okay if this is your full name or a shortened version of your full name -- as long as the people in the team will know who you are when they see it, then that will work for your display name. Once that information has been entered, click "Continue to Password."
 
 
 ![Enter full name and display name](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_304)
@@ -49,7 +49,7 @@ You will also have to enter your password. After choosing a strong password and 
 At this point, you're ready to start creating your team! You'll be asked what your team will be used for. For this example we'll select "School" from the drop-down menu and fill in the rest of the information Slack asks for about our team. Once the information has all been filled out, click on "Continue to Group Name."
 
 
-![Tell Basecamp about your team](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_20)
+![Tell Slack about your team](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_20)
 
 You'll be asked what your group should be called. For this example, we'll call the group "Schoolwork." This is what will be displayed to all members of the team who use this workspace. You will enter this name and then click "Continue to Workspace URL."
 
@@ -61,7 +61,7 @@ Now, you'll enter your Workspace URL. This is what URL you will use to sign into
 
 ![Choose a URL](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_30)
 
-You'll be prompted to review the terms. After reviewing the terms of service, click "I Agree" if you agree to follow Basecamp's terms.
+You'll be prompted to review the terms. After reviewing the terms of service, click "I Agree" if you agree to follow Slack's terms.
 
 
 ![Agree to terms of service](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_35)
@@ -76,12 +76,12 @@ You're almost there! You'll now be asked if you want to download the App or cont
 
 ![Continue in the browser](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_45)
 
-Welcome to your very own workspace! We'll now walk through Basecamp to get you acquainted with messaging in Slack. At the bottom right-hand of the window, there will be a screen welcoming you to Slack.
+Welcome to your very own workspace! We'll now walk through Slack to get you acquainted with messaging in Slack. At the bottom right-hand of the window, there will be a screen welcoming you to Slack.
 
 
-![Welcome to Basecamp!](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_50)
+![Welcome to Slack!](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_50)
 
-If you click on "Let's go," you'll be brought to a screen that you can scroll through using the white arrows at the left and right. Scrolling through these will display different windows that explain the main functions of Slack: channels, messages, and uploading documents. We'll walk through those basics now, but feel free to come back to these later and look through Basecamp's instructions as well by clicking on "Try it now"!
+If you click on "Let's go," you'll be brought to a screen that you can scroll through using the white arrows at the left and right. Scrolling through these will display different windows that explain the main functions of Slack: channels, messages, and uploading documents. We'll walk through those basics now, but feel free to come back to these later and look through Slack's instructions as well by clicking on "Try it now"!
 
 
 ![Slack's main functions](https://docs.google.com/presentation/d/1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM/export/png?id=1MRilsnUC53namMrkqA9O7MkBybbQ4JKTvVNFlomkMuM&pageid=g3ac1fdf3a4_0_55)
