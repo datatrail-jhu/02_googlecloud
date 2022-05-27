@@ -17,12 +17,12 @@ To the left of the scheduling window, you can see the different calendars availa
 
 ### Scheduling and editing events
 
-Right now there is nothing scheduled on this calendar.  To create a new event, click on the red button with the plus-sign in the bottom right corner of the page. 
+Right now there is nothing scheduled on this calendar.  To create a new event, click on the red button with the plus-sign in the bottom right corner of the page.
 
 
 ![Add Event](https://docs.google.com/presentation/d/1t74f2Xf4h8Hoq8wK2LdI4H35d57Ty8Vpm1ifMuD5y9o/export/png?id=1t74f2Xf4h8Hoq8wK2LdI4H35d57Ty8Vpm1ifMuD5y9o&pageid=g39e0766487_3_10)
 
-After clicking this button, a new page will be loaded where you can name the event, assign the event start time and end time as well as date, location, and description. 
+After clicking this button, a new page will be loaded where you can name the event, assign the event start time and end time as well as date, location, and description.
 
 
 ![Event settings](https://docs.google.com/presentation/d/1t74f2Xf4h8Hoq8wK2LdI4H35d57Ty8Vpm1ifMuD5y9o/export/png?id=1t74f2Xf4h8Hoq8wK2LdI4H35d57Ty8Vpm1ifMuD5y9o&pageid=g3500b71ba7_0_11)
@@ -92,7 +92,7 @@ Here you can see that Jane has the three calendars we talked about set up on her
 
 ### More specifics on using Google Calendar
 
-In this lesson, we have talked briefly about how to create and edit events on Google Calendar, how to create and edit new calendars, and how to use notifications to set reminders for meetings and events.  These are the basics of using Calendar to manage your schedule.  There are many other features that can be used for managing and tracking your time that you may want to eventually explore.  There are many good tutorials for using Calendar on YouTube.com. 
+In this lesson, we have talked briefly about how to create and edit events on Google Calendar, how to create and edit new calendars, and how to use notifications to set reminders for meetings and events.  These are the basics of using Calendar to manage your schedule.  There are many other features that can be used for managing and tracking your time that you may want to eventually explore.  There are many good tutorials for using Calendar on YouTube.com.
 
 Google also has extensive information on getting started with Calendar on their G Suite Learning Center, which can be found at the following web address: https://gsuite.google.com/learning-center/products/calendar/get-started/#!/
 
@@ -101,39 +101,3 @@ Google also has extensive information on getting started with Calendar on their 
 ![Google Calendar](https://www.youtube.com/watch?v=oTwsFeh20FE)
 
 * [Slides](https://docs.google.com/presentation/d/1t74f2Xf4h8Hoq8wK2LdI4H35d57Ty8Vpm1ifMuD5y9o/edit?usp=sharing)
-
-{quiz, id: quiz_03_calendar}
-
-### Google Calendar quiz
-
-?1 TRUE or FALSE: Sharing calendars is a feature of Google Calendar?
-
-A) TRUE
-b) FALSE
-
-?1 TRUE or FALSE: Sharing calendars is *not* a feature of Google Calendar?
-
-a) TRUE
-B) FALSE
-
-?2 TRUE or FALSE: An event entered into your Google Calendar on your computer will be visible when you look at your Google Calendar on your phone.
-
-A) TRUE
-b) FALSE
-
-?2 TRUE or FALSE: An event entered int your Google Calendar on your computer will *not* be visible when you look at your Google Calendar on your phone.
-
-a) TRUE
-B) FALSE
-
-?3 TRUE or FALSE: Reminders should be shut off immediately when using Google Calendars.
-
-a) TRUE
-B) FALSE
-
-?3 TRUE or FALSE: Reminders in Google Calendars should always be set at 5 minutes.
-
-a) TRUE
-B) FALSE
-
-{/quiz}

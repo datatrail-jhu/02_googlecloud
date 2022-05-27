@@ -58,7 +58,7 @@ Deleting files and folders is easy on Google Drive. Simply right-click on the fi
 
 ![Delete file](https://docs.google.com/presentation/d/1y4ZrJSXqxr4eaPkjWrn1M5X9q3m8K9ihRoXUls2TXIs/export/png?id=1y4ZrJSXqxr4eaPkjWrn1M5X9q3m8K9ihRoXUls2TXIs&pageid=g3aa91599a1_0_84)
 
-You can delete multiple files or folders at once by first selecting them all while holding the Ctrl key. Once selected, you can right-click and delete them with the "Remove" option on the menu. 
+You can delete multiple files or folders at once by first selecting them all while holding the Ctrl key. Once selected, you can right-click and delete them with the "Remove" option on the menu.
 
 ### File Recovery
 
@@ -96,7 +96,7 @@ Next, go to [Google Drive settings](drive.google.com/drive/settings) and in the 
 
 You are now ready to work on your files offline! Any changes will sync to Google Drive the next time your Chromebook connects to the Internet.
 
-### Storage limit 
+### Storage limit
 
 Your Google Drive account comes with 15GB of free storage. If this is not enough space, you can pay for more space: $1.99 per month buys  100GB of storage and $9.99 (as of February 2018) buys  1TB of storage. Note that the free 15GB is shared among all Google services, including Gmail and Drive, so, part of your storage may be used by your email attachments.  You can see how much storage you are using in the lower part of the left-hand menu on your home page.  There is also a link here to purchase additional storage.
 
@@ -105,7 +105,7 @@ Your Google Drive account comes with 15GB of free storage. If this is not enough
 
 ### Security
 
-Google Drive encrypts your data before storing it. Encryption is any method that converts data to to encoded version for security purposes. Drive is encrypted using SSL, the same security protocol used on Gmail and other Google services. However, you're still responsible for securing your Google account. 
+Google Drive encrypts your data before storing it. Encryption is any method that converts data to to encoded version for security purposes. Drive is encrypted using SSL, the same security protocol used on Gmail and other Google services. However, you're still responsible for securing your Google account.
 
 Two-Step Verification (also known as two-factor authentication), provides an extra layer of security to your account. This requires you to enter your password and on top of that enter a code that is sent to your phone or email. You've learned about two-step verification in a previous lesson; we strongly recommend you use Google's two-step verification to secure your files on Google Drive.
 
@@ -114,7 +114,7 @@ Two-Step Verification (also known as two-factor authentication), provides an ext
 
 ### More specifics on using Google Drive
 
-In this lesson, we have talked briefly about how to create files and folders in Google Drive, as well as how to delete, recover, and share your files.  There are many other features of Drive that you may want to eventually explore.  There are many tutorials for using Drive on YouTube.com. 
+In this lesson, we have talked briefly about how to create files and folders in Google Drive, as well as how to delete, recover, and share your files.  There are many other features of Drive that you may want to eventually explore.  There are many tutorials for using Drive on YouTube.com.
 
 Google also has extensive information on getting started with Drive on their G Suite Learning Center, which can be found at the following web address: https://gsuite.google.com/learning-center/products/drive/get-started/#!/
 
@@ -123,44 +123,3 @@ Google also has extensive information on getting started with Drive on their G S
 ![Google Drive](https://www.youtube.com/watch?v=5IiKZ6gY0iQ)
 
 * [Slides](https://docs.google.com/presentation/d/1y4ZrJSXqxr4eaPkjWrn1M5X9q3m8K9ihRoXUls2TXIs/edit?usp=sharing)
-
-{quiz, id: quiz_04_drive}
-
-### Google Drive quiz
-
-?1 TRUE or FALSE: "Google Drive is a free service by Google that allows users to upload files without any limit on the size."
-
-a) TRUE
-B) FALSE
-
-
-?1 TRUE or FALSE: "Google Drive is a free service by Google that allows users to upload files to the cloud."
-
-A) TRUE
-b) FALSE
-
-{choose-answers:4}
-?2 What is Google's two-step verification?
-
-C) It is an additional step to increase the security of your Google account.
-C) It is a two-step process that increases security on your Google account.
-o) It allows users to two more steps in addition to entering their password.
-o) It is for Google to shorten the time of logging in.
-o) It asks for users' valid identification such as driver's license.
-o) It is a process that removes the need for a password.
-o) It is a two-step process that decreases the security on your Google account.
-
-{choose-answers:4}
-?3 Which of the following statements is FALSE?
-
-C) Files can't be accessed offline.
-C) Google Drive only allows files to be shared when offline
-o) Once files that exist in the trash folder are deleted, they can no longer be recovered.
-o) Files can be shared with anyone on Google Drive.
-o) Google Drive can store Sheets, Docs, and Slides.
-o) Google Drive allows files to be uploaded from your local computer.
-o) Google drive allows organization into different folders.
-
-{/quiz}
-
-
