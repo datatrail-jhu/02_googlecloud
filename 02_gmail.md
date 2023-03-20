@@ -119,6 +119,6 @@ In this tutorial, you can find additional information about creating and sending
 
 ### Slides and Video
 
-![Using Gmail for Email Communications](https://www.youtube.com/watch?v=fmZIMAO3sCA)
+[Automated Videos](https://www.youtube.com/watch?v=fmZIMAO3sCA)
 
 * [Slides](https://docs.google.com/presentation/d/1qRfIt3P6JLioc1-NpDbtdUF5CEMSS71_yXmRRWW7KLA/edit?usp=sharing)

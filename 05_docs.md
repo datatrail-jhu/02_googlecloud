@@ -234,6 +234,6 @@ If you're already familiar with Microsoft Word, Google Docs also operates very s
 
 ### Slides and Video
 
-![Google Docs](https://www.youtube.com/watch?v=W-hoROrz7tE)
+[Automated Videos](https://www.youtube.com/watch?v=W-hoROrz7tE)
 
 * [Slides](https://docs.google.com/presentation/d/1Z8iXcc046CvMC7dbCItTSBT2-yBVuuNSEDGKAe3FYhM/edit?usp=sharing)

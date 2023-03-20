@@ -62,6 +62,6 @@ Overall, YouTube is be a great place to go to for finding answers to your questi
 
 ### Slides and Video
 
-![YouTube](https://www.youtube.com/watch?v=b1uqL-6EqjQ)
+[Automated Videos](https://www.youtube.com/watch?v=b1uqL-6EqjQ)
 
 * [Slides](https://docs.google.com/presentation/d/1lLk0rFZaKOUSzSSw_6pPhvwqR-L2eusmaw0yc-qQADI/edit?usp=sharing)

@@ -145,6 +145,6 @@ Google also has extensive information on getting started with Drive on their G S
 
 ### Slides and Video
 
-![Google Sheets](https://www.youtube.com/watch?v=UT_BDoLoPG0)
+[Automated Videos](https://www.youtube.com/watch?v=UT_BDoLoPG0)
 
 * [Slides](https://docs.google.com/presentation/d/1IDBbmKBIdsMWB7JvHQSrWlgAPieU-S0lJfBJL5j4hT4/edit?usp=sharing)
